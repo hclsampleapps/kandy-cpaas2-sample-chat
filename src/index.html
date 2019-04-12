@@ -1,0 +1,110 @@
+<html>
+
+<head>
+    <title>Chat App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div>
+        <h2>Chat App</h2>
+        <div>
+            <h4>Authenticate using your account information</h4>
+            <div>
+                <ul>
+                    <li>
+                        <label>Server URL:</label>
+                        <input type="text" id="serverUrl" class="long">
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <ul class="inline">
+                    <li>
+                        <input type="radio" name="optionsRadios" id="passwordGrant" checked>
+                        <label>Password Grant </label>
+                    </li>
+                    <li>
+                        <input type="radio" name="optionsRadios" id="clientCred">
+                        <label>Client Credentials</label>
+                    </li>
+                </ul>
+                <div id="passwordID">
+                    <ul>
+                        <li>
+                            <label>Client ID:</label>
+                            <input type="text" id="clientId" />
+                        </li>
+                        <li>
+                            <label>User Email:</label>
+                            <input type="text" id="userEmail" />
+                        </li>
+                        <li>
+                            <label>Password:</label>
+                            <input type="password" id="password" />
+                        </li>
+                        <li>
+                            <label>Phone Number:</label>
+                            <input type="text" id="sms-number-from" />
+                        </li>
+                    </ul>
+                    <!-- Create the Login button with the action. -->
+                    <p>
+                        <button type="button" onclick="loginByPasswordGrant()" id="loginByPwdBtn">Login</button> </p>
+                </div>
+                <div id="clientCredID">
+                    <ul>
+                        <li>
+                            <label>Project Private Key:</label>
+                            <input type="text" id="privateKey" />
+                        </li>
+                        <li>
+                            <label>Project Private Secret:</label>
+                            <input type="text" id="privateSecret" />
+                        </li>
+                    </ul>
+                    <button type="button" onclick="loginByClientCred()" id="loginByProjCredBtn">Login</button>
+                </div>
+            </div>
+        </div>
+        <div>
+            <h4>Subscribe to Chat Service on Websocket Channel</h4>
+            <p><input type="button" value="Subscribe" onclick="subscribe();" /></p>
+        </div>
+        <div>
+            <h4>Conversations</h4>
+            <ul>
+                <li>
+                    <b>Step 1:</b>
+                        <label>Enter their contact information:</label>
+                        <input type="text" id="convo-participant" class="long" 
+                            placeholder="Full user ID or phone number (in E164 format)" 
+                            title="e.g.,&#13;&bull; User ID: janedoe@somedomain.com&#13;   ([userId]@[domain])&#13;&bull; Phone Number: +12223334444&#13;   (+[countryCode][areaCode][subscriberNumber])" />
+                </li>
+                <li>
+                    <b>Step 2:</b>
+                        <label>Create!</label>
+                        <input type="button" value="Create" onclick="createConvo();" />
+                </li>
+            </ul>
+        </div>
+        <div>
+            <p><b>Chat History</b></p>
+            <div id="convo-messages" class="box"></div>
+            <p>
+                <b>Message:</b>
+                <input type="text" placeholder="Type your message here" id="message-text" class="long" />
+                <input type="button" value="Send" onclick="sendMessage();" />
+            </p>
+        </div>
+        <div class="terminal-wrapper">
+            <label><b>Terminal</b></label>
+            <div id="terminal"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/kandy.js"></script>
+    <script type="text/javascript" src="js/utility.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+</body>
+
+</html>
