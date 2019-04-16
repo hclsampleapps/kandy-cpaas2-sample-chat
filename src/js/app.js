@@ -1,15 +1,13 @@
 /**
  * CPaaS Authentication Demo
  */
-var changeView;
-var showhideView;
 var serverBase;
 var mHostUrl;
 var client;
 const tokenAPI = '/cpaas/auth/v1/token'
 
 whenReady(function() {
-    changeView = new ChangeView();
+    let changeView = new ChangeView();
     changeView.showPasswordGrant();
 });
 
