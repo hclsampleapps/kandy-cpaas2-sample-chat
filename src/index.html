@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 
 <head>
@@ -48,18 +49,16 @@
                             <input type="text" id="sms-number-from" />
                         </li>
                     </ul>
-                    <!-- Create the Login button with the action. -->
-                    <p>
-                        <button type="button" onclick="loginByPasswordGrant()" id="loginByPwdBtn">Login</button> </p>
+                    <button type="button" onclick="loginByPasswordGrant()" id="loginByPwdBtn">Login</button>
                 </div>
                 <div id="clientCredID">
                     <ul>
                         <li>
-                            <label>Project Private Key:</label>
+                            <label>Private project key:</label>
                             <input type="text" id="privateKey" />
                         </li>
                         <li>
-                            <label>Project Private Secret:</label>
+                            <label>Private project secret:</label>
                             <input type="text" id="privateSecret" />
                         </li>
                     </ul>
@@ -69,7 +68,7 @@
         </div>
         <div>
             <h4>Subscribe to Chat Service on Websocket Channel</h4>
-            <p><input type="button" value="Subscribe" onclick="subscribe();" /></p>
+            <p><button type="button" onclick="subscribe()">Subscribe</button></p>
         </div>
         <div>
             <h4>Conversations</h4>
@@ -84,7 +83,7 @@
                 <li>
                     <b>Step 2:</b>
                         <label>Create!</label>
-                        <input type="button" value="Create" onclick="createConvo();" />
+                        <button type="button" onclick="createConvo()">Create</button>
                 </li>
             </ul>
         </div>
@@ -94,7 +93,7 @@
             <p>
                 <b>Message:</b>
                 <input type="text" placeholder="Type your message here" id="message-text" class="long" />
-                <input type="button" value="Send" onclick="sendMessage();" />
+                <button type="button" onclick="sendMessage()">Send</button>
             </p>
         </div>
         <div class="terminal-wrapper">
