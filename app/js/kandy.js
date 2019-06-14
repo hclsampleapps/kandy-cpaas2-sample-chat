@@ -1,7 +1,7 @@
 /**
  * Kandy.js (Next)
  * kandy.cpaas2.js
- * Version: 3.0.0-beta.38849
+ * Version: 3.3.0
  */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
@@ -104,126 +104,126 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ "../../node_modules/babel-runtime/core-js/array/from.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/array/from.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/array/from.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/json/stringify.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/json/stringify.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/json/stringify.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/map.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/map.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/map.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/assign.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/assign.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/assign.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/create.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/create.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/define-properties.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/define-properties.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-properties.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/define-property.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/define-property.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-property.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/entries.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/entries.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/entries.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/freeze.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/freeze.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/freeze.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/get-own-property-descriptor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-own-property-descriptor.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/get-own-property-symbols.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/get-own-property-symbols.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-own-property-symbols.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/get-prototype-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/get-prototype-of.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-prototype-of.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/keys.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/keys.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/object/values.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/object/values.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/values.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/promise.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/promise.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/promise.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/symbol.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/symbol/index.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/index.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/symbol/for.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/symbol/for.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/for.js"), __esModule: true };
 
 /***/ }),
 
 /***/ "../../node_modules/babel-runtime/core-js/symbol/iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = { "default": __webpack_require__("../../node_modules/core-js/library/fn/symbol/iterator.js"), __esModule: true };
+module.exports = { "default": __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/iterator.js"), __esModule: true };
 
 /***/ }),
 
@@ -257,20 +257,42 @@ exports.default = _assign2.default || function (target) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/array/from.js":
+/***/ "../../node_modules/babel-runtime/helpers/objectWithoutProperties.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.string.iterator.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.array.from.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Array.from;
+"use strict";
+
+
+exports.__esModule = true;
+
+exports.default = function (obj, keys) {
+  var target = {};
+
+  for (var i in obj) {
+    if (keys.indexOf(i) >= 0) continue;
+    if (!Object.prototype.hasOwnProperty.call(obj, i)) continue;
+    target[i] = obj[i];
+  }
+
+  return target;
+};
+
+/***/ }),
+
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/array/from.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.from.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Array.from;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/json/stringify.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/json/stringify.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
 var $JSON = core.JSON || (core.JSON = { stringify: JSON.stringify });
 module.exports = function stringify(it) { // eslint-disable-line no-unused-vars
   return $JSON.stringify.apply($JSON, arguments);
@@ -279,35 +301,35 @@ module.exports = function stringify(it) { // eslint-disable-line no-unused-vars
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/map.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/map.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.to-string.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.string.iterator.js");
-__webpack_require__("../../node_modules/core-js/library/modules/web.dom.iterable.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.map.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.map.to-json.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.map.of.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.map.from.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Map;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.to-string.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.map.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.to-json.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.of.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.from.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Map;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/assign.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/assign.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.assign.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.assign;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.assign.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.assign;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.create.js");
-var $Object = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.create.js");
+var $Object = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object;
 module.exports = function create(P, D) {
   return $Object.create(P, D);
 };
@@ -315,11 +337,11 @@ module.exports = function create(P, D) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/define-properties.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-properties.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.define-properties.js");
-var $Object = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-properties.js");
+var $Object = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object;
 module.exports = function defineProperties(T, D) {
   return $Object.defineProperties(T, D);
 };
@@ -327,11 +349,11 @@ module.exports = function defineProperties(T, D) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/define-property.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/define-property.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.define-property.js");
-var $Object = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-property.js");
+var $Object = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object;
 module.exports = function defineProperty(it, key, desc) {
   return $Object.defineProperty(it, key, desc);
 };
@@ -339,29 +361,29 @@ module.exports = function defineProperty(it, key, desc) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/entries.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/entries.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es7.object.entries.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.entries;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.object.entries.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.entries;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/freeze.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/freeze.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.freeze.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.freeze;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.freeze.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.freeze;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js");
-var $Object = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js");
+var $Object = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object;
 module.exports = function getOwnPropertyDescriptor(it, key) {
   return $Object.getOwnPropertyDescriptor(it, key);
 };
@@ -369,88 +391,88 @@ module.exports = function getOwnPropertyDescriptor(it, key) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/get-own-property-symbols.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-own-property-symbols.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.symbol.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.getOwnPropertySymbols;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.getOwnPropertySymbols;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/get-prototype-of.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/get-prototype-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.getPrototypeOf;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.get-prototype-of.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.getPrototypeOf;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/keys.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.keys.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.keys;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.keys.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.keys;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/object/values.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/object/values.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es7.object.values.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Object.values;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.object.values.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Object.values;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/promise.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/promise.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.to-string.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.string.iterator.js");
-__webpack_require__("../../node_modules/core-js/library/modules/web.dom.iterable.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.promise.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.promise.finally.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.promise.try.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Promise;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.to-string.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.promise.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.promise.finally.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.promise.try.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Promise;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/symbol/for.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/for.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.symbol.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Symbol['for'];
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Symbol['for'];
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/symbol/index.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.symbol.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es6.object.to-string.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js");
-__webpack_require__("../../node_modules/core-js/library/modules/es7.symbol.observable.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").Symbol;
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.to-string.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.async-iterator.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.observable.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").Symbol;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/fn/symbol/iterator.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/fn/symbol/iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.string.iterator.js");
-__webpack_require__("../../node_modules/core-js/library/modules/web.dom.iterable.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_wks-ext.js").f('iterator');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js");
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js").f('iterator');
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_a-function.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js":
 /***/ (function(module, exports) {
 
 module.exports = function (it) {
@@ -461,7 +483,7 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_add-to-unscopables.js":
 /***/ (function(module, exports) {
 
 module.exports = function () { /* empty */ };
@@ -469,7 +491,7 @@ module.exports = function () { /* empty */ };
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_an-instance.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-instance.js":
 /***/ (function(module, exports) {
 
 module.exports = function (it, Constructor, name, forbiddenField) {
@@ -481,10 +503,10 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_an-object.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
 module.exports = function (it) {
   if (!isObject(it)) throw TypeError(it + ' is not an object!');
   return it;
@@ -493,10 +515,10 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_array-from-iterable.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-from-iterable.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var forOf = __webpack_require__("../../node_modules/core-js/library/modules/_for-of.js");
+var forOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js");
 
 module.exports = function (iter, ITERATOR) {
   var result = [];
@@ -507,14 +529,14 @@ module.exports = function (iter, ITERATOR) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_array-includes.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-includes.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // false -> Array#indexOf
 // true  -> Array#includes
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var toLength = __webpack_require__("../../node_modules/core-js/library/modules/_to-length.js");
-var toAbsoluteIndex = __webpack_require__("../../node_modules/core-js/library/modules/_to-absolute-index.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var toLength = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js");
+var toAbsoluteIndex = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-absolute-index.js");
 module.exports = function (IS_INCLUDES) {
   return function ($this, el, fromIndex) {
     var O = toIObject($this);
@@ -537,7 +559,7 @@ module.exports = function (IS_INCLUDES) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_array-methods.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-methods.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 0 -> Array#forEach
@@ -547,11 +569,11 @@ module.exports = function (IS_INCLUDES) {
 // 4 -> Array#every
 // 5 -> Array#find
 // 6 -> Array#findIndex
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var IObject = __webpack_require__("../../node_modules/core-js/library/modules/_iobject.js");
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var toLength = __webpack_require__("../../node_modules/core-js/library/modules/_to-length.js");
-var asc = __webpack_require__("../../node_modules/core-js/library/modules/_array-species-create.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var IObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var toLength = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js");
+var asc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-species-create.js");
 module.exports = function (TYPE, $create) {
   var IS_MAP = TYPE == 1;
   var IS_FILTER = TYPE == 2;
@@ -588,12 +610,12 @@ module.exports = function (TYPE, $create) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_array-species-constructor.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-species-constructor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var isArray = __webpack_require__("../../node_modules/core-js/library/modules/_is-array.js");
-var SPECIES = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('species');
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var isArray = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array.js");
+var SPECIES = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('species');
 
 module.exports = function (original) {
   var C;
@@ -611,11 +633,11 @@ module.exports = function (original) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_array-species-create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-species-create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 9.4.2.3 ArraySpeciesCreate(originalArray, length)
-var speciesConstructor = __webpack_require__("../../node_modules/core-js/library/modules/_array-species-constructor.js");
+var speciesConstructor = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-species-constructor.js");
 
 module.exports = function (original, length) {
   return new (speciesConstructor(original))(length);
@@ -624,12 +646,12 @@ module.exports = function (original, length) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_classof.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_classof.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // getting tag from 19.1.3.6 Object.prototype.toString()
-var cof = __webpack_require__("../../node_modules/core-js/library/modules/_cof.js");
-var TAG = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('toStringTag');
+var cof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js");
+var TAG = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('toStringTag');
 // ES3 wrong here
 var ARG = cof(function () { return arguments; }()) == 'Arguments';
 
@@ -654,7 +676,7 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_cof.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js":
 /***/ (function(module, exports) {
 
 var toString = {}.toString;
@@ -666,23 +688,23 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_collection-strong.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection-strong.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var dP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f;
-var create = __webpack_require__("../../node_modules/core-js/library/modules/_object-create.js");
-var redefineAll = __webpack_require__("../../node_modules/core-js/library/modules/_redefine-all.js");
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var anInstance = __webpack_require__("../../node_modules/core-js/library/modules/_an-instance.js");
-var forOf = __webpack_require__("../../node_modules/core-js/library/modules/_for-of.js");
-var $iterDefine = __webpack_require__("../../node_modules/core-js/library/modules/_iter-define.js");
-var step = __webpack_require__("../../node_modules/core-js/library/modules/_iter-step.js");
-var setSpecies = __webpack_require__("../../node_modules/core-js/library/modules/_set-species.js");
-var DESCRIPTORS = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js");
-var fastKey = __webpack_require__("../../node_modules/core-js/library/modules/_meta.js").fastKey;
-var validate = __webpack_require__("../../node_modules/core-js/library/modules/_validate-collection.js");
+var dP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f;
+var create = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js");
+var redefineAll = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine-all.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var anInstance = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-instance.js");
+var forOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js");
+var $iterDefine = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js");
+var step = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-step.js");
+var setSpecies = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-species.js");
+var DESCRIPTORS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js");
+var fastKey = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js").fastKey;
+var validate = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_validate-collection.js");
 var SIZE = DESCRIPTORS ? '_s' : 'size';
 
 var getEntry = function (that, key) {
@@ -818,12 +840,12 @@ module.exports = {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_collection-to-json.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection-to-json.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://github.com/DavidBruant/Map-Set.prototype.toJSON
-var classof = __webpack_require__("../../node_modules/core-js/library/modules/_classof.js");
-var from = __webpack_require__("../../node_modules/core-js/library/modules/_array-from-iterable.js");
+var classof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_classof.js");
+var from = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-from-iterable.js");
 module.exports = function (NAME) {
   return function toJSON() {
     if (classof(this) != NAME) throw TypeError(NAME + "#toJSON isn't generic");
@@ -834,24 +856,24 @@ module.exports = function (NAME) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_collection.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var meta = __webpack_require__("../../node_modules/core-js/library/modules/_meta.js");
-var fails = __webpack_require__("../../node_modules/core-js/library/modules/_fails.js");
-var hide = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
-var redefineAll = __webpack_require__("../../node_modules/core-js/library/modules/_redefine-all.js");
-var forOf = __webpack_require__("../../node_modules/core-js/library/modules/_for-of.js");
-var anInstance = __webpack_require__("../../node_modules/core-js/library/modules/_an-instance.js");
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var setToStringTag = __webpack_require__("../../node_modules/core-js/library/modules/_set-to-string-tag.js");
-var dP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f;
-var each = __webpack_require__("../../node_modules/core-js/library/modules/_array-methods.js")(0);
-var DESCRIPTORS = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var meta = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js");
+var fails = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js");
+var hide = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
+var redefineAll = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine-all.js");
+var forOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js");
+var anInstance = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-instance.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var setToStringTag = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js");
+var dP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f;
+var each = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-methods.js")(0);
+var DESCRIPTORS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js");
 
 module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
   var Base = global[NAME];
@@ -901,7 +923,7 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_core.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js":
 /***/ (function(module, exports) {
 
 var core = module.exports = { version: '2.5.7' };
@@ -910,13 +932,13 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_create-property.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_create-property.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var $defineProperty = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js");
-var createDesc = __webpack_require__("../../node_modules/core-js/library/modules/_property-desc.js");
+var $defineProperty = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js");
+var createDesc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js");
 
 module.exports = function (object, index, value) {
   if (index in object) $defineProperty.f(object, index, createDesc(0, value));
@@ -926,11 +948,11 @@ module.exports = function (object, index, value) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_ctx.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // optional / simple context binding
-var aFunction = __webpack_require__("../../node_modules/core-js/library/modules/_a-function.js");
+var aFunction = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js");
 module.exports = function (fn, that, length) {
   aFunction(fn);
   if (that === undefined) return fn;
@@ -953,7 +975,7 @@ module.exports = function (fn, that, length) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_defined.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js":
 /***/ (function(module, exports) {
 
 // 7.2.1 RequireObjectCoercible(argument)
@@ -965,22 +987,22 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_descriptors.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // Thank's IE8 for his funny defineProperty
-module.exports = !__webpack_require__("../../node_modules/core-js/library/modules/_fails.js")(function () {
+module.exports = !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js")(function () {
   return Object.defineProperty({}, 'a', { get: function () { return 7; } }).a != 7;
 });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_dom-create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var document = __webpack_require__("../../node_modules/core-js/library/modules/_global.js").document;
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var document = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js").document;
 // typeof document.createElement is 'object' in old IE
 var is = isObject(document) && isObject(document.createElement);
 module.exports = function (it) {
@@ -990,7 +1012,7 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js":
 /***/ (function(module, exports) {
 
 // IE 8- don't enum bug keys
@@ -1001,13 +1023,13 @@ module.exports = (
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_enum-keys.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // all enumerable object keys, includes symbols
-var getKeys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
-var gOPS = __webpack_require__("../../node_modules/core-js/library/modules/_object-gops.js");
-var pIE = __webpack_require__("../../node_modules/core-js/library/modules/_object-pie.js");
+var getKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
+var gOPS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js");
+var pIE = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js");
 module.exports = function (it) {
   var result = getKeys(it);
   var getSymbols = gOPS.f;
@@ -1023,14 +1045,14 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_export.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var hide = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var hide = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
 var PROTOTYPE = 'prototype';
 
 var $export = function (type, name, source) {
@@ -1092,7 +1114,7 @@ module.exports = $export;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_fails.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js":
 /***/ (function(module, exports) {
 
 module.exports = function (exec) {
@@ -1106,15 +1128,15 @@ module.exports = function (exec) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_for-of.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var call = __webpack_require__("../../node_modules/core-js/library/modules/_iter-call.js");
-var isArrayIter = __webpack_require__("../../node_modules/core-js/library/modules/_is-array-iter.js");
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var toLength = __webpack_require__("../../node_modules/core-js/library/modules/_to-length.js");
-var getIterFn = __webpack_require__("../../node_modules/core-js/library/modules/core.get-iterator-method.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var call = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-call.js");
+var isArrayIter = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array-iter.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var toLength = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js");
+var getIterFn = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/core.get-iterator-method.js");
 var BREAK = {};
 var RETURN = {};
 var exports = module.exports = function (iterable, entries, fn, that, ITERATOR) {
@@ -1138,7 +1160,7 @@ exports.RETURN = RETURN;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_global.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js":
 /***/ (function(module, exports) {
 
 // https://github.com/zloirock/core-js/issues/86#issuecomment-115759028
@@ -1151,7 +1173,7 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_has.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js":
 /***/ (function(module, exports) {
 
 var hasOwnProperty = {}.hasOwnProperty;
@@ -1162,12 +1184,12 @@ module.exports = function (it, key) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_hide.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var dP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js");
-var createDesc = __webpack_require__("../../node_modules/core-js/library/modules/_property-desc.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js") ? function (object, key, value) {
+var dP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js");
+var createDesc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js") ? function (object, key, value) {
   return dP.f(object, key, createDesc(1, value));
 } : function (object, key, value) {
   object[key] = value;
@@ -1177,26 +1199,26 @@ module.exports = __webpack_require__("../../node_modules/core-js/library/modules
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_html.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_html.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var document = __webpack_require__("../../node_modules/core-js/library/modules/_global.js").document;
+var document = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js").document;
 module.exports = document && document.documentElement;
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ie8-dom-define.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = !__webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js") && !__webpack_require__("../../node_modules/core-js/library/modules/_fails.js")(function () {
-  return Object.defineProperty(__webpack_require__("../../node_modules/core-js/library/modules/_dom-create.js")('div'), 'a', { get: function () { return 7; } }).a != 7;
+module.exports = !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js") && !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js")(function () {
+  return Object.defineProperty(__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js")('div'), 'a', { get: function () { return 7; } }).a != 7;
 });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_invoke.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_invoke.js":
 /***/ (function(module, exports) {
 
 // fast apply, http://jsperf.lnkit.com/fast-apply/5
@@ -1219,11 +1241,11 @@ module.exports = function (fn, args, that) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iobject.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // fallback for non-array-like ES3 and non-enumerable old V8 strings
-var cof = __webpack_require__("../../node_modules/core-js/library/modules/_cof.js");
+var cof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js");
 // eslint-disable-next-line no-prototype-builtins
 module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
   return cof(it) == 'String' ? it.split('') : Object(it);
@@ -1232,12 +1254,12 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array-iter.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // check on default Array iterator
-var Iterators = __webpack_require__("../../node_modules/core-js/library/modules/_iterators.js");
-var ITERATOR = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('iterator');
+var Iterators = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js");
+var ITERATOR = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('iterator');
 var ArrayProto = Array.prototype;
 
 module.exports = function (it) {
@@ -1247,11 +1269,11 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_is-array.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 7.2.2 IsArray(argument)
-var cof = __webpack_require__("../../node_modules/core-js/library/modules/_cof.js");
+var cof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js");
 module.exports = Array.isArray || function isArray(arg) {
   return cof(arg) == 'Array';
 };
@@ -1259,7 +1281,7 @@ module.exports = Array.isArray || function isArray(arg) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_is-object.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js":
 /***/ (function(module, exports) {
 
 module.exports = function (it) {
@@ -1269,11 +1291,11 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iter-call.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-call.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // call something on iterator step with safe closing on error
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
 module.exports = function (iterator, fn, value, entries) {
   try {
     return entries ? fn(anObject(value)[0], value[1]) : fn(value);
@@ -1288,18 +1310,18 @@ module.exports = function (iterator, fn, value, entries) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iter-create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var create = __webpack_require__("../../node_modules/core-js/library/modules/_object-create.js");
-var descriptor = __webpack_require__("../../node_modules/core-js/library/modules/_property-desc.js");
-var setToStringTag = __webpack_require__("../../node_modules/core-js/library/modules/_set-to-string-tag.js");
+var create = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js");
+var descriptor = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js");
+var setToStringTag = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js");
 var IteratorPrototype = {};
 
 // 25.1.2.1.1 %IteratorPrototype%[@@iterator]()
-__webpack_require__("../../node_modules/core-js/library/modules/_hide.js")(IteratorPrototype, __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('iterator'), function () { return this; });
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js")(IteratorPrototype, __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('iterator'), function () { return this; });
 
 module.exports = function (Constructor, NAME, next) {
   Constructor.prototype = create(IteratorPrototype, { next: descriptor(1, next) });
@@ -1309,20 +1331,20 @@ module.exports = function (Constructor, NAME, next) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iter-define.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var LIBRARY = __webpack_require__("../../node_modules/core-js/library/modules/_library.js");
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var redefine = __webpack_require__("../../node_modules/core-js/library/modules/_redefine.js");
-var hide = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
-var Iterators = __webpack_require__("../../node_modules/core-js/library/modules/_iterators.js");
-var $iterCreate = __webpack_require__("../../node_modules/core-js/library/modules/_iter-create.js");
-var setToStringTag = __webpack_require__("../../node_modules/core-js/library/modules/_set-to-string-tag.js");
-var getPrototypeOf = __webpack_require__("../../node_modules/core-js/library/modules/_object-gpo.js");
-var ITERATOR = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('iterator');
+var LIBRARY = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var redefine = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine.js");
+var hide = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
+var Iterators = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js");
+var $iterCreate = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-create.js");
+var setToStringTag = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js");
+var getPrototypeOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gpo.js");
+var ITERATOR = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('iterator');
 var BUGGY = !([].keys && 'next' in [].keys()); // Safari has buggy iterators w/o `next`
 var FF_ITERATOR = '@@iterator';
 var KEYS = 'keys';
@@ -1386,10 +1408,10 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-detect.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var ITERATOR = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('iterator');
+var ITERATOR = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('iterator');
 var SAFE_CLOSING = false;
 
 try {
@@ -1415,7 +1437,7 @@ module.exports = function (exec, skipClosing) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iter-step.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-step.js":
 /***/ (function(module, exports) {
 
 module.exports = function (done, value) {
@@ -1425,7 +1447,7 @@ module.exports = function (done, value) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_iterators.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js":
 /***/ (function(module, exports) {
 
 module.exports = {};
@@ -1433,7 +1455,7 @@ module.exports = {};
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_library.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js":
 /***/ (function(module, exports) {
 
 module.exports = true;
@@ -1441,18 +1463,18 @@ module.exports = true;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_meta.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var META = __webpack_require__("../../node_modules/core-js/library/modules/_uid.js")('meta');
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var setDesc = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f;
+var META = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js")('meta');
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var setDesc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f;
 var id = 0;
 var isExtensible = Object.isExtensible || function () {
   return true;
 };
-var FREEZE = !__webpack_require__("../../node_modules/core-js/library/modules/_fails.js")(function () {
+var FREEZE = !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js")(function () {
   return isExtensible(Object.preventExtensions({}));
 });
 var setMeta = function (it) {
@@ -1501,15 +1523,15 @@ var meta = module.exports = {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_microtask.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_microtask.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var macrotask = __webpack_require__("../../node_modules/core-js/library/modules/_task.js").set;
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var macrotask = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_task.js").set;
 var Observer = global.MutationObserver || global.WebKitMutationObserver;
 var process = global.process;
 var Promise = global.Promise;
-var isNode = __webpack_require__("../../node_modules/core-js/library/modules/_cof.js")(process) == 'process';
+var isNode = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js")(process) == 'process';
 
 module.exports = function () {
   var head, last, notify;
@@ -1577,13 +1599,13 @@ module.exports = function () {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_new-promise-capability.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_new-promise-capability.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // 25.4.1.5 NewPromiseCapability(C)
-var aFunction = __webpack_require__("../../node_modules/core-js/library/modules/_a-function.js");
+var aFunction = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js");
 
 function PromiseCapability(C) {
   var resolve, reject;
@@ -1603,21 +1625,21 @@ module.exports.f = function (C) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-assign.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-assign.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // 19.1.2.1 Object.assign(target, source, ...)
-var getKeys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
-var gOPS = __webpack_require__("../../node_modules/core-js/library/modules/_object-gops.js");
-var pIE = __webpack_require__("../../node_modules/core-js/library/modules/_object-pie.js");
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var IObject = __webpack_require__("../../node_modules/core-js/library/modules/_iobject.js");
+var getKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
+var gOPS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js");
+var pIE = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var IObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js");
 var $assign = Object.assign;
 
 // should work with symbols and should have deterministic property order (V8 bug)
-module.exports = !$assign || __webpack_require__("../../node_modules/core-js/library/modules/_fails.js")(function () {
+module.exports = !$assign || __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js")(function () {
   var A = {};
   var B = {};
   // eslint-disable-next-line no-undef
@@ -1645,27 +1667,27 @@ module.exports = !$assign || __webpack_require__("../../node_modules/core-js/lib
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.2 / 15.2.3.5 Object.create(O [, Properties])
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var dPs = __webpack_require__("../../node_modules/core-js/library/modules/_object-dps.js");
-var enumBugKeys = __webpack_require__("../../node_modules/core-js/library/modules/_enum-bug-keys.js");
-var IE_PROTO = __webpack_require__("../../node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var dPs = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dps.js");
+var enumBugKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js");
+var IE_PROTO = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
 var Empty = function () { /* empty */ };
 var PROTOTYPE = 'prototype';
 
 // Create object with fake `null` prototype: use iframe Object with cleared prototype
 var createDict = function () {
   // Thrash, waste and sodomy: IE GC bug
-  var iframe = __webpack_require__("../../node_modules/core-js/library/modules/_dom-create.js")('iframe');
+  var iframe = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js")('iframe');
   var i = enumBugKeys.length;
   var lt = '<';
   var gt = '>';
   var iframeDocument;
   iframe.style.display = 'none';
-  __webpack_require__("../../node_modules/core-js/library/modules/_html.js").appendChild(iframe);
+  __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_html.js").appendChild(iframe);
   iframe.src = 'javascript:'; // eslint-disable-line no-script-url
   // createDict = iframe.contentWindow.Object;
   // html.removeChild(iframe);
@@ -1693,15 +1715,15 @@ module.exports = Object.create || function create(O, Properties) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-dp.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var IE8_DOM_DEFINE = __webpack_require__("../../node_modules/core-js/library/modules/_ie8-dom-define.js");
-var toPrimitive = __webpack_require__("../../node_modules/core-js/library/modules/_to-primitive.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var IE8_DOM_DEFINE = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ie8-dom-define.js");
+var toPrimitive = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js");
 var dP = Object.defineProperty;
 
-exports.f = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js") ? Object.defineProperty : function defineProperty(O, P, Attributes) {
+exports.f = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js") ? Object.defineProperty : function defineProperty(O, P, Attributes) {
   anObject(O);
   P = toPrimitive(P, true);
   anObject(Attributes);
@@ -1716,14 +1738,14 @@ exports.f = __webpack_require__("../../node_modules/core-js/library/modules/_des
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-dps.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dps.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var dP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js");
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var getKeys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
+var dP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var getKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
 
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js") ? Object.defineProperties : function defineProperties(O, Properties) {
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js") ? Object.defineProperties : function defineProperties(O, Properties) {
   anObject(O);
   var keys = getKeys(Properties);
   var length = keys.length;
@@ -1736,18 +1758,18 @@ module.exports = __webpack_require__("../../node_modules/core-js/library/modules
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-gopd.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopd.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var pIE = __webpack_require__("../../node_modules/core-js/library/modules/_object-pie.js");
-var createDesc = __webpack_require__("../../node_modules/core-js/library/modules/_property-desc.js");
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var toPrimitive = __webpack_require__("../../node_modules/core-js/library/modules/_to-primitive.js");
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var IE8_DOM_DEFINE = __webpack_require__("../../node_modules/core-js/library/modules/_ie8-dom-define.js");
+var pIE = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js");
+var createDesc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var toPrimitive = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js");
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var IE8_DOM_DEFINE = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ie8-dom-define.js");
 var gOPD = Object.getOwnPropertyDescriptor;
 
-exports.f = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js") ? gOPD : function getOwnPropertyDescriptor(O, P) {
+exports.f = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js") ? gOPD : function getOwnPropertyDescriptor(O, P) {
   O = toIObject(O);
   P = toPrimitive(P, true);
   if (IE8_DOM_DEFINE) try {
@@ -1759,12 +1781,12 @@ exports.f = __webpack_require__("../../node_modules/core-js/library/modules/_des
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-gopn-ext.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn-ext.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // fallback for IE11 buggy Object.getOwnPropertyNames with iframe and window
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var gOPN = __webpack_require__("../../node_modules/core-js/library/modules/_object-gopn.js").f;
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var gOPN = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn.js").f;
 var toString = {}.toString;
 
 var windowNames = typeof window == 'object' && window && Object.getOwnPropertyNames
@@ -1785,12 +1807,12 @@ module.exports.f = function getOwnPropertyNames(it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-gopn.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.7 / 15.2.3.4 Object.getOwnPropertyNames(O)
-var $keys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys-internal.js");
-var hiddenKeys = __webpack_require__("../../node_modules/core-js/library/modules/_enum-bug-keys.js").concat('length', 'prototype');
+var $keys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys-internal.js");
+var hiddenKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js").concat('length', 'prototype');
 
 exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
   return $keys(O, hiddenKeys);
@@ -1799,7 +1821,7 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-gops.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js":
 /***/ (function(module, exports) {
 
 exports.f = Object.getOwnPropertySymbols;
@@ -1807,13 +1829,13 @@ exports.f = Object.getOwnPropertySymbols;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gpo.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.9 / 15.2.3.2 Object.getPrototypeOf(O)
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var IE_PROTO = __webpack_require__("../../node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var IE_PROTO = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
 var ObjectProto = Object.prototype;
 
 module.exports = Object.getPrototypeOf || function (O) {
@@ -1827,13 +1849,13 @@ module.exports = Object.getPrototypeOf || function (O) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys-internal.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var arrayIndexOf = __webpack_require__("../../node_modules/core-js/library/modules/_array-includes.js")(false);
-var IE_PROTO = __webpack_require__("../../node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var arrayIndexOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_array-includes.js")(false);
+var IE_PROTO = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js")('IE_PROTO');
 
 module.exports = function (object, names) {
   var O = toIObject(object);
@@ -1851,12 +1873,12 @@ module.exports = function (object, names) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-keys.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.14 / 15.2.3.14 Object.keys(O)
-var $keys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys-internal.js");
-var enumBugKeys = __webpack_require__("../../node_modules/core-js/library/modules/_enum-bug-keys.js");
+var $keys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys-internal.js");
+var enumBugKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-bug-keys.js");
 
 module.exports = Object.keys || function keys(O) {
   return $keys(O, enumBugKeys);
@@ -1865,7 +1887,7 @@ module.exports = Object.keys || function keys(O) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-pie.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js":
 /***/ (function(module, exports) {
 
 exports.f = {}.propertyIsEnumerable;
@@ -1873,13 +1895,13 @@ exports.f = {}.propertyIsEnumerable;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-sap.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-sap.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // most Object methods by ES6 should accept primitives
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var fails = __webpack_require__("../../node_modules/core-js/library/modules/_fails.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var fails = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js");
 module.exports = function (KEY, exec) {
   var fn = (core.Object || {})[KEY] || Object[KEY];
   var exp = {};
@@ -1890,12 +1912,12 @@ module.exports = function (KEY, exec) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_object-to-array.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-to-array.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var getKeys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var isEnum = __webpack_require__("../../node_modules/core-js/library/modules/_object-pie.js").f;
+var getKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var isEnum = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js").f;
 module.exports = function (isEntries) {
   return function (it) {
     var O = toIObject(it);
@@ -1913,7 +1935,7 @@ module.exports = function (isEntries) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_perform.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_perform.js":
 /***/ (function(module, exports) {
 
 module.exports = function (exec) {
@@ -1927,12 +1949,12 @@ module.exports = function (exec) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_promise-resolve.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_promise-resolve.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var newPromiseCapability = __webpack_require__("../../node_modules/core-js/library/modules/_new-promise-capability.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var newPromiseCapability = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_new-promise-capability.js");
 
 module.exports = function (C, x) {
   anObject(C);
@@ -1946,7 +1968,7 @@ module.exports = function (C, x) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_property-desc.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js":
 /***/ (function(module, exports) {
 
 module.exports = function (bitmap, value) {
@@ -1961,10 +1983,10 @@ module.exports = function (bitmap, value) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine-all.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var hide = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
+var hide = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
 module.exports = function (target, src, safe) {
   for (var key in src) {
     if (safe && target[key]) target[key] = src[key];
@@ -1975,24 +1997,24 @@ module.exports = function (target, src, safe) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_redefine.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_set-collection-from.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-collection-from.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // https://tc39.github.io/proposal-setmap-offrom/
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var aFunction = __webpack_require__("../../node_modules/core-js/library/modules/_a-function.js");
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var forOf = __webpack_require__("../../node_modules/core-js/library/modules/_for-of.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var aFunction = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var forOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js");
 
 module.exports = function (COLLECTION) {
   $export($export.S, COLLECTION, { from: function from(source /* , mapFn, thisArg */) {
@@ -2019,13 +2041,13 @@ module.exports = function (COLLECTION) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_set-collection-of.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-collection-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // https://tc39.github.io/proposal-setmap-offrom/
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 
 module.exports = function (COLLECTION) {
   $export($export.S, COLLECTION, { of: function of() {
@@ -2039,16 +2061,16 @@ module.exports = function (COLLECTION) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_set-species.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-species.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var dP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js");
-var DESCRIPTORS = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js");
-var SPECIES = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('species');
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var dP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js");
+var DESCRIPTORS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js");
+var SPECIES = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('species');
 
 module.exports = function (KEY) {
   var C = typeof core[KEY] == 'function' ? core[KEY] : global[KEY];
@@ -2061,12 +2083,12 @@ module.exports = function (KEY) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var def = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f;
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var TAG = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('toStringTag');
+var def = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f;
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var TAG = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('toStringTag');
 
 module.exports = function (it, tag, stat) {
   if (it && !has(it = stat ? it : it.prototype, TAG)) def(it, TAG, { configurable: true, value: tag });
@@ -2075,11 +2097,11 @@ module.exports = function (it, tag, stat) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_shared-key.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared-key.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var shared = __webpack_require__("../../node_modules/core-js/library/modules/_shared.js")('keys');
-var uid = __webpack_require__("../../node_modules/core-js/library/modules/_uid.js");
+var shared = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js")('keys');
+var uid = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js");
 module.exports = function (key) {
   return shared[key] || (shared[key] = uid(key));
 };
@@ -2087,11 +2109,11 @@ module.exports = function (key) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_shared.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
 var SHARED = '__core-js_shared__';
 var store = global[SHARED] || (global[SHARED] = {});
 
@@ -2099,20 +2121,20 @@ var store = global[SHARED] || (global[SHARED] = {});
   return store[key] || (store[key] = value !== undefined ? value : {});
 })('versions', []).push({
   version: core.version,
-  mode: __webpack_require__("../../node_modules/core-js/library/modules/_library.js") ? 'pure' : 'global',
-  copyright: 'Ã‚Â© 2018 Denis Pushkarev (zloirock.ru)'
+  mode: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js") ? 'pure' : 'global',
+  copyright: '© 2018 Denis Pushkarev (zloirock.ru)'
 });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_species-constructor.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_species-constructor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 7.3.20 SpeciesConstructor(O, defaultConstructor)
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var aFunction = __webpack_require__("../../node_modules/core-js/library/modules/_a-function.js");
-var SPECIES = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('species');
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var aFunction = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js");
+var SPECIES = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('species');
 module.exports = function (O, D) {
   var C = anObject(O).constructor;
   var S;
@@ -2122,11 +2144,11 @@ module.exports = function (O, D) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_string-at.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_string-at.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var toInteger = __webpack_require__("../../node_modules/core-js/library/modules/_to-integer.js");
-var defined = __webpack_require__("../../node_modules/core-js/library/modules/_defined.js");
+var toInteger = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js");
+var defined = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js");
 // true  -> String#at
 // false -> String#codePointAt
 module.exports = function (TO_STRING) {
@@ -2146,14 +2168,14 @@ module.exports = function (TO_STRING) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_task.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_task.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var invoke = __webpack_require__("../../node_modules/core-js/library/modules/_invoke.js");
-var html = __webpack_require__("../../node_modules/core-js/library/modules/_html.js");
-var cel = __webpack_require__("../../node_modules/core-js/library/modules/_dom-create.js");
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var invoke = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_invoke.js");
+var html = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_html.js");
+var cel = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_dom-create.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
 var process = global.process;
 var setTask = global.setImmediate;
 var clearTask = global.clearImmediate;
@@ -2192,7 +2214,7 @@ if (!setTask || !clearTask) {
     delete queue[id];
   };
   // Node.js 0.8-
-  if (__webpack_require__("../../node_modules/core-js/library/modules/_cof.js")(process) == 'process') {
+  if (__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_cof.js")(process) == 'process') {
     defer = function (id) {
       process.nextTick(ctx(run, id, 1));
     };
@@ -2237,10 +2259,10 @@ module.exports = {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-absolute-index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var toInteger = __webpack_require__("../../node_modules/core-js/library/modules/_to-integer.js");
+var toInteger = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js");
 var max = Math.max;
 var min = Math.min;
 module.exports = function (index, length) {
@@ -2251,7 +2273,7 @@ module.exports = function (index, length) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-integer.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js":
 /***/ (function(module, exports) {
 
 // 7.1.4 ToInteger
@@ -2264,12 +2286,12 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // to indexed object, toObject with fallback for non-array-like ES3 strings
-var IObject = __webpack_require__("../../node_modules/core-js/library/modules/_iobject.js");
-var defined = __webpack_require__("../../node_modules/core-js/library/modules/_defined.js");
+var IObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iobject.js");
+var defined = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js");
 module.exports = function (it) {
   return IObject(defined(it));
 };
@@ -2277,11 +2299,11 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-length.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 7.1.15 ToLength
-var toInteger = __webpack_require__("../../node_modules/core-js/library/modules/_to-integer.js");
+var toInteger = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-integer.js");
 var min = Math.min;
 module.exports = function (it) {
   return it > 0 ? min(toInteger(it), 0x1fffffffffffff) : 0; // pow(2, 53) - 1 == 9007199254740991
@@ -2290,11 +2312,11 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-object.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 7.1.13 ToObject(argument)
-var defined = __webpack_require__("../../node_modules/core-js/library/modules/_defined.js");
+var defined = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_defined.js");
 module.exports = function (it) {
   return Object(defined(it));
 };
@@ -2302,11 +2324,11 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 7.1.1 ToPrimitive(input [, PreferredType])
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
 // instead of the ES6 spec version, we didn't implement @@toPrimitive case
 // and the second argument - flag - preferred type is a string
 module.exports = function (it, S) {
@@ -2321,7 +2343,7 @@ module.exports = function (it, S) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_uid.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js":
 /***/ (function(module, exports) {
 
 var id = 0;
@@ -2333,10 +2355,10 @@ module.exports = function (key) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_user-agent.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_user-agent.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
 var navigator = global.navigator;
 
 module.exports = navigator && navigator.userAgent || '';
@@ -2344,10 +2366,10 @@ module.exports = navigator && navigator.userAgent || '';
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_validate-collection.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_validate-collection.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
 module.exports = function (it, TYPE) {
   if (!isObject(it) || it._t !== TYPE) throw TypeError('Incompatible receiver, ' + TYPE + ' required!');
   return it;
@@ -2356,14 +2378,14 @@ module.exports = function (it, TYPE) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_wks-define.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var LIBRARY = __webpack_require__("../../node_modules/core-js/library/modules/_library.js");
-var wksExt = __webpack_require__("../../node_modules/core-js/library/modules/_wks-ext.js");
-var defineProperty = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f;
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var LIBRARY = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js");
+var wksExt = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js");
+var defineProperty = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f;
 module.exports = function (name) {
   var $Symbol = core.Symbol || (core.Symbol = LIBRARY ? {} : global.Symbol || {});
   if (name.charAt(0) != '_' && !(name in $Symbol)) defineProperty($Symbol, name, { value: wksExt.f(name) });
@@ -2372,20 +2394,20 @@ module.exports = function (name) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_wks-ext.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-exports.f = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js");
+exports.f = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js");
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/_wks.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var store = __webpack_require__("../../node_modules/core-js/library/modules/_shared.js")('wks');
-var uid = __webpack_require__("../../node_modules/core-js/library/modules/_uid.js");
-var Symbol = __webpack_require__("../../node_modules/core-js/library/modules/_global.js").Symbol;
+var store = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js")('wks');
+var uid = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js");
+var Symbol = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js").Symbol;
 var USE_SYMBOL = typeof Symbol == 'function';
 
 var $exports = module.exports = function (name) {
@@ -2398,13 +2420,13 @@ $exports.store = store;
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/core.get-iterator-method.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var classof = __webpack_require__("../../node_modules/core-js/library/modules/_classof.js");
-var ITERATOR = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('iterator');
-var Iterators = __webpack_require__("../../node_modules/core-js/library/modules/_iterators.js");
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_core.js").getIteratorMethod = function (it) {
+var classof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_classof.js");
+var ITERATOR = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('iterator');
+var Iterators = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js");
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js").getIteratorMethod = function (it) {
   if (it != undefined) return it[ITERATOR]
     || it['@@iterator']
     || Iterators[classof(it)];
@@ -2413,21 +2435,21 @@ module.exports = __webpack_require__("../../node_modules/core-js/library/modules
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.array.from.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.from.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var call = __webpack_require__("../../node_modules/core-js/library/modules/_iter-call.js");
-var isArrayIter = __webpack_require__("../../node_modules/core-js/library/modules/_is-array-iter.js");
-var toLength = __webpack_require__("../../node_modules/core-js/library/modules/_to-length.js");
-var createProperty = __webpack_require__("../../node_modules/core-js/library/modules/_create-property.js");
-var getIterFn = __webpack_require__("../../node_modules/core-js/library/modules/core.get-iterator-method.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var call = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-call.js");
+var isArrayIter = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array-iter.js");
+var toLength = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-length.js");
+var createProperty = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_create-property.js");
+var getIterFn = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/core.get-iterator-method.js");
 
-$export($export.S + $export.F * !__webpack_require__("../../node_modules/core-js/library/modules/_iter-detect.js")(function (iter) { Array.from(iter); }), 'Array', {
+$export($export.S + $export.F * !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-detect.js")(function (iter) { Array.from(iter); }), 'Array', {
   // 22.1.2.1 Array.from(arrayLike, mapfn = undefined, thisArg = undefined)
   from: function from(arrayLike /* , mapfn = undefined, thisArg = undefined */) {
     var O = toObject(arrayLike);
@@ -2458,21 +2480,21 @@ $export($export.S + $export.F * !__webpack_require__("../../node_modules/core-js
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var addToUnscopables = __webpack_require__("../../node_modules/core-js/library/modules/_add-to-unscopables.js");
-var step = __webpack_require__("../../node_modules/core-js/library/modules/_iter-step.js");
-var Iterators = __webpack_require__("../../node_modules/core-js/library/modules/_iterators.js");
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
+var addToUnscopables = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_add-to-unscopables.js");
+var step = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-step.js");
+var Iterators = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
 
 // 22.1.3.4 Array.prototype.entries()
 // 22.1.3.13 Array.prototype.keys()
 // 22.1.3.29 Array.prototype.values()
 // 22.1.3.30 Array.prototype[@@iterator]()
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_iter-define.js")(Array, 'Array', function (iterated, kind) {
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js")(Array, 'Array', function (iterated, kind) {
   this._t = toIObject(iterated); // target
   this._i = 0;                   // next index
   this._k = kind;                // kind
@@ -2500,17 +2522,17 @@ addToUnscopables('entries');
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.map.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.map.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var strong = __webpack_require__("../../node_modules/core-js/library/modules/_collection-strong.js");
-var validate = __webpack_require__("../../node_modules/core-js/library/modules/_validate-collection.js");
+var strong = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection-strong.js");
+var validate = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_validate-collection.js");
 var MAP = 'Map';
 
 // 23.1 Map Objects
-module.exports = __webpack_require__("../../node_modules/core-js/library/modules/_collection.js")(MAP, function (get) {
+module.exports = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection.js")(MAP, function (get) {
   return function Map() { return get(this, arguments.length > 0 ? arguments[0] : undefined); };
 }, {
   // 23.1.3.6 Map.prototype.get(key)
@@ -2527,55 +2549,55 @@ module.exports = __webpack_require__("../../node_modules/core-js/library/modules
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.assign.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.assign.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.3.1 Object.assign(target, source)
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 
-$export($export.S + $export.F, 'Object', { assign: __webpack_require__("../../node_modules/core-js/library/modules/_object-assign.js") });
+$export($export.S + $export.F, 'Object', { assign: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-assign.js") });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.create.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 // 19.1.2.2 / 15.2.3.5 Object.create(O [, Properties])
-$export($export.S, 'Object', { create: __webpack_require__("../../node_modules/core-js/library/modules/_object-create.js") });
+$export($export.S, 'Object', { create: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js") });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.define-properties.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-properties.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 // 19.1.2.3 / 15.2.3.7 Object.defineProperties(O, Properties)
-$export($export.S + $export.F * !__webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js"), 'Object', { defineProperties: __webpack_require__("../../node_modules/core-js/library/modules/_object-dps.js") });
+$export($export.S + $export.F * !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js"), 'Object', { defineProperties: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dps.js") });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.define-property.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.define-property.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 // 19.1.2.4 / 15.2.3.6 Object.defineProperty(O, P, Attributes)
-$export($export.S + $export.F * !__webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js"), 'Object', { defineProperty: __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js").f });
+$export($export.S + $export.F * !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js"), 'Object', { defineProperty: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js").f });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.freeze.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.freeze.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.5 Object.freeze(O)
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var meta = __webpack_require__("../../node_modules/core-js/library/modules/_meta.js").onFreeze;
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var meta = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js").onFreeze;
 
-__webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")('freeze', function ($freeze) {
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-sap.js")('freeze', function ($freeze) {
   return function freeze(it) {
     return $freeze && isObject(it) ? $freeze(meta(it)) : it;
   };
@@ -2584,14 +2606,14 @@ __webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.6 Object.getOwnPropertyDescriptor(O, P)
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var $getOwnPropertyDescriptor = __webpack_require__("../../node_modules/core-js/library/modules/_object-gopd.js").f;
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var $getOwnPropertyDescriptor = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopd.js").f;
 
-__webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")('getOwnPropertyDescriptor', function () {
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-sap.js")('getOwnPropertyDescriptor', function () {
   return function getOwnPropertyDescriptor(it, key) {
     return $getOwnPropertyDescriptor(toIObject(it), key);
   };
@@ -2600,14 +2622,14 @@ __webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.9 Object.getPrototypeOf(O)
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var $getPrototypeOf = __webpack_require__("../../node_modules/core-js/library/modules/_object-gpo.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var $getPrototypeOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gpo.js");
 
-__webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")('getPrototypeOf', function () {
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-sap.js")('getPrototypeOf', function () {
   return function getPrototypeOf(it) {
     return $getPrototypeOf(toObject(it));
   };
@@ -2616,14 +2638,14 @@ __webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.keys.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.keys.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // 19.1.2.14 Object.keys(O)
-var toObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-object.js");
-var $keys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
+var toObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-object.js");
+var $keys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
 
-__webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")('keys', function () {
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-sap.js")('keys', function () {
   return function keys(it) {
     return $keys(toObject(it));
   };
@@ -2632,34 +2654,34 @@ __webpack_require__("../../node_modules/core-js/library/modules/_object-sap.js")
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.object.to-string.js":
 /***/ (function(module, exports) {
 
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.promise.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.promise.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var LIBRARY = __webpack_require__("../../node_modules/core-js/library/modules/_library.js");
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var ctx = __webpack_require__("../../node_modules/core-js/library/modules/_ctx.js");
-var classof = __webpack_require__("../../node_modules/core-js/library/modules/_classof.js");
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var aFunction = __webpack_require__("../../node_modules/core-js/library/modules/_a-function.js");
-var anInstance = __webpack_require__("../../node_modules/core-js/library/modules/_an-instance.js");
-var forOf = __webpack_require__("../../node_modules/core-js/library/modules/_for-of.js");
-var speciesConstructor = __webpack_require__("../../node_modules/core-js/library/modules/_species-constructor.js");
-var task = __webpack_require__("../../node_modules/core-js/library/modules/_task.js").set;
-var microtask = __webpack_require__("../../node_modules/core-js/library/modules/_microtask.js")();
-var newPromiseCapabilityModule = __webpack_require__("../../node_modules/core-js/library/modules/_new-promise-capability.js");
-var perform = __webpack_require__("../../node_modules/core-js/library/modules/_perform.js");
-var userAgent = __webpack_require__("../../node_modules/core-js/library/modules/_user-agent.js");
-var promiseResolve = __webpack_require__("../../node_modules/core-js/library/modules/_promise-resolve.js");
+var LIBRARY = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var ctx = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_ctx.js");
+var classof = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_classof.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var aFunction = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_a-function.js");
+var anInstance = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-instance.js");
+var forOf = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_for-of.js");
+var speciesConstructor = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_species-constructor.js");
+var task = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_task.js").set;
+var microtask = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_microtask.js")();
+var newPromiseCapabilityModule = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_new-promise-capability.js");
+var perform = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_perform.js");
+var userAgent = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_user-agent.js");
+var promiseResolve = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_promise-resolve.js");
 var PROMISE = 'Promise';
 var TypeError = global.TypeError;
 var process = global.process;
@@ -2675,7 +2697,7 @@ var USE_NATIVE = !!function () {
   try {
     // correct subclassing with @@species support
     var promise = $Promise.resolve(1);
-    var FakePromise = (promise.constructor = {})[__webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('species')] = function (exec) {
+    var FakePromise = (promise.constructor = {})[__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('species')] = function (exec) {
       exec(empty, empty);
     };
     // unhandled rejections tracking support, NodeJS Promise without it fails @@species test
@@ -2834,7 +2856,7 @@ if (!USE_NATIVE) {
     this._h = 0;              // <- rejection state, 0 - default, 1 - handled, 2 - unhandled
     this._n = false;          // <- notify
   };
-  Internal.prototype = __webpack_require__("../../node_modules/core-js/library/modules/_redefine-all.js")($Promise.prototype, {
+  Internal.prototype = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine-all.js")($Promise.prototype, {
     // 25.4.5.3 Promise.prototype.then(onFulfilled, onRejected)
     then: function then(onFulfilled, onRejected) {
       var reaction = newPromiseCapability(speciesConstructor(this, $Promise));
@@ -2865,9 +2887,9 @@ if (!USE_NATIVE) {
 }
 
 $export($export.G + $export.W + $export.F * !USE_NATIVE, { Promise: $Promise });
-__webpack_require__("../../node_modules/core-js/library/modules/_set-to-string-tag.js")($Promise, PROMISE);
-__webpack_require__("../../node_modules/core-js/library/modules/_set-species.js")(PROMISE);
-Wrapper = __webpack_require__("../../node_modules/core-js/library/modules/_core.js")[PROMISE];
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js")($Promise, PROMISE);
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-species.js")(PROMISE);
+Wrapper = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js")[PROMISE];
 
 // statics
 $export($export.S + $export.F * !USE_NATIVE, PROMISE, {
@@ -2885,7 +2907,7 @@ $export($export.S + $export.F * (LIBRARY || !USE_NATIVE), PROMISE, {
     return promiseResolve(LIBRARY && this === Wrapper ? $Promise : this, x);
   }
 });
-$export($export.S + $export.F * !(USE_NATIVE && __webpack_require__("../../node_modules/core-js/library/modules/_iter-detect.js")(function (iter) {
+$export($export.S + $export.F * !(USE_NATIVE && __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-detect.js")(function (iter) {
   $Promise.all(iter)['catch'](empty);
 })), PROMISE, {
   // 25.4.4.1 Promise.all(iterable)
@@ -2933,15 +2955,15 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__("../../node_
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.string.iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
-var $at = __webpack_require__("../../node_modules/core-js/library/modules/_string-at.js")(true);
+var $at = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_string-at.js")(true);
 
 // 21.1.3.27 String.prototype[@@iterator]()
-__webpack_require__("../../node_modules/core-js/library/modules/_iter-define.js")(String, 'String', function (iterated) {
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iter-define.js")(String, 'String', function (iterated) {
   this._t = String(iterated); // target
   this._i = 0;                // next index
 // 21.1.5.2.1 %StringIteratorPrototype%.next()
@@ -2958,37 +2980,37 @@ __webpack_require__("../../node_modules/core-js/library/modules/_iter-define.js"
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es6.symbol.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.symbol.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // ECMAScript 6 symbols shim
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var has = __webpack_require__("../../node_modules/core-js/library/modules/_has.js");
-var DESCRIPTORS = __webpack_require__("../../node_modules/core-js/library/modules/_descriptors.js");
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var redefine = __webpack_require__("../../node_modules/core-js/library/modules/_redefine.js");
-var META = __webpack_require__("../../node_modules/core-js/library/modules/_meta.js").KEY;
-var $fails = __webpack_require__("../../node_modules/core-js/library/modules/_fails.js");
-var shared = __webpack_require__("../../node_modules/core-js/library/modules/_shared.js");
-var setToStringTag = __webpack_require__("../../node_modules/core-js/library/modules/_set-to-string-tag.js");
-var uid = __webpack_require__("../../node_modules/core-js/library/modules/_uid.js");
-var wks = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js");
-var wksExt = __webpack_require__("../../node_modules/core-js/library/modules/_wks-ext.js");
-var wksDefine = __webpack_require__("../../node_modules/core-js/library/modules/_wks-define.js");
-var enumKeys = __webpack_require__("../../node_modules/core-js/library/modules/_enum-keys.js");
-var isArray = __webpack_require__("../../node_modules/core-js/library/modules/_is-array.js");
-var anObject = __webpack_require__("../../node_modules/core-js/library/modules/_an-object.js");
-var isObject = __webpack_require__("../../node_modules/core-js/library/modules/_is-object.js");
-var toIObject = __webpack_require__("../../node_modules/core-js/library/modules/_to-iobject.js");
-var toPrimitive = __webpack_require__("../../node_modules/core-js/library/modules/_to-primitive.js");
-var createDesc = __webpack_require__("../../node_modules/core-js/library/modules/_property-desc.js");
-var _create = __webpack_require__("../../node_modules/core-js/library/modules/_object-create.js");
-var gOPNExt = __webpack_require__("../../node_modules/core-js/library/modules/_object-gopn-ext.js");
-var $GOPD = __webpack_require__("../../node_modules/core-js/library/modules/_object-gopd.js");
-var $DP = __webpack_require__("../../node_modules/core-js/library/modules/_object-dp.js");
-var $keys = __webpack_require__("../../node_modules/core-js/library/modules/_object-keys.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var has = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_has.js");
+var DESCRIPTORS = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_descriptors.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var redefine = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_redefine.js");
+var META = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_meta.js").KEY;
+var $fails = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_fails.js");
+var shared = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_shared.js");
+var setToStringTag = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-to-string-tag.js");
+var uid = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_uid.js");
+var wks = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js");
+var wksExt = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-ext.js");
+var wksDefine = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js");
+var enumKeys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_enum-keys.js");
+var isArray = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-array.js");
+var anObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_an-object.js");
+var isObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_is-object.js");
+var toIObject = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-iobject.js");
+var toPrimitive = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_to-primitive.js");
+var createDesc = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_property-desc.js");
+var _create = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-create.js");
+var gOPNExt = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn-ext.js");
+var $GOPD = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopd.js");
+var $DP = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-dp.js");
+var $keys = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-keys.js");
 var gOPD = $GOPD.f;
 var dP = $DP.f;
 var gOPN = gOPNExt.f;
@@ -3111,11 +3133,11 @@ if (!USE_NATIVE) {
 
   $GOPD.f = $getOwnPropertyDescriptor;
   $DP.f = $defineProperty;
-  __webpack_require__("../../node_modules/core-js/library/modules/_object-gopn.js").f = gOPNExt.f = $getOwnPropertyNames;
-  __webpack_require__("../../node_modules/core-js/library/modules/_object-pie.js").f = $propertyIsEnumerable;
-  __webpack_require__("../../node_modules/core-js/library/modules/_object-gops.js").f = $getOwnPropertySymbols;
+  __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gopn.js").f = gOPNExt.f = $getOwnPropertyNames;
+  __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-pie.js").f = $propertyIsEnumerable;
+  __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-gops.js").f = $getOwnPropertySymbols;
 
-  if (DESCRIPTORS && !__webpack_require__("../../node_modules/core-js/library/modules/_library.js")) {
+  if (DESCRIPTORS && !__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_library.js")) {
     redefine(ObjectProto, 'propertyIsEnumerable', $propertyIsEnumerable, true);
   }
 
@@ -3189,7 +3211,7 @@ $JSON && $export($export.S + $export.F * (!USE_NATIVE || $fails(function () {
 });
 
 // 19.4.3.4 Symbol.prototype[@@toPrimitive](hint)
-$Symbol[PROTOTYPE][TO_PRIMITIVE] || __webpack_require__("../../node_modules/core-js/library/modules/_hide.js")($Symbol[PROTOTYPE], TO_PRIMITIVE, $Symbol[PROTOTYPE].valueOf);
+$Symbol[PROTOTYPE][TO_PRIMITIVE] || __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js")($Symbol[PROTOTYPE], TO_PRIMITIVE, $Symbol[PROTOTYPE].valueOf);
 // 19.4.3.5 Symbol.prototype[@@toStringTag]
 setToStringTag($Symbol, 'Symbol');
 // 20.2.1.9 Math[@@toStringTag]
@@ -3200,41 +3222,41 @@ setToStringTag(global.JSON, 'JSON', true);
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.map.from.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.from.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://tc39.github.io/proposal-setmap-offrom/#sec-map.from
-__webpack_require__("../../node_modules/core-js/library/modules/_set-collection-from.js")('Map');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-collection-from.js")('Map');
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.map.of.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.of.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://tc39.github.io/proposal-setmap-offrom/#sec-map.of
-__webpack_require__("../../node_modules/core-js/library/modules/_set-collection-of.js")('Map');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_set-collection-of.js")('Map');
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.map.to-json.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.map.to-json.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://github.com/DavidBruant/Map-Set.prototype.toJSON
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
 
-$export($export.P + $export.R, 'Map', { toJSON: __webpack_require__("../../node_modules/core-js/library/modules/_collection-to-json.js")('Map') });
+$export($export.P + $export.R, 'Map', { toJSON: __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_collection-to-json.js")('Map') });
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.object.entries.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.object.entries.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://github.com/tc39/proposal-object-values-entries
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var $entries = __webpack_require__("../../node_modules/core-js/library/modules/_object-to-array.js")(true);
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var $entries = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-to-array.js")(true);
 
 $export($export.S, 'Object', {
   entries: function entries(it) {
@@ -3245,12 +3267,12 @@ $export($export.S, 'Object', {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.object.values.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.object.values.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 // https://github.com/tc39/proposal-object-values-entries
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var $values = __webpack_require__("../../node_modules/core-js/library/modules/_object-to-array.js")(false);
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var $values = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_object-to-array.js")(false);
 
 $export($export.S, 'Object', {
   values: function values(it) {
@@ -3261,17 +3283,17 @@ $export($export.S, 'Object', {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.promise.finally.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.promise.finally.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 // https://github.com/tc39/proposal-promise-finally
 
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var core = __webpack_require__("../../node_modules/core-js/library/modules/_core.js");
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var speciesConstructor = __webpack_require__("../../node_modules/core-js/library/modules/_species-constructor.js");
-var promiseResolve = __webpack_require__("../../node_modules/core-js/library/modules/_promise-resolve.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var core = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_core.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var speciesConstructor = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_species-constructor.js");
+var promiseResolve = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_promise-resolve.js");
 
 $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
   var C = speciesConstructor(this, core.Promise || global.Promise);
@@ -3289,15 +3311,15 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.promise.try.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.promise.try.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 // https://github.com/tc39/proposal-promise-try
-var $export = __webpack_require__("../../node_modules/core-js/library/modules/_export.js");
-var newPromiseCapability = __webpack_require__("../../node_modules/core-js/library/modules/_new-promise-capability.js");
-var perform = __webpack_require__("../../node_modules/core-js/library/modules/_perform.js");
+var $export = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_export.js");
+var newPromiseCapability = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_new-promise-capability.js");
+var perform = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_perform.js");
 
 $export($export.S, 'Promise', { 'try': function (callbackfn) {
   var promiseCapability = newPromiseCapability.f(this);
@@ -3309,30 +3331,30 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/_wks-define.js")('asyncIterator');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js")('asyncIterator');
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/es7.symbol.observable.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/es7.symbol.observable.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/_wks-define.js")('observable');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks-define.js")('observable');
 
 
 /***/ }),
 
-/***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
+/***/ "../../node_modules/babel-runtime/node_modules/core-js/library/modules/web.dom.iterable.js":
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../node_modules/core-js/library/modules/es6.array.iterator.js");
-var global = __webpack_require__("../../node_modules/core-js/library/modules/_global.js");
-var hide = __webpack_require__("../../node_modules/core-js/library/modules/_hide.js");
-var Iterators = __webpack_require__("../../node_modules/core-js/library/modules/_iterators.js");
-var TO_STRING_TAG = __webpack_require__("../../node_modules/core-js/library/modules/_wks.js")('toStringTag');
+__webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/es6.array.iterator.js");
+var global = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_global.js");
+var hide = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_hide.js");
+var Iterators = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_iterators.js");
+var TO_STRING_TAG = __webpack_require__("../../node_modules/babel-runtime/node_modules/core-js/library/modules/_wks.js")('toStringTag');
 
 var DOMIterables = ('CSSRuleList,CSSStyleDeclaration,CSSValueList,ClientRectList,DOMRectList,DOMStringList,' +
   'DOMTokenList,DataTransferItemList,FileList,HTMLAllCollection,HTMLCollection,HTMLFormElement,HTMLSelectElement,' +
@@ -7924,7 +7946,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
         o = e.rhs,
         i = e.index,
         a = e.item;switch (t) {case "E":
-        return [r.join("."), n, "Ã¢â€ â€™", o];case "N":
+        return [r.join("."), n, "→", o];case "N":
         return [r.join("."), o];case "D":
         return [r.join(".")];case "A":
         return [r.join(".") + "[" + i + "]", a];default:
@@ -7937,10 +7959,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
     }o ? o.forEach(function (e) {
       var t = e.kind,
           n = v(e);r.log.apply(r, ["%c " + F[t].text, y(t)].concat(P(n)));
-    }) : r.log("Ã¢â‚¬â€Ã¢â‚¬â€ no diff Ã¢â‚¬â€Ã¢â‚¬â€");try {
+    }) : r.log("—— no diff ——");try {
       r.groupEnd();
     } catch (e) {
-      r.log("Ã¢â‚¬â€Ã¢â‚¬â€ diff end Ã¢â‚¬â€Ã¢â‚¬â€ ");
+      r.log("—— diff end —— ");
     }
   }function m(e, t, r, n) {
     switch ("undefined" == typeof e ? "undefined" : N(e)) {case "object":
@@ -7993,7 +8015,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
       } else r[F]("next state", w);l && b(h, w, r, k);try {
         r.groupEnd();
       } catch (e) {
-        r.log("Ã¢â‚¬â€Ã¢â‚¬â€ log end Ã¢â‚¬â€Ã¢â‚¬â€");
+        r.log("—— log end ——");
       }
     });
   }function S() {
@@ -11617,7 +11639,7 @@ function createStore(reducer, preloadedState, enhancer) {
    * example, see the documentation for the `redux-thunk` package. Even the
    * middleware will eventually dispatch plain object actions using this method.
    *
-   * @param {Object} action A plain object representing Ã¢â‚¬Å“what changedÃ¢â‚¬Â. It is
+   * @param {Object} action A plain object representing “what changed”. It is
    * a good idea to keep actions serializable so you can record and replay user
    * sessions, or use the time travelling `redux-devtools`. An action must have
    * a `type` property which may not be `undefined`. It is a good idea to use
@@ -12522,7 +12544,7 @@ var ActionTypes = {
    * example, see the documentation for the `redux-thunk` package. Even the
    * middleware will eventually dispatch plain object actions using this method.
    *
-   * @param {Object} action A plain object representing Ã¢â‚¬Å“what changedÃ¢â‚¬Â. It is
+   * @param {Object} action A plain object representing “what changed”. It is
    * a good idea to keep actions serializable so you can record and replay user
    * sessions, or use the time travelling `redux-devtools`. An action must have
    * a `type` property which may not be `undefined`. It is a good idea to use
@@ -14741,7 +14763,7 @@ function bytesToUuid(buf, offset) {
   var i = offset || 0;
   var bth = byteToHex;
   // join used to fix memory issue caused by concatenation: https://bugs.chromium.org/p/v8/issues/detail?id=3175#c4
-  return ([bth[buf[i++]], bth[buf[i++]],
+  return ([bth[buf[i++]], bth[buf[i++]], 
 	bth[buf[i++]], bth[buf[i++]], '-',
 	bth[buf[i++]], bth[buf[i++]], '-',
 	bth[buf[i++]], bth[buf[i++]], '-',
@@ -15449,7 +15471,7 @@ SDPUtils.parseRtcpParameters = function(mediaSection) {
   rtcpParameters.reducedSize = rsize.length > 0;
   rtcpParameters.compound = rsize.length === 0;
 
-  // parses the rtcp-mux attrÃ‘â€“bute.
+  // parses the rtcp-mux attrіbute.
   // Note that Edge does not support unmuxed RTCP.
   var mux = SDPUtils.matchPrefix(mediaSection, 'a=rtcp-mux');
   rtcpParameters.mux = mux.length > 0;
@@ -18355,8 +18377,27 @@ function createCodecRemover(config) {
         return typeof item === 'string' ? { name: item } : item;
     });
 
-    return function (params) {
-        var newSdp = (0, _fp.cloneDeep)(params.currentSdp);
+    return function () {
+        // Adding support for new callstack sdp handlers
+        // Old callstack sdp pipeline passes an object to each sdp
+        // handler that contains the currentSdp
+        // New callstack passes 3 arguments to each sdp handler
+        // newSdp, info, originalSdp
+        var oldCallstack = true;
+        var currentSdp = void 0;
+
+        for (var _len = arguments.length, params = Array(_len), _key = 0; _key < _len; _key++) {
+            params[_key] = arguments[_key];
+        }
+
+        if (params[0].currentSdp) {
+            currentSdp = params[0].currentSdp;
+        } else if (params.length === 3) {
+            oldCallstack = false;
+            currentSdp = params[0];
+        }
+
+        var newSdp = (0, _fp.cloneDeep)(currentSdp);
 
         // This is an array of strings representing codec names we want to remove.
         var codecStringsToRemove = config.map(function (codec) {
@@ -18455,7 +18496,9 @@ function createCodecRemover(config) {
             }
         });
 
-        return params.next(newSdp);
+        // If old callstack, then return the results of the next sdp handler
+        // If new callstack, then just return the modified sdp
+        return oldCallstack ? params[0].next(newSdp) : newSdp;
     };
 }
 
@@ -18813,6 +18856,12 @@ class MediaManager extends _eventemitter2.default {
           this.remove(mediaId);
         });
 
+        media.on('track:removed', trackId => {
+          if (media.tracks.size === 0) {
+            this.remove(media.id);
+          }
+        });
+
         media.on('track:ended', ({ mediaId, trackId }) => {
           if (media.getTracks().length === 0) {
             this.remove(mediaId);
@@ -18845,6 +18894,12 @@ class MediaManager extends _eventemitter2.default {
 
     media.once('media:stopped', mediaId => {
       this.remove(mediaId);
+    });
+
+    media.on('track:removed', trackId => {
+      if (media.tracks.size === 0) {
+        this.remove(media.id);
+      }
     });
 
     media.on('track:ended', ({ mediaId, trackId }) => {
@@ -19189,9 +19244,19 @@ function TrackManager() {
    * @return {Track} The added/wrapped Track object.
    */
   function add(track, stream) {
-    if (tracks.has(track.id)) {
+    const targetTrack = tracks.get(track.id);
+
+    // Chrome issue: track.stream is outdated and needs to be updated to newStream.
+    // targetTrack.stream.active is false & targetTrack.stream.getTracks() gives us an empty array.
+    // stream.active is true & stream.getTracks() gives us the correct array of tracks.
+    // Set/update the new stream as the track's stream
+    if (targetTrack && !targetTrack.stream.active && stream.active) {
+      // The track was previously registered and is being re-added with new stream
+      targetTrack.stream = stream;
+      return targetTrack;
+    } else if (targetTrack) {
       // This track is already registered.
-      return get(track.id);
+      return targetTrack;
     } else {
       // Wrap the track as a Track object.
       const wrappedTrack = new _track2.default(track, stream);
@@ -19295,15 +19360,15 @@ class Media extends _eventemitter2.default {
     this.id = nativeStream.id;
     this.isLocal = isLocal;
     this.stream = nativeStream;
-
-    this.stream.onremovetrack = event => {
-      this.emit('track:removed', event.track.id);
-    };
     /**
      * Mapping of the IDs of this Media object's tracks to the Track object.
      * @type {Map}
      */
     this.tracks = new _map2.default();
+    this.stream.onremovetrack = event => {
+      this.tracks.delete(event.track.id);
+      this.emit('track:removed', event.track.id);
+    };
   }
 
   /**
@@ -19463,13 +19528,13 @@ var _constants = __webpack_require__("../webrtc/src/constants.js");
 
 var _pipeline = __webpack_require__("../webrtc/src/sdpUtils/pipeline.js");
 
-var _pipeline2 = _interopRequireDefault(_pipeline);
-
 var _handlers = __webpack_require__("../webrtc/src/sdpUtils/handlers.js");
 
 var _sdpSemantics = __webpack_require__("../webrtc/src/sdpUtils/sdpSemantics.js");
 
 var _utils = __webpack_require__("../webrtc/src/utils.js");
+
+var _transceiverUtils = __webpack_require__("../webrtc/src/sdpUtils/transceiverUtils.js");
 
 var _loglevel = __webpack_require__("../../node_modules/loglevel/lib/loglevel.js");
 
@@ -19493,12 +19558,15 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * @property {Number} [iceTimeout=10000] Duration (in ms) that the Peer should wait for ICE candidate collection.
  * @property {Function} [halfTrickleThreshold] Function that determines whether the threshold has been met when in HALF trickle mode.
  */
-// Helpers.
+
+
+// SDP Helpers.
 const defaultConfig = {
   rtcConfig: {
     sdpSemantics: _constants.PEER.SDP_SEMANTICS.PLAN_B
   },
   trickleIceMode: _constants.PEER.TRICKLE_ICE.FULL,
+  removeBundling: true,
   iceTimeout: 10000,
   halfTrickleThreshold: isPassedHalfTrickleThreshold
 
@@ -19515,9 +19583,7 @@ const defaultConfig = {
 };
 
 // Libraries.
-
-
-// SDP Helpers.
+// Helpers.
 function isPassedHalfTrickleThreshold({ sdp, iceCandidate, time }) {
   const passedHalf = iceCandidate.candidate.indexOf('relay') !== -1;
   _loglevel2.default.debug(`Peer's half trickle threshold ${!passedHalf ? 'not ' : ''}reached.`);
@@ -19631,8 +19697,21 @@ class Peer extends _eventemitter2.default {
        */
       // event object contains transceiver which already has track attached to its receiver
       const { track: nativeTrack, streams } = event;
+
+      // When remote side adds track on a previously unused transceiver sender via `replaceTrack`,
+      //  a stream is not associated with it so we get no stream here.
+      // So we create our own stream here.
+      // In the future, support will be available for `sender.setStreams` on the remote side
+      //  so this is a temporary workaround.
+      let targetStream;
+      if (streams.length === 0) {
+        targetStream = new MediaStream([nativeTrack]);
+      } else {
+        targetStream = streams[0];
+      }
+
       // Convert the native MediaStreamTrack into a Track object.
-      const track = this.trackManager.add(nativeTrack, streams[0]);
+      const track = this.trackManager.add(nativeTrack, targetStream);
 
       _loglevel2.default.debug(`Peer (${this.id}) received track (${track.id}).`);
       this.emit('ontrack', track);
@@ -19656,7 +19735,7 @@ class Peer extends _eventemitter2.default {
     .filter(sender => Boolean(sender.track)).map(sender => this.trackManager.get(sender.track.id)).filter(track => {
       // Make sure the trackManager has the track and that its active.
       // It's possble that Peer has the sender but not the actual track yet.
-      return track && track.getState().state === 'live';
+      return track && track.getState().state === 'live' && track.stream.active;
     });
   }
 
@@ -19677,7 +19756,7 @@ class Peer extends _eventemitter2.default {
     .filter(receiver => Boolean(receiver.track)).map(receiver => this.trackManager.get(receiver.track.id)).filter(track => {
       // Make sure the trackManager has the track and that its active.
       // It's possble that Peer has the receiver but not the actual track yet.
-      return track && track.getState().state === 'live';
+      return track && track.getState().state === 'live' && track.stream.active;
     });
   }
 
@@ -19716,16 +19795,21 @@ class Peer extends _eventemitter2.default {
     return new _promise2.default((resolve, reject) => {
       this.peerConnection.createOffer(options).then(offer => {
         const sdpHandlers = [];
-        if (this.config.trickleICE === _constants.PEER.TRICKLE_ICE.NONE) {
+        if (this.config.trickleIceMode === _constants.PEER.TRICKLE_ICE.NONE) {
           // Modify the offer to claim the Peer doesn't suport trickle ICE.
           sdpHandlers.push(_handlers.removeTrickleIce);
+        }
+        if (this.config.removeBundling) {
+          // Modify the offer to remove media bundling
+          sdpHandlers.push(_handlers.removeBundling);
         }
         if (options.mediaDirections) {
           // Modify the offer to set media directions as desired.
           sdpHandlers.push((0, _handlers.changeMediaDirection)(options.mediaDirections));
         }
         if (sdpHandlers.length > 0) {
-          offer.sdp = (0, _pipeline2.default)(sdpHandlers, offer.sdp, {
+          // Run the SDP pipeline with only these handlers.
+          offer.sdp = (0, _pipeline.runPipeline)(sdpHandlers, offer.sdp, {
             type: offer.type,
             endpoint: _constants.PEER.ENDPOINT.LOCAL
           });
@@ -19754,16 +19838,21 @@ class Peer extends _eventemitter2.default {
     return new _promise2.default((resolve, reject) => {
       this.peerConnection.createAnswer(options).then(answer => {
         const sdpHandlers = [];
-        if (this.config.trickleICE === _constants.PEER.TRICKLE_ICE.NONE) {
+        if (this.config.trickleIceMode === _constants.PEER.TRICKLE_ICE.NONE) {
           // Modify the answer to claim the Peer doesn't suport trickle ICE.
           sdpHandlers.push(_handlers.removeTrickleIce);
+        }
+        if (this.config.removeBundling) {
+          // Modify the offer to remove media bundling
+          sdpHandlers.push(_handlers.removeBundling);
         }
         if (options.mediaDirections) {
           // Modify the answer to set media directions as desired.
           sdpHandlers.push((0, _handlers.changeMediaDirection)(options.mediaDirections));
         }
         if (sdpHandlers.length > 0) {
-          answer.sdp = (0, _pipeline2.default)(sdpHandlers, answer.sdp, {
+          // Run the SDP pipeline with only these handlers.
+          answer.sdp = (0, _pipeline.runPipeline)(sdpHandlers, answer.sdp, {
             type: answer.type,
             endpoint: _constants.PEER.ENDPOINT.LOCAL
           });
@@ -19832,6 +19921,9 @@ class Peer extends _eventemitter2.default {
               this.emit('onnegotiationready');
             } else {
               _loglevel2.default.debug(`Local description set, waiting for ICE collection process (${this.config.trickleIceMode}).`);
+              // TODO: Handle this scenario properly.
+              // If ICE collection never finishes, we need to time it out at some point.
+              setTimeout(() => this.emit('onnegotiationready'), 3000);
             }
           }, 25);
         }
@@ -19853,6 +19945,59 @@ class Peer extends _eventemitter2.default {
   }
 
   /**
+   * Finds a specific transceiver depending on the options passed in
+   * @method findTransceiver
+   * @param {Object} [options] Only one of these options will be taken. They are ordered by priority.
+   * @param {string} [options.trackId] The transceiver with the specific sender.track.id.
+   * @return {Object} The transceiver that was found (undefined if not found).
+   */
+  findTransceiver(options) {
+    const transceivers = this.peerConnection.getTransceivers();
+    if (options.trackId) {
+      return transceivers.find(transceiver => transceiver.sender.track && transceiver.sender.track.id === options.trackId);
+    }
+  }
+
+  /**
+   * Replaces a specified transceiver's sender.track.
+   * @method replaceTrack
+   * @param {Object} [options] Options for specifying which transceiver's sender should be replaced. They are ordered by priority.
+   * @param {Array} [options.trackId] The track id whose transceivers we want to set the direction of.
+   * @param {Object} track The MediaStreamTrack we want to place into the sender.
+   * @return {Object} A Promise object which is fulfilled once the track has been replaced
+   */
+  replaceTrack(options, track) {
+    const targetTransceiver = this.findTransceiver(options);
+    return new _promise2.default((resolve, reject) => {
+      if (targetTransceiver) {
+        targetTransceiver.sender.replaceTrack(track).then(resolve).catch(reject);
+      } else {
+        reject(new Error(`Transceiver ${options} not found.`));
+      }
+    });
+  }
+
+  /**
+   * Finds a transceiver that can be reused.
+   * A transceiver can be reused if it satisfies the following conditions:
+   *   - it does not have a track on its sender
+   *   - it has the same kind (audio or video) as what we specified
+   *   - it has been used before (if it has not been used then we are not "reusing" it)
+   * @method findReusableTransceiver
+   * @param {string} kind The kind of transceiver to find (audio or video)
+   * @returns {Object} Transceiver object that matches kind, has no sender track, and has currentDirection. Otherwise undefined.
+   */
+  findReusableTransceiver(kind) {
+    if ((0, _sdpSemantics.isUnifiedPlan)(this.config.rtcConfig.sdpSemantics)) {
+      const transceivers = this.peerConnection.getTransceivers();
+      return transceivers.find(transceiver => transceiver.sender.track == null && transceiver.receiver && transceiver.receiver.track && transceiver.receiver.track.kind === kind && transceiver.currentDirection // If this has been set, then transceiver has been used before.
+      );
+    } else {
+      _loglevel2.default.info(`Transceivers are only available in unified-plan.`);
+    }
+  }
+
+  /**
    * Add a Track to the connection.
    * @method addTrack
    * @param  {Track} track A Track object.
@@ -19868,17 +20013,6 @@ class Peer extends _eventemitter2.default {
     let sender;
     try {
       sender = this.peerConnection.addTrack(track.track, track.stream);
-      // For unified-plan, peerConnection.addTrack:
-      // Adds a transceiver behind the scenes with the specified track attached to its sender.
-      // Adding tracks this way has strange behaviour.
-      // In the ontrack event, the transceiver created here isn't considered
-      //  when setting remote tracks onto transceiver's receiver
-      //  so a new transceiver is created instead.
-      // Tried specifying different directions but still got the same result.
-      // this.peerConnection.addTransceiver(track.track, {
-      //   streams: [track.stream],
-      //   direction: 'sendrecv'
-      // })
     } catch (err) {
       // TODO: Better error handling.
       _loglevel2.default.debug(err.message);
@@ -19921,7 +20055,6 @@ class Peer extends _eventemitter2.default {
    */
   removeTrack(trackId) {
     const track = this.localTracks.find(track => track.id === trackId);
-
     if (!track) {
       _loglevel2.default.debug(`Invalid track ID ${trackId}; cannot remove track.`);
       return;
@@ -19931,18 +20064,155 @@ class Peer extends _eventemitter2.default {
     }
 
     // Get the RtpSender for the Track we want to remove.
-    const sender = this.peerConnection.getSenders().find(sender => sender.track.id === trackId);
+    const sender = this.peerConnection.getSenders().filter(sender => sender.track !== null).find(sender => sender.track.id === trackId);
     this.peerConnection.removeTrack(sender);
+  }
 
-    // For unified-plan, peerConnection.removeTrack:
-    // Achieves the same thing using transceivers
-    // const targetTransceiver = this.peerConnection.getTransceivers().find(transceiver => {
-    //   return transceiver.sender.track ? transceiver.sender.track.id === trackId : false
-    // })
-    // if (targetTransceiver) {
-    //   targetTransceiver.direction = 'recvonly'
-    //   targetTransceiver.sender.replaceTrack(null)
-    // }
+  /**
+   * Event handler when tone is played.
+   * @method handleToneChangeEvent
+   * @param  {event} event
+   */
+  handleToneChangeEvent(event) {
+    if (event.tone !== '') {
+      _loglevel2.default.debug('Tone played: ' + event.tone);
+    } else {
+      _loglevel2.default.debug('All tones have played.');
+    }
+  }
+
+  /**
+   * Helper function to sendDTMF tones .
+   * @method insertDTMF
+   * @param {sender} object
+   * @param {string} tone
+   * @param {number} duration
+   * @param {number} intertoneGap
+   * @param {Function} callback
+   */
+  insertDTMF(sender, tone, duration, intertoneGap, callback) {
+    if (sender.dtmf) {
+      const dtmfSender = sender.dtmf;
+      if (callback) {
+        dtmfSender.ontonechange = callback;
+      } else {
+        dtmfSender.ontonechange = this.handleToneChangeEvent;
+      }
+      try {
+        dtmfSender.insertDTMF(tone, duration, intertoneGap);
+        return true;
+      } catch (err) {
+        _loglevel2.default.debug(err.message);
+        return false;
+      }
+    } else {
+      _loglevel2.default.debug('The sender requires DTMF which is not support by this browser.');
+      return false;
+    }
+  }
+
+  /**
+   * Send DTMF tones.
+   * @method sendDTMF
+   * @param {Object} DTMFOptions The DTMF options.
+   * @param {string} DTMFOptions.tone DTMF tone to send. Valid values are [0,1,2,3,4,5,6,7,8,9,#].
+   * @param {number} DTMFOptions.duration=100 The amount of time, in milliseconds, that each DTMF tone should last.
+   * @param {number} DTMFOptions.intertoneGap=70 The length of time, in milliseconds, to wait between tones.
+   * @param {Object} [sendOptions] The send options.
+   * @param {func} [sendOptions.callback] Optional callback for tone event .
+   * @param {string} [sendOptions.trackId] The trackId of the sender to use.
+   * @return {Boolean} Whether the DTMF tones were inserted
+   */
+  sendDTMF({ tone, duration = 100, intertoneGap = 70 }, { callback, trackId }) {
+    if (!this.peerConnection.getSenders) {
+      _loglevel2.default.debug('RTCPeerConnection method getSenders() is required which is not support by this browser.');
+      return false;
+    }
+    const senders = this.peerConnection.getSenders();
+    // Use the trackId if it was provided
+    if (trackId) {
+      let sender = senders.find(sender => sender.track.id === trackId);
+      if (!sender) {
+        _loglevel2.default.debug('No sender with that trackId');
+        return false;
+      }
+      this.insertDTMF(sender, tone, duration, intertoneGap, callback);
+      return true;
+    } else {
+      let result;
+      for (let i = 0; i < senders.length; i++) {
+        result = this.insertDTMF(senders[i], tone, duration, intertoneGap, callback);
+        if (result) {
+          return true;
+        }
+      }
+      _loglevel2.default.debug('No appropriate senders were found');
+      return false;
+    }
+  }
+
+  /**
+   * Retrieve RTCStatsReport for a sender or the peerConnection.
+   * @method getStats
+   * @param {string} [TrackId] Return stats for peerConnection if trackId is not provided
+   * @return {Promise} Resolves with the RTCStatsReport
+   */
+  getStats(trackId) {
+    // If no trackId is supplied, get the stats from the RTCPeerConnection. Otherwise, find an RTCSender
+    // associated with the trackId and get the stats from it.
+
+    // Use the trackId if it was provided
+    if (trackId) {
+      return new _promise2.default((resolve, reject) => {
+        const senders = this.peerConnection.getSenders();
+        // search for a sender associated with the trackId
+        const sender = senders.find(sender => sender.track.id === trackId);
+        if (sender) {
+          sender.getStats().then(resolve).catch(reject);
+        } else {
+          const errMsg = `Cannot find sender with trackId: ${trackId}`;
+          _loglevel2.default.debug(errMsg);
+          reject(new Error(errMsg));
+        }
+      });
+    } else {
+      // get the stats associated with the peerConnection if no trackId is supplied
+      return this.peerConnection.getStats();
+    }
+  }
+
+  /**
+   * Sets the direction of transceivers.
+   * @method setTransceiversDirection
+   * @param {string} targetDirection The desired direction to set the transceivers to.
+   * @param {Object} [options] Options for specifying which transceivers should be affected. They are ordered by priority.
+   * @param {Array} [options.trackIds] The optional list of track ids whose transceivers we want to set the direction of.
+   * @return {Object} An object containing an `error` flag and  an array `failures` of transceivers whose directions weren't changed.
+   */
+  setTransceiversDirection(targetDirection, options = {}) {
+    if ((0, _sdpSemantics.isUnifiedPlan)(this.config.rtcConfig.sdpSemantics)) {
+      let transceivers = this.peerConnection.getTransceivers();
+
+      if (options.trackIds) {
+        transceivers = transceivers.filter(transceiver => options.trackIds.includes(transceiver.sender.track.id));
+      }
+
+      const failures = [];
+      transceivers.forEach(transceiver => {
+        if (!(0, _transceiverUtils.setTransceiverDirection)(transceiver, targetDirection)) {
+          failures.push(transceiver);
+        }
+      });
+      return {
+        error: failures.length !== 0,
+        failures
+      };
+    } else {
+      _loglevel2.default.info(`Transceiver direction modification is only available in unified-plan.`);
+      return {
+        error: true
+      };
+    }
   }
 }
 exports.default = Peer;
@@ -19971,6 +20241,8 @@ var _pipeline2 = _interopRequireDefault(_pipeline);
 
 var _sdpSemantics = __webpack_require__("../webrtc/src/sdpUtils/sdpSemantics.js");
 
+var _handlers = __webpack_require__("../webrtc/src/sdpUtils/handlers.js");
+
 var _loglevel = __webpack_require__("../../node_modules/loglevel/lib/loglevel.js");
 
 var _loglevel2 = _interopRequireDefault(_loglevel);
@@ -19991,12 +20263,19 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 
 // Libraries.
-
-
-// SDP Helpers.
+// Helpers.
 class Session extends _eventemitter2.default {
   constructor(id, managers, config = {}) {
     super();
+
+    // Keeps track of who started the initial offer.
+    // We need this for calls with firefox so that DTLS roles aren't interpreted by other browsers (chrome)
+    //  as being switched when the one that didn't initiate a call tries to start renegotiation offer.
+    // See more details on the issue here https://groups.google.com/forum/#!topic/discuss-webrtc/gsw3OEAwNKo.
+    this.isInitialOfferrer = undefined;
+
+    _pipeline2.default.setHandlers([_handlers.setDtlsSetupToPassiveIfInitialOfferrer]);
+
     // The session's unique id
     this.id = id;
     this.config = config;
@@ -20100,27 +20379,65 @@ class Session extends _eventemitter2.default {
     const peer = this.peerManager.get(this.peerId);
     // TODO: Better error handling?
     if (peer) {
-      tracks.forEach(track => {
-        peer.addTrack(track);
+      const addTrackOrReuseTransceiverPromises = tracks.map(track => {
+        return new _promise2.default((resolve, reject) => {
+          // We try to find a reusable transceiver that we can attach the track to achieve the following:
+          // - Avoid transceiver pollution and needing to create a brand new transceiver to attach the track to.
+          // - Allow re-adding of the same track type that has been previously removed.
+          //   (This is so that we can still have re-adding of tracks when using the "basic" media API which imposes a 1-audio & 1-video limit)
+          const reusableTransceiver = peer.findReusableTransceiver(track.track.kind);
 
-        // Indicate that the Session has a new Track.
-        this.emit('new:track', {
-          local: true,
-          trackId: track.id
-        });
-
-        track.once('ended', () => {
-          // If the PeerConnection is closed, we don't need to worry about
-          //    removing the track (and it would throw an error anyway).
-          if (peer.peerConnection.signalingState !== 'closed') {
-            peer.removeTrack(track.id);
-            this.emit('track:ended', {
-              local: true,
-              trackId: track.id
+          // If we can find a reusable transceiver, reuse it.
+          if ((0, _sdpSemantics.isUnifiedPlan)(this.config.peer.rtcConfig.sdpSemantics) && reusableTransceiver) {
+            // Current limitations of transceiver reuse method:
+            // - We cannot attach the track's associated stream to the sender (lack of `sender.setStreams` support atm)
+            // So the local transceiver's sender track & remote transceiver's receiver track must have been used before so that it already has a stream attached to the sender.
+            // If the local transceiver's sender has not been used before, we should ideally be able to do the following:
+            // transceiver.sender.setStreams([<someStream>]) <- Not yet supported
+            // transceiver.sender.replaceTrack(<someTrack>)
+            // However, because of lack of support for `setStreams`, if we just tried to do `replaceTrack` on a transceiver that has not been used before,
+            //  the sender will not have a stream and the SDP generated will have no associated stream which can cuase issues such as not triggering events on the local stream during renegotiation.
+            // Once `setStreams` is supported, we can use the transceiver reuse method above even on transceivers that have not been used to send data before.
+            reusableTransceiver.sender.replaceTrack(track.track).then(() => {
+              reusableTransceiver.direction = reusableTransceiver.direction === 'recvonly' ? 'sendrecv' : 'sendonly';
+              resolve(`Track (${track.track.kind} : ${track.id}) reused transceiver (mid: ${reusableTransceiver.mid}).`);
+            }).catch(err => {
+              _loglevel2.default.error(err);
+              reject(err);
             });
+          } else {
+            // To get around the current limitation described above, we use peerConnection's `addTrack` when we can't find a reusable transceiver.
+            // `addTrack` does one of the following when called:
+            // - Create a new transceiver and attaches the track and stream to the sender
+            // - Find and use an existing transceiver that has never been used to send data before and attach the track and stream to the sender.
+            peer.addTrack(track);
+            resolve(`Added track (${track.track.kind} : ${track.id}).`);
           }
+        }).then(message => {
+          // Set event emitters and handlers
+          _loglevel2.default.info(message);
+
+          // Indicate that the Session has a new Track.
+          this.emit('new:track', {
+            local: true,
+            trackId: track.id
+          });
+
+          track.once('ended', () => {
+            // If the PeerConnection is closed, we don't need to worry about
+            //    removing the track (and it would throw an error anyway).
+            if (peer.peerConnection.signalingState !== 'closed') {
+              peer.removeTrack(track.id);
+              this.emit('track:ended', {
+                local: true,
+                trackId: track.id
+              });
+            }
+          });
         });
       });
+
+      return _promise2.default.all(addTrackOrReuseTransceiverPromises);
     }
   }
 
@@ -20142,15 +20459,42 @@ class Session extends _eventemitter2.default {
       // If using unified-plan, remove options.mediaDirections.
       // This is because directions are now set in transceivers.
       if ((0, _sdpSemantics.isUnifiedPlan)(this.config.peer.rtcConfig.sdpSemantics)) {
-        delete options.mediaDirections;
+        if (options.mediaDirections) {
+          const audioTransceiverTargetDir = options.mediaDirections.audio;
+          const videoTransceiverTargetDir = options.mediaDirections.video;
+
+          if (audioTransceiverTargetDir) {
+            const result = peer.setTransceiversDirection(audioTransceiverTargetDir, {
+              trackIds: peer.localTracks.filter(track => track.track.kind === 'audio').map(track => track.id)
+            });
+            if (result.error) {
+              _loglevel2.default.info(`Failed to process the following transceivers: ${result.failures}`);
+            }
+          }
+          if (videoTransceiverTargetDir) {
+            const result = peer.setTransceiversDirection(videoTransceiverTargetDir, {
+              trackIds: peer.localTracks.filter(track => track.track.kind === 'video').map(track => track.id)
+            });
+            if (result.error) {
+              _loglevel2.default.info(`Failed to process the following transceivers: ${result.failures}`);
+            }
+          }
+          delete options.mediaDirections;
+        }
       }
 
       peer.createOffer(options).then(offer => {
-        if (options.sdpHandlers) {
+        // If initialOfferrer flag not set and offering, that means we are the initial offerrer.
+        if (this.isInitialOfferrer === undefined) {
+          this.isInitialOfferrer = true;
+        }
+
+        if (options.sdpHandlers || _pipeline2.default.getHandlers().length) {
           _loglevel2.default.debug('Modifying local offer with SDP pipeline.');
-          offer.sdp = (0, _pipeline2.default)(options.sdpHandlers, offer.sdp, {
+          offer.sdp = _pipeline2.default.run(options.sdpHandlers, offer.sdp, {
             type: offer.type,
-            endpoint: _constants.PEER.ENDPOINT.LOCAL
+            endpoint: _constants.PEER.ENDPOINT.LOCAL,
+            isInitiator: this.isInitialOfferrer
           });
         }
         peer.setLocalDescription(offer).then(() => {
@@ -20160,6 +20504,39 @@ class Session extends _eventemitter2.default {
         }).catch(reject);
       }).catch(reject);
     });
+  }
+
+  /**
+   * Replaces a specified transceiver's sender.track.
+   * @method replaceTrack
+   * @param {Object} [options]
+   * @param {String} [options.trackId] The transceiver with the specific sender.track.id.
+   * @param {String} [options.mid] The transceiver with the specific media id.
+   * @param {Object} track The MediaStreamTrack we want to place into the sender.
+   * @return {Object} A Promise object which is fulfilled once the track has been replaced
+   */
+  replaceTrack(options, track) {
+    const peer = this.peerManager.get(this.peerId);
+    return peer.replaceTrack(options, track);
+  }
+
+  /**
+   * Sets the direction of transceivers.
+   * @method setTransceiversDirection
+   * @param {String} targetDirection The desired direction to set the transceivers to.
+   * @param {Object} [options] Options for specifying which transceivers should be affected.
+   *  trackIds option has priority
+   * @param {Array} [options.trackIds] The optional list of track ids whose transceivers we want to set the direction of.
+   * @return {Object} An object containing an `error` flag and  an array `failures` of transceiver "mid"s whose directions weren't changed.
+   */
+  setTransceiversDirection(targetDirection, options = {}) {
+    if ((0, _sdpSemantics.isUnifiedPlan)(this.config.peer.rtcConfig.sdpSemantics)) {
+      const peer = this.peerManager.get(this.peerId);
+      return peer.setTransceiversDirection(targetDirection, options);
+    } else {
+      _loglevel2.default.info(`Transceiver direction modification is only available in unified-plan.`);
+      return { error: true };
+    }
   }
 
   /**
@@ -20177,11 +20554,12 @@ class Session extends _eventemitter2.default {
         reject(new Error(`Peer not found in Session ${this.id}.`));
       }
 
-      if (options.sdpHandlers) {
+      if (options.sdpHandlers || _pipeline2.default.getHandlers().length) {
         _loglevel2.default.debug('Modifying remote offer with SDP pipeline.');
-        offer.sdp = (0, _pipeline2.default)(options.sdpHandlers, offer.sdp, {
+        offer.sdp = _pipeline2.default.run(options.sdpHandlers, offer.sdp, {
           type: offer.type,
-          endpoint: _constants.PEER.ENDPOINT.REMOTE
+          endpoint: _constants.PEER.ENDPOINT.REMOTE,
+          isInitiator: this.isInitialOfferrer
         });
       }
 
@@ -20207,15 +20585,42 @@ class Session extends _eventemitter2.default {
       // If using unified-plan, remove options.mediaDirections.
       // This is because directions are now set in transceivers.
       if ((0, _sdpSemantics.isUnifiedPlan)(this.config.peer.rtcConfig.sdpSemantics)) {
-        delete options.mediaDirections;
+        if (options.mediaDirections) {
+          const audioTransceiverTargetDir = options.mediaDirections.audio;
+          const videoTransceiverTargetDir = options.mediaDirections.video;
+
+          if (audioTransceiverTargetDir) {
+            const result = peer.setTransceiversDirection(audioTransceiverTargetDir, {
+              trackIds: peer.localTracks.filter(track => track.track.kind === 'audio').map(track => track.id)
+            });
+            if (result.error) {
+              _loglevel2.default.info(`Failed to process the following transceivers: ${result.failures}`);
+            }
+          }
+          if (videoTransceiverTargetDir) {
+            const result = peer.setTransceiversDirection(videoTransceiverTargetDir, {
+              trackIds: peer.localTracks.filter(track => track.track.kind === 'video').map(track => track.id)
+            });
+            if (result.error) {
+              _loglevel2.default.info(`Failed to process the following transceivers: ${result.failures}`);
+            }
+          }
+          delete options.mediaDirections;
+        }
       }
 
       peer.createAnswer(options).then(answer => {
-        if (options.sdpHandlers) {
+        // If initialOfferrer flag not set and answering, that means we aren't the initial offerrer.
+        if (this.isInitialOfferrer === undefined) {
+          this.isInitialOfferrer = false;
+        }
+
+        if (options.sdpHandlers || _pipeline2.default.getHandlers().length) {
           _loglevel2.default.debug('Modifying local answer with SDP pipeline.');
-          answer.sdp = (0, _pipeline2.default)(options.sdpHandlers, answer.sdp, {
+          answer.sdp = _pipeline2.default.run(options.sdpHandlers, answer.sdp, {
             type: answer.type,
-            endpoint: _constants.PEER.ENDPOINT.LOCAL
+            endpoint: _constants.PEER.ENDPOINT.LOCAL,
+            isInitiator: this.isInitialOfferrer
           });
         }
         peer.setLocalDescription(answer).then(() => {
@@ -20236,11 +20641,12 @@ class Session extends _eventemitter2.default {
    * @return {Promise}
    */
   processAnswer(answer, options = {}) {
-    if (options.sdpHandlers) {
+    if (options.sdpHandlers || _pipeline2.default.getHandlers().length) {
       _loglevel2.default.debug('Modifying remote answer with SDP pipeline.');
-      answer.sdp = (0, _pipeline2.default)(options.sdpHandlers, answer.sdp, {
+      answer.sdp = _pipeline2.default.run(options.sdpHandlers, answer.sdp, {
         type: answer.type,
-        endpoint: _constants.PEER.ENDPOINT.REMOTE
+        endpoint: _constants.PEER.ENDPOINT.REMOTE,
+        isInitiator: this.isInitialOfferrer
       });
     }
 
@@ -20302,8 +20708,48 @@ class Session extends _eventemitter2.default {
       });
     }
   }
+
+  /**
+   * Send DTMF tones on specified Track object from the Session.
+   * @method sendDTMF
+   * @param {Object} options The DTMF options.
+   * @param {string} options.tone DTMF tone to send. Valid values are [0,1,2,3,4,5,6,7,8,9,#].
+   * @param {number} [options.duration=100] The amount of time, in milliseconds, that each DTMF tone should last.
+   * @param {number} [options.intertoneGap=70] The length of time, in milliseconds, to wait between tones.
+   * @param {Object} [sendOptions] The send options.
+   * @param {func} [sendOptions.callback] Optional callback for tone event .
+   * @param {string} [sendOptions.trackId] The trackId of the sender to use.
+   * @return {boolean} The success or fail indicator
+   */
+  sendDTMF(DTMFOptions, sendOptions = {}) {
+    const peer = this.peerManager.get(this.peerId);
+    if (peer) {
+      return peer.sendDTMF(DTMFOptions, sendOptions);
+    } else {
+      return false;
+    }
+  }
+
+  /**
+   * Retrieve RTCStatsReport from a sender.
+   * @method getStats
+   * @param  {string} trackId The track id associated with a sender.
+   * @return {Promise}
+   */
+  getStats(trackId) {
+    return new _promise2.default((resolve, reject) => {
+      const peer = this.peerManager.get(this.peerId);
+      if (!peer) {
+        reject(new Error(`Peer not found in Session ${this.id}.`));
+        return;
+      }
+      peer.getStats(trackId).then(resolve).catch(reject);
+    });
+  }
 }
-exports.default = Session; // Helpers.
+exports.default = Session;
+
+// SDP Helpers.
 
 /***/ }),
 
@@ -20389,10 +20835,9 @@ class Track extends _eventemitter2.default {
     let type = this.track.kind;
     let renderer = document.createElement(type);
 
-    // TODO: Decide on whether to just cleanup the id when rendering or
-    //  cleanup the id at the source (when saving the track id).
-    // Reason: Track ids for Firefox are wrapped in {} so we need to take them out
-    //  because it will fail when trying to access element with selector later.
+    // Make id safe for css (Firefox ids come wrapped in curly braces)
+    // This makes it easier to do other manipulation on the rendering side
+    // as we don't need to escape curly braces when doing element.querySelector (See removeFrom).
     renderer.id = `${type}-${(0, _utils.makeSafeForCSS)(this.id)}`;
     renderer.style.height = '100%';
     renderer.style.width = '100%';
@@ -20410,7 +20855,7 @@ class Track extends _eventemitter2.default {
     if (type === 'video') {
       renderer.muted = 'true';
       // Needed for Android.
-      renderer.play();
+      renderer.play().catch(err => _loglevel2.default.error(`video tag (#${renderer.id}) - play() - ${err}`));
     }
 
     // Set speaker if it was provided and it's supported.
@@ -20444,10 +20889,9 @@ class Track extends _eventemitter2.default {
     this.containers.splice(index, 1);
 
     // TODO: This id may not be unique.
-    // TODO: Decide on whether to just cleanup the id when rendering or
-    //  cleanup the id at the source (when saving the track id).
-    // Reason: Track ids for Firefox are wrapped in {} so we need to take them out
-    //  because it will fail when trying to access element with selector later.
+    // Make id safe for css (Firefox ids come wrapped in curly braces)
+    // This makes it easier to do other manipulation on the rendering side
+    // as we don't need to escape curly braces when doing element.querySelector.
     let rendererId = `${this.track.kind}-${(0, _utils.makeSafeForCSS)(this.id)}`;
     const renderer = element.querySelector(`#${rendererId}`);
 
@@ -20569,7 +21013,9 @@ var _values = __webpack_require__("../../node_modules/babel-runtime/core-js/obje
 var _values2 = _interopRequireDefault(_values);
 
 exports.removeTrickleIce = removeTrickleIce;
+exports.removeBundling = removeBundling;
 exports.changeMediaDirection = changeMediaDirection;
+exports.setDtlsSetupToPassiveIfInitialOfferrer = setDtlsSetupToPassiveIfInitialOfferrer;
 
 var _loglevel = __webpack_require__("../../node_modules/loglevel/lib/loglevel.js");
 
@@ -20603,6 +21049,29 @@ function removeTrickleIce(sdp, info, originalSdp) {
 }
 
 /**
+ * SDP handler to delete the bundle groupings line from the SDP.
+ * PeerConnections do not have an option to completely disable bundling, so
+ *    manually removing the line from the SDP is needed to prevent bundling.
+ * @method removeBundling
+ * @param  {Object}     sdp           The session description.
+ * @param  {Object}     info          Information about the session description.
+ * @param  {RTCSdpType} info.type     The session description's type.
+ * @param  {String}     info.endpoint Which end of the connection created the SDP.
+ * @param  {Object}     originalSdp   The original SDP before any modifications.
+ * @return {Object}
+ */
+
+
+// Constants.
+function removeBundling(sdp, info, originalSdp) {
+  if (sdp.groups) {
+    delete sdp.groups;
+  }
+
+  return sdp;
+}
+
+/**
  * Currying function to create an SDP handler.
  * The SDP handler modifies the SDP to change the direction of media.
  * @method changeMediaDirection
@@ -20611,9 +21080,6 @@ function removeTrickleIce(sdp, info, originalSdp) {
  * @param  {string} [video] Direction to set for video.
  * @return {Function} SDP handler.
  */
-
-
-// Constants.
 function changeMediaDirection({ audio, video }) {
   function isValid(direction) {
     return (0, _values2.default)(_constants.MEDIA_DIR).includes(direction);
@@ -20634,6 +21100,31 @@ function changeMediaDirection({ audio, video }) {
   };
 }
 
+/**
+ * Sets the DTLS setup to passive if it is active and if the following conditions hold:
+ *  - This session initiated the call with the first offer.
+ *  - We created the SDP.
+ *  - We are answering an offer.
+ * @param {Object} newSdp The sdp so far (could have been modified by previous handlers).
+ * @param {RTCSdpType} info Information about the session description.
+ * @param {RTCSdpType} info.type The session description's type.
+ * @param {string} info.endpoint Which end of the connection created the SDP.
+ * @param {boolean} info.isInitiator Whether this session initiated the call or not.
+ * @param {Object} originalSdp The sdp in its initial state.
+ */
+function setDtlsSetupToPassiveIfInitialOfferrer(newSdp, info, originalSdp) {
+  // Hack: If we are the initial offerrer, we created the sdp, and we're answering,
+  //  we need to set DTLS setup to passive if it's active.
+  if (info.isInitiator && info.endpoint === 'local' && info.type === 'answer') {
+    for (let mLine of newSdp.media) {
+      if (mLine.setup && mLine.setup === 'active') {
+        mLine.setup = 'passive';
+      }
+    }
+  }
+  return newSdp;
+}
+
 /***/ }),
 
 /***/ "../webrtc/src/sdpUtils/pipeline.js":
@@ -20650,8 +21141,7 @@ var _freeze = __webpack_require__("../../node_modules/babel-runtime/core-js/obje
 
 var _freeze2 = _interopRequireDefault(_freeze);
 
-exports.pipeline = pipeline;
-exports.default = sdpPipeline;
+exports.runPipeline = runPipeline;
 
 var _loglevel = __webpack_require__("../../node_modules/loglevel/lib/loglevel.js");
 
@@ -20666,18 +21156,23 @@ var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /**
- * SDP pipeline that does not assume the format of the SDP.
+ * Basic SDP pipeline runner.
+ * Does not include any default handlers.
  * @method sdpPipeline
- * @param  {Array}         handlers      List of functions that transform the SDP.
- * @param  {String|Object} sdp           The session description.
- * @param  {Object}        info          Information about the session description.
- * @param  {RTCSdpType}    info.type     The session description's type.
- * @param  {String}        info.endpoint Which end of the connection created the SDP.
- * @return {String|Object} The modified session description.
+ * @param  {Array}      handlers       List of functions that transform the SDP.
+ * @param  {String}     sdp            The session description.
+ * @param  {RTCSdpType} info           Information about the session description.
+ * @param  {RTCSdpType} info.type      The session description's type.
+ * @param  {String}     info.endpoint  Which end of the connection created the SDP.
+ * @param  {Boolean}    info.isInitiator Whether this session initiated the connection or not.
+ * @return {String}     The modified session description.
+
  */
-function pipeline(handlers = [], sdp, info) {
-  const originalSdp = (0, _freeze2.default)(sdp);
-  let newSdp = originalSdp;
+function runPipeline(handlers, sdp, info) {
+  let objectSdp = _sdpTransform2.default.parse(sdp);
+
+  const originalSdp = (0, _freeze2.default)(objectSdp);
+  let newSdp = (0, _fp.cloneDeep)(originalSdp);
 
   if ((0, _fp.isArray)(handlers)) {
     handlers.forEach(handler => {
@@ -20689,25 +21184,66 @@ function pipeline(handlers = [], sdp, info) {
     });
   }
 
-  return newSdp;
+  return _sdpTransform2.default.write(newSdp);
 }
 
 /**
- * SDP pipeline.
- * @method sdpPipeline
- * @param  {Array}      handlers      List of functions that transform the SDP.
- * @param  {String}     sdp           The session description.
- * @param  {RTCSdpType} info          Information about the session description.
- * @param  {RTCSdpType} info.type     The session description's type.
- * @param  {String}     info.endpoint Which end of the connection created the SDP.
- * @return {String}     The modified session description.
+ * Create an instance of the SDP pipeline.
+ * Allows for persistent SDP handlers to be set and implictly used.
+ * @method createPipeline
+ * @return {Object} An SDP pipeline.
  */
 // Libraries.
-function sdpPipeline(handlers, sdp, info) {
-  let objectSdp = _sdpTransform2.default.parse(sdp);
-  objectSdp = pipeline(handlers, objectSdp, info);
-  return _sdpTransform2.default.write(objectSdp);
+function createPipeline() {
+  /**
+   * SDP handlers that should be included with every pipeline run.
+   * @type {Array}
+   */
+  let defaultHandlers = [];
+
+  /**
+   * Use the pipeline to process an SDP.
+   * @method run
+   * @param  {Array}      handlers      List of functions that transform the SDP.
+   * @param  {String}     sdp           The session description.
+   * @param  {RTCSdpType} info          Information about the session description.
+   * @param  {RTCSdpType} info.type     The session description's type.
+   * @param  {String}     info.endpoint Which end of the connection created the SDP.
+   * @return {String}     The modified session description.
+   */
+  function run(handlers = [], sdp, info) {
+    return runPipeline(handlers.concat(defaultHandlers), sdp, info);
+  }
+
+  /**
+   * Set the SDP handlers that should be included with every pipeline run.
+   * @method setHandlers
+   * @param  {Array} handlers List of SDP handler functions.
+   */
+  function setHandlers(handlers) {
+    if ((0, _fp.isArray)(handlers)) {
+      defaultHandlers = defaultHandlers.concat(handlers);
+    }
+  }
+
+  /**
+   * Get the SDP handlers that are included with every pipeline run.
+   * @method getHandlers
+   * @return {Array} List of SDP handler functions.
+   */
+  function getHandlers() {
+    return defaultHandlers;
+  }
+
+  return {
+    run,
+    setHandlers,
+    getHandlers
+  };
 }
+
+// Export an instance of the pipeline to be used by everything.
+exports.default = createPipeline();
 
 /***/ }),
 
@@ -20744,6 +21280,54 @@ function isUnifiedPlan(sdpSemantics) {
  */
 function getSdpSemanticsList() {
   return (0, _fp.values)(_constants.PEER.SDP_SEMANTICS);
+}
+
+/***/ }),
+
+/***/ "../webrtc/src/sdpUtils/transceiverUtils.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.setTransceiverDirection = setTransceiverDirection;
+
+var _constants = __webpack_require__("../webrtc/src/constants.js");
+
+var _loglevel = __webpack_require__("../../node_modules/loglevel/lib/loglevel.js");
+
+var _loglevel2 = _interopRequireDefault(_loglevel);
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+/**
+ * Sets a transceiver's direction.
+ * Checks that the desired direction is a valid one.
+ * @method setTransceiverDirection
+ * @param {Object} transceiver The transceiver that we want to modify.
+ * @param {String} targetDirection The desired direction we want to change to.
+ * @return {Boolean} Indicator on whether the transceiver direction was successfully changed.
+ */
+function setTransceiverDirection(transceiver, targetDirection) {
+  if (!(0, _fp.includes)(targetDirection, (0, _fp.values)(_constants.MEDIA_DIR))) {
+    _loglevel2.default.info(`Invalid direction "${targetDirection}"`);
+    return false;
+  }
+
+  // Only in Safari:
+  //  - has transceiver.setDirection
+  //  - transceiver.direction is readOnly
+  if (transceiver.setDirection) {
+    transceiver.setDirection(targetDirection);
+  } else {
+    transceiver.direction = targetDirection;
+  }
+  return true;
 }
 
 /***/ }),
@@ -22391,7 +22975,7 @@ exports.default = [{ name: 'logs', fn: _logs2.default }, { name: 'config', fn: _
 
 /***/ }),
 
-/***/ "./src/call/cpaas2/constants.js":
+/***/ "./src/call/constants.js":
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22400,9 +22984,58 @@ exports.default = [{ name: 'logs', fn: _logs2.default }, { name: 'config', fn: _
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+exports.ICE_MEDIA_STATES = exports.FCS_ICE_MEDIA_STATES = exports.WEBRTC_DEVICE_KINDS = exports.CALL_DIRECTION = exports.OPERATIONS = exports.CALL_MEDIA_STATES = exports.CALL_STATES = exports.CALL_STATES_FCS = exports.FCS_CALL_STATES = undefined;
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
 /**
- * CPaaS 2.0 Call states.
+ * Helper function. Converts an object so that its keys are the same as its values.
+ * @method mapValuesToKeys
+ * @param  {Object} source
+ * @return {Object}
+ */
+function mapValuesToKeys(source) {
+  return (0, _fp.mapKeys)(function (value) {
+    return source[value];
+  })(source);
+}
+
+/**
+ * Enum of FCS call states.
+ * Key is the "code" that FCS uses, and value is the text representation.
+ * These are taken from FCS callManager.js, but inversed.
+ *      See `fcs.call.States`.
  * @type {Object}
+ */
+const FCS_CALL_STATES = exports.FCS_CALL_STATES = {
+  0: 'IN_CALL',
+  1: 'ON_HOLD',
+  2: 'RINGING',
+  3: 'ENDED',
+  4: 'REJECTED',
+  5: 'OUTGOING',
+  6: 'INCOMING',
+  7: 'ANSWERING',
+  8: 'JOINED',
+  9: 'RENEGOTIATION',
+  10: 'TRANSFERRED',
+  11: 'ON_REMOTE_HOLD',
+  12: 'CALL_IN_PROGRESS',
+  13: 'EARLY_MEDIA',
+  14: 'TRANSFER_FAILURE',
+  15: 'REPLACING'
+
+  /**
+   * Call states.
+   * Same as FCS_CALL_STATES, except both key and value are the text representation.
+   * @name CALL_STATES_FCS
+   */
+};const CALL_STATES_FCS = exports.CALL_STATES_FCS = mapValuesToKeys(FCS_CALL_STATES);
+
+/**
+ * Call states
+ * Call states used in the cpaas2 and link call plugins
+ * @name CALL_STATES
  */
 const CALL_STATES = exports.CALL_STATES = {
   INITIATING: 'Initiating',
@@ -22412,7 +23045,78 @@ const CALL_STATES = exports.CALL_STATES = {
   CONNECTED: 'Connected',
   ON_HOLD: 'On Hold',
   ENDED: 'Ended'
-};
+
+  /**
+   * Possible states a call's media can be in.
+   * Describes whether media is flowing or if an endpoint is preventing media flow.
+   * @name CALL_MEDIA_STATES
+   * @type {Object}
+   * @property {string} CONNECTED Both call endpoints allow for media to flow.
+   * @property {string} LOCAL_HOLD Local endpoint disallows media from flowing.
+   * @property {string} REMOTE_HOLD Remote endpoint disallows media from flowing.
+   * @property {string} DUAL_HOLD Both endpoints disallow media from flowing.
+   */
+};const CALL_MEDIA_STATES = exports.CALL_MEDIA_STATES = {
+  CONNECTED: 'Connected',
+  LOCAL_HOLD: 'Local Hold',
+  REMOTE_HOLD: 'Remote Hold',
+  DUAL_HOLD: 'Dual Hold'
+
+  /**
+   * Call operations that require negotiation.
+   * @name OPERATIONS
+   * @type {Object}
+   * @property {string} CHANGE_MEDIA Media flow remains the same, includes non-flow related media changes.
+   * @property {string} HOLD_MEDIA   Media flow stops. May include non-flow related media changes.
+   * @property {string} UNHOLD_MEDIA Media flow restarts. May include non-flow related media changes.
+   * @property {string} MUSIC_ON_HOLD Media flow changes to sendonly.
+   */
+};const OPERATIONS = exports.OPERATIONS = {
+  CHANGE_MEDIA: 'Change Media',
+  HOLD_MEDIA: 'Hold Media',
+  UNHOLD_MEDIA: 'Unhold Media',
+  MUSIC_ON_HOLD: 'Music on hold'
+
+  /**
+   * Call direction
+   * Indication of which direction the call is going
+   * @name CALL_DIRECTION
+   */
+};const CALL_DIRECTION = exports.CALL_DIRECTION = {
+  INCOMING: 'incoming',
+  OUTGOING: 'outgoing'
+
+  /*
+   * A conversion from MediaDeviceInfo.kind values to their more common terms.
+   * See: https://developer.mozilla.org/en-US/docs/Web/API/MediaDeviceInfo/kind
+   */
+};const WEBRTC_DEVICE_KINDS = exports.WEBRTC_DEVICE_KINDS = {
+  audioinput: 'microphone',
+  videoinput: 'camera',
+  audiooutput: 'speaker'
+
+  /**
+   * Enum of ICE media states.
+   * These are taken from FCS call, but inversed.
+   *      See `fcs.call.MediaStates`.
+   * @name FCS_ICE_MEDIA_STATES
+   * @type {Object}
+   */
+};const FCS_ICE_MEDIA_STATES = exports.FCS_ICE_MEDIA_STATES = {
+  0: 'NEW',
+  1: 'CHECKING',
+  2: 'CONNECTED',
+  3: 'COMPLETED',
+  4: 'FAILED',
+  5: 'DISCONNECTED',
+  6: 'CLOSED'
+
+  /**
+   * ICE media states.
+   * Same as FCS_ICE_MEDIA_STATES, except both key and value are the text representation.
+   * @name ICE_MEDIA_STATES
+   */
+};const ICE_MEDIA_STATES = exports.ICE_MEDIA_STATES = mapValuesToKeys(FCS_ICE_MEDIA_STATES);
 
 /***/ }),
 
@@ -22425,11 +23129,6 @@ const CALL_STATES = exports.CALL_STATES = {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-
-var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/extends.js");
-
-var _extends3 = _interopRequireDefault(_extends2);
-
 exports.default = cpaas2Calls;
 
 var _interfaceNew = __webpack_require__("./src/call/interfaceNew/index.js");
@@ -22444,23 +23143,17 @@ var _events = __webpack_require__("./src/call/interfaceNew/events.js");
 
 var _events2 = _interopRequireDefault(_events);
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
-
-var _webrtc = __webpack_require__("./src/webrtc/index.js");
-
-var _channels = __webpack_require__("./src/webrtc/channels/index.js");
-
-var _channels2 = _interopRequireDefault(_channels);
-
-var _sagas2 = __webpack_require__("./src/webrtc/sagas/index.js");
-
-var webrtcSagas = _interopRequireWildcard(_sagas2);
-
 var _actions = __webpack_require__("./src/events/interface/actions.js");
 
 var _actions2 = __webpack_require__("./src/config/interface/actions.js");
 
-var _utils = __webpack_require__("./src/common/utils.js");
+var _utils = __webpack_require__("./src/callstack/utils/index.js");
+
+var _utils2 = __webpack_require__("./src/common/utils.js");
+
+var _codecRemover = __webpack_require__("../fcs/src/js/sdp/codecRemover.js");
+
+var _codecRemover2 = _interopRequireDefault(_codecRemover);
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
@@ -22470,10 +23163,23 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+/**
+ * Configuration options for the call feature.
+ * @public
+ * @name config.call
+ * @memberof config
+ * @instance
+ * @param {Object} call The call configuration object.
+ * @param {Object} [call.iceServers] ICE servers to be used for calls.
+ * @param {boolean} [call.serverTurnCredentials=true] Whether server-provided TURN credentials should be used.
+ * @param {Array} [call.sdpHandlers] List of SDP handler functions to modify SDP. Advanced usage.
+ * @param {boolean} [call.removeH264Codecs=true] Whether to remove "H264" codec lines from incoming and outgoing SDP messages.
+ */
+
 // Libraries.
 
 
-// Webrtc plugin.
+// Helpers.
 // Call plugin.
 function cpaas2Calls(options = {}) {
   const defaultOptions = {
@@ -22488,66 +23194,61 @@ function cpaas2Calls(options = {}) {
       url: 'turns:turn-ucc-2.genband.com:443?transport=tcp',
       credential: ''
     }],
+    // TODO: Remove this once all the browsers use unified-plan
+    sdpSemantics: 'unified-plan',
     // Whether the SDK should fetch turn credentials.
     serverTurnCredentials: true,
     // Trickle ICE method to use for calls.
-    trickleIceMode: 'NONE'
+    trickleIceMode: 'NONE',
+    // SDP handlers to be included in the pipeline for every operation.
+    sdpHandlers: [],
+    // filter out H264 Codec
+    removeH264Codecs: true
   };
-  options = (0, _utils.mergeValues)(defaultOptions, options);
+  options = (0, _utils2.mergeValues)(defaultOptions, options);
 
-  const webRTC = (0, _webrtc.initializeStack)();
-
-  // Wrap the call/webrtc sagas in a function that provides them with the webRTC stack.
-  const wrappedSagas = (0, _fp.values)((0, _extends3.default)({}, sagas, webrtcSagas)).map(saga => {
-    return () => saga(webRTC.managers);
-  });
-
-  function* init() {
+  function* init({ webRTC }) {
     yield (0, _effects.put)((0, _actions2.update)(options, _interfaceNew2.default.name));
     yield (0, _effects.put)((0, _actions.mapEvents)(_events2.default));
-    // Watch for events from the webRTC stack.
-    // TODO: Don't also pass in the entire stack.
-    yield (0, _effects.fork)(_channels2.default, webRTC.managers, webRTC);
-  }
 
-  // Add the CPaaS2 call state constants to the API.
-  const api = _interfaceNew2.default.api;
-  /**
-   * Possible states for a call.
-   *
-   * @public
-   * @memberof Calls
-   * @type {Object}
-   * @property {string} INITIATING The (outgoing) call is being started.
-   * @property {string} INITIATED The (outgoing) call has been sent over the network, but has not been received.
-   * @property {string} RINGING The call has been received by both parties, and is waiting to be answered.
-   * @property {string} CANCELLED The call was disconnected before it could be answered.
-   * @property {string} CONNECTED Both parties are connected and media is flowing.
-   * @property {string} ON_HOLD Both parties are connected but no media is flowing.
-   * @property {string} ENDED The call has ended.
-   * @example
-   * // Use the call states to know how to handle a change in the call.
-   * client.on('call:stateChange', function (params) {
-   *    const call = client.call.getById(params.callId)
-   *    // Check if the call now has media flowing.
-   *    if (call.state === client.call.states.CONNECTED) {
-   *      // Render call media ...
-   *    }
-   * })
-   */
-  api.call.states = _constants.CALL_STATES;
+    /*
+     * Set SDP handlers to be used for every operation:
+     *
+     * 1. Application provided SDP handlers.
+     *
+     * 2. Disable DTLS-SDES crypto method (ie. delete the line) if there's a better
+     *    crypto method enabled. WebRTC only allows one method to be enabled.
+     *    This is needed for interopability with non-browser endpoints that include
+     *    SDES as a fallback method.
+     *
+     * 3. [optional] Disable H264 Codecs for video calls, used to reduce SDP size
+     *
+    */
+    let sdpHandlers = options.sdpHandlers;
+    if (options.removeH264Codecs) {
+      sdpHandlers.push((0, _codecRemover2.default)(['H264']));
+    }
+    sdpHandlers.push(_utils.sanitizeSdesFromSdp);
+    webRTC.sdp.pipeline.setHandlers(sdpHandlers);
+
+    // Wrap the call sagas in a function that provides them with the webRTC stack.
+    const wrappedSagas = (0, _fp.values)(sagas).map(saga => {
+      return (0, _utils2.autoRestart)(() => saga(webRTC.managers));
+    });
+
+    // Run all of the sagas.
+    for (let saga of wrappedSagas) {
+      yield (0, _effects.fork)(saga);
+    }
+  }
 
   return {
     name: _interfaceNew2.default.name,
-    sagas: wrappedSagas,
     api: _interfaceNew2.default.api,
     reducer: _interfaceNew2.default.reducer,
     init
   };
 }
-
-// Helpers.
-
 
 // Other plugins.
 
@@ -22880,11 +23581,15 @@ var _actions = __webpack_require__("./src/call/interfaceNew/actions/index.js");
 
 var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
+var _constants = __webpack_require__("./src/call/constants.js");
 
 var _selectors2 = __webpack_require__("./src/auth/interface/selectors.js");
 
 var _logs = __webpack_require__("./src/logs/index.js");
+
+var _establish = __webpack_require__("./src/callstack/sagas/establish.js");
+
+var _midcall = __webpack_require__("./src/callstack/sagas/midcall.js");
 
 var _constants2 = __webpack_require__("./src/constants.js");
 
@@ -22908,7 +23613,8 @@ const log = (0, _logs.getLogManager)().getLogger('CALL');
 /**
  * Start a call.
  * @method makeCall
- * @param  {Object} action An action of type `MAKE_CALL`.
+ * @param {Object} webRTC an instance of WebRTC
+ * @param {Object} action An action of type `MAKE_CALL`.
  */
 
 
@@ -22925,32 +23631,20 @@ function* makeCall(webRTC, action) {
     mediaConstraints.audio = true;
   }
 
-  log.debug('Getting media with constraints: ', mediaConstraints);
-  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], mediaConstraints);
-
   const turnInfo = yield (0, _effects.select)(_selectors.getTurnInfo);
-  const { trickleIceMode } = yield (0, _effects.select)(_selectors.getOptions);
+  const { trickleIceMode, sdpSemantics } = yield (0, _effects.select)(_selectors.getOptions);
 
-  // Create a webRTC session to represent this call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'create'], {
-    peer: {
-      rtcConfig: {
-        iceServers: turnInfo.servers
-      },
-      trickleIceMode
-    }
+  const { offerSdp, sessionId, mediaId } = yield (0, _effects.call)(_establish.setupCall, webRTC, mediaConstraints, {
+    sdpSemantics,
+    turnInfo,
+    trickleIceMode
   });
-
-  // Add the tracks to the session.
-  yield (0, _effects.call)([session, 'addTracks'], media.getTracks());
-
-  const offer = yield (0, _effects.call)([session, 'generateOffer']);
 
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors2.getRequestInfo, _constants2.platforms.CPAAS2);
   const callInfo = {
     participantAddress: action.payload.participantAddress,
-    offer: offer.sdp
+    offer: offerSdp
   };
 
   const response = yield (0, _effects.call)(_calls.createSession, requestInfo, callInfo);
@@ -22962,16 +23656,16 @@ function* makeCall(webRTC, action) {
       // The ID that the backend uses to track this webRTC session.
       wrtcsSessionId: response.resourceURL.split('sessions/')[1],
       // The ID that the webRTC stack uses to track this webRTC session.
-      webrtcSessionId: session.id,
+      webrtcSessionId: sessionId,
       // The local Media object associated with this call.
-      mediaId: media.id
+      mediaId: mediaId
     }));
   } else {
     // The call failed, so stop the Media object created for the call.
     // TODO: Update redux state that the Media object is stopped.
     //    Need an event from Media model to notify about the stop, and listener
     //    set on Media when it is created (in `createLocalMedia` saga).
-    yield (0, _effects.call)([media, 'stop']);
+    yield (0, _effects.call)(_midcall.closeCall, webRTC, sessionId);
 
     yield (0, _effects.put)(_actions.callActions.makeCallFinish(action.payload.id, {
       state: _constants.CALL_STATES.ENDED,
@@ -22993,14 +23687,6 @@ function* answerCall(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session that represents this call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], incomingCall.webrtcSessionId);
-
-  if (!session) {
-    log.error(`Error: webRTC session ${incomingCall.webrtcSessionId} not found.`);
-    return;
-  }
-
   const mediaConstraints = {
     video: action.payload.mediaConstraints.video,
     audio: action.payload.mediaConstraints.audio
@@ -23012,18 +23698,13 @@ function* answerCall(webRTC, action) {
     mediaConstraints.audio = true;
   }
 
-  log.debug('Getting media with constraints: ', mediaConstraints);
-  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], mediaConstraints);
-
-  // Add the tracks to the session.
-  yield (0, _effects.call)([session, 'addTracks'], media.getTracks());
-
-  const answer = yield (0, _effects.call)([session, 'generateAnswer']);
+  const sessionOptions = { sessionId: incomingCall.webrtcSessionId };
+  const { answerSDP, mediaId } = yield (0, _effects.call)(_establish.answerWebrtcSession, webRTC, mediaConstraints, sessionOptions);
 
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors2.getRequestInfo, _constants2.platforms.CPAAS2);
   const callInfo = {
-    answer: answer.sdp,
+    answer: answerSDP,
     sessionId: incomingCall.wrtcsSessionId
   };
 
@@ -23035,7 +23716,10 @@ function* answerCall(webRTC, action) {
       state: _constants.CALL_STATES.CONNECTED,
       startTime: new Date().getTime(),
       // The local Media object associated with this call.
-      mediaId: media.id
+      mediaId: mediaId
+    }, {
+      // CPaaS2 does not check for / support slow start yet.
+      isSlowStart: false
     }));
   } else {
     yield (0, _effects.put)(_actions.callActions.answerCallFinish(action.payload.id, {
@@ -23062,6 +23746,7 @@ exports.holdCall = holdCall;
 exports.unholdCall = unholdCall;
 exports.addMedia = addMedia;
 exports.removeMedia = removeMedia;
+exports.sendDTMF = sendDTMF;
 exports.incomingCallNotification = incomingCallNotification;
 exports.callAcceptedNotification = callAcceptedNotification;
 exports.callStatusNotification = callStatusNotification;
@@ -23069,6 +23754,7 @@ exports.callAudit = callAudit;
 exports.callOfferNotification = callOfferNotification;
 exports.callAnswerNotification = callAnswerNotification;
 exports.endCall = endCall;
+exports.getStats = getStats;
 exports.setTurnCredentials = setTurnCredentials;
 
 var _subscriptions = __webpack_require__("./src/call/cpaas2/sagas/subscriptions.js");
@@ -23185,6 +23871,14 @@ function* removeMedia(webRTC) {
 }
 
 /**
+ * Send DTMF tones for a call.
+ * @method sendDTMF
+ */
+function* sendDTMF(webRTC) {
+  yield (0, _effects2.takeEvery)(actionTypes.SEND_DTMF, midcallSagas.sendDTMF, webRTC);
+}
+
+/**
  * Call notifications.
  */
 
@@ -23273,7 +23967,7 @@ function* callAnswerNotification(webRTC) {
     return action.type === _actionTypes3.NOTIFICATION_RECEIVED && action.payload.wrtcsAnswerNotification;
   }
 
-  yield (0, _effects2.takeEvery)(callAnswerPattern, notificationSagas.receivedAnswer, webRTC);
+  yield (0, _effects2.takeEvery)(callAnswerPattern, notificationSagas.handleAnswerNotification, webRTC);
 }
 
 /**
@@ -23283,6 +23977,15 @@ function* callAnswerNotification(webRTC) {
  */
 function* endCall(webRTC) {
   yield (0, _effects2.takeEvery)(actionTypes.END_CALL, midcallSagas.endCall, webRTC);
+}
+
+/**
+ * Get RTCStatsReport.
+ * @method getStats
+ * @param  {Object} webRTC The webRTC stack.
+ */
+function* getStats(webRTC) {
+  yield (0, _effects2.takeEvery)(actionTypes.GET_STATS, midcallSagas.getStats, webRTC);
 }
 
 /**
@@ -23317,6 +24020,8 @@ exports.offerInactiveMedia = offerInactiveMedia;
 exports.offerFullMedia = offerFullMedia;
 exports.addMedia = addMedia;
 exports.removeMedia = removeMedia;
+exports.sendDTMF = sendDTMF;
+exports.getStats = getStats;
 
 var _calls = __webpack_require__("./src/call/cpaas2/requests/calls.js");
 
@@ -23334,23 +24039,19 @@ var _constants = __webpack_require__("./src/constants.js");
 
 var _utils = __webpack_require__("./src/call/cpaas2/utils/index.js");
 
+var _selectors2 = __webpack_require__("./src/call/interfaceNew/selectors.js");
+
 var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
+var _midcall = __webpack_require__("./src/callstack/sagas/midcall.js");
+
+var _constants2 = __webpack_require__("./src/call/constants.js");
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 // Libraries.
-
-
-// Helpers.
-const log = (0, _logs.getLogManager)().getLogger('CALL');
-
-/**
- * End a call.
- * @method endCall
- * @param  {Object} action An action of type `END_CALL`.
- */
 
 
 // Other plugins.
@@ -23362,35 +24063,42 @@ const log = (0, _logs.getLogManager)().getLogger('CALL');
  */
 
 // Call plugin.
+const log = (0, _logs.getLogManager)().getLogger('CALL');
+
+/**
+ * End a call.
+ * @method endCall
+ * @param  {Object} action An action of type `END_CALL`.
+ */
+
+
+// Helpers.
 function* endCall(webRTC, action) {
-  const { session, targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  const { id } = action.payload;
+  const { error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, id);
 
   if (error) {
     log.debug(`Failed to end call: ${error.message}`);
-    yield (0, _effects.put)(_actions.callActions.endCallFinish(action.payload.id, { error }));
+    yield (0, _effects.put)(_actions.callActions.endCallFinish(id, { error }));
     return;
   }
+
+  const { wrtcsSessionId, webrtcSessionId } = yield (0, _effects.select)(_selectors2.getCallById, id);
+
+  yield (0, _effects.call)(_midcall.closeCall, webRTC, webrtcSessionId);
 
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors.getRequestInfo, _constants.platforms.CPAAS2);
   const callInfo = {
-    sessionId: targetCall.wrtcsSessionId
+    sessionId: wrtcsSessionId
   };
 
   const response = yield (0, _effects.call)(_calls.endSession, requestInfo, callInfo);
 
-  // Get the local tracks.
-  const localTracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], targetCall.localTracks);
-
-  // Clean-up the local tracks.
-  yield (0, _effects.all)(localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
-
-  yield (0, _effects.call)([session, 'end']);
-
   if (!response.error) {
-    yield (0, _effects.put)(_actions.callActions.endCallFinish(action.payload.id));
+    yield (0, _effects.put)(_actions.callActions.endCallFinish(id));
   } else {
-    yield (0, _effects.put)(_actions.callActions.endCallFinish(action.payload.id, {
+    yield (0, _effects.put)(_actions.callActions.endCallFinish(id, {
       error: response.error
     }));
   }
@@ -23403,7 +24111,7 @@ function* endCall(webRTC, action) {
  * @param  {Object} action An action of type `CALL_HOLD`.
  */
 function* offerInactiveMedia(webRTC, action) {
-  const { session, targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  const { targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
 
   if (error) {
     log.debug(`Failed to re-offer: ${error.message}`);
@@ -23425,14 +24133,22 @@ function* offerInactiveMedia(webRTC, action) {
     return;
   }
 
-  // TODO: Make sure the session is in the correct signaling state to start a
-  //    renegotiation operation.
-  const offer = yield (0, _effects.call)([session, 'generateOffer'], {
-    mediaDirections: {
-      audio: 'inactive',
-      video: 'inactive'
-    }
+  const offer = yield (0, _effects.call)(_midcall.generateOffer, webRTC, targetCall.webrtcSessionId, {
+    audio: 'inactive',
+    video: 'inactive'
   });
+
+  if (!offer) {
+    log.debug('Failed to generate SDP offer');
+    yield (0, _effects.put)(_actions.callActions.holdCallFinish(action.payload.id, {
+      local: true,
+      error: new _errors2.default({
+        code: _errors.callCodes.INVALID_OFFER,
+        message: 'Failed to generate SDP offer'
+      })
+    }));
+    return;
+  }
 
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors.getRequestInfo, _constants.platforms.CPAAS2);
@@ -23464,7 +24180,7 @@ function* offerInactiveMedia(webRTC, action) {
  * @param  {Object} action A "call unhold" action.
  */
 function* offerFullMedia(webRTC, action) {
-  const { session, targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  const { targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
 
   if (error) {
     log.debug(`Failed to re-offer: ${error.message}`);
@@ -23487,12 +24203,22 @@ function* offerFullMedia(webRTC, action) {
 
   // TODO: Make sure the session is in the correct signaling state to start a
   //    renegotiation operation.
-  const offer = yield (0, _effects.call)([session, 'generateOffer'], {
-    mediaDirections: {
-      audio: 'sendrecv',
-      video: 'sendrecv'
-    }
+  const offer = yield (0, _effects.call)(_midcall.generateOffer, webRTC, targetCall.webrtcSessionId, {
+    audio: 'sendrecv',
+    video: 'sendrecv'
   });
+
+  if (!offer) {
+    log.debug('Invalid SDP offer or SDP offer not received.');
+    yield (0, _effects.put)(_actions.callActions.unholdCallFinish(action.payload.id, {
+      local: true,
+      error: new _errors2.default({
+        code: _errors.callCodes.INVALID_OFFER,
+        message: 'Invalid SDP offer or SDP offer not received'
+      })
+    }));
+    return;
+  }
 
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors.getRequestInfo, _constants.platforms.CPAAS2);
@@ -23523,29 +24249,30 @@ function* offerFullMedia(webRTC, action) {
  * @param  {Object} action An "add media" action.
  */
 function* addMedia(webRTC, action) {
-  const { session, targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
-
-  if (error) {
-    log.debug(`Failed to re-offer: ${error.message}`);
+  // Make sure the call state is what we expect
+  const stateError = yield (0, _effects.call)(_utils.validateCallState, action.payload.id, { state: _constants2.CALL_STATES.CONNECTED });
+  if (stateError) {
+    log.debug(`Invalid call state: ${stateError.message}`);
     yield (0, _effects.put)(_actions.callActions.addMediaFinish(action.payload.id, {
       local: true,
-      error
+      error: stateError
     }));
     return;
   }
 
-  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], action.payload.mediaConstraints);
-  yield (0, _effects.call)([session, 'addTracks'], media.getTracks());
+  // Get some call data.
+  const { webrtcSessionId, wrtcsSessionId } = yield (0, _effects.select)(_selectors2.getCallById, action.payload.id);
 
-  // TODO: Make sure the session is in the correct signaling state to start a
-  //    renegotiation operation.
-  const offer = yield (0, _effects.call)([session, 'generateOffer']);
+  // Create media and add tracks using webRTC
+  const { sdp, media } = yield (0, _effects.call)(_midcall.webRtcAddMedia, webRTC, action.payload.mediaConstraints, {
+    sessionId: webrtcSessionId
+  });
 
-  // Collect the information needed to make the request.
+  // Get the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors.getRequestInfo, _constants.platforms.CPAAS2);
   const callInfo = {
-    sessionId: targetCall.wrtcsSessionId,
-    offer: offer.sdp
+    sessionId: wrtcsSessionId,
+    offer: sdp
   };
 
   const response = yield (0, _effects.call)(_calls.updateSession, requestInfo, callInfo);
@@ -23561,7 +24288,7 @@ function* addMedia(webRTC, action) {
     yield (0, _effects.put)(_actions.callActions.addMediaFinish(action.payload.id, {
       local: true,
       mediaId: media.id,
-      tracks: media.getTracks().map(track => track.id)
+      tracks: media.tracks.map(track => track.id)
     }));
   }
 }
@@ -23585,10 +24312,26 @@ function* removeMedia(webRTC, action) {
     return;
   }
 
-  const { session, targetCall, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  // Make sure the call state is what we expect
+  const stateError = yield (0, _effects.call)(_utils.validateCallState, action.payload.id, { state: _constants2.CALL_STATES.CONNECTED });
+  if (stateError) {
+    log.debug(`Invalid call state:  ${stateError.message}`);
+    yield (0, _effects.put)(_actions.callActions.removeMediaFinish(action.payload.id, {
+      local: true,
+      stateError
+    }));
+    return;
+  }
+  // Get some call data.
+  const { webrtcSessionId, wrtcsSessionId } = yield (0, _effects.select)(_selectors2.getCallById, action.payload.id);
 
+  // Remove media and tracks using webRTC
+  const { sdp, error } = yield (0, _effects.call)(_midcall.webRtcRemoveMedia, webRTC, {
+    sessionId: webrtcSessionId,
+    tracks: action.payload.tracks
+  });
   if (error) {
-    log.debug(`Failed to re-offer: ${error.message}`);
+    log.debug(`Failed to remove media: ${error.message}`);
     yield (0, _effects.put)(_actions.callActions.removeMediaFinish(action.payload.id, {
       local: true,
       error
@@ -23596,46 +24339,11 @@ function* removeMedia(webRTC, action) {
     return;
   }
 
-  // Get the tracks
-  const localTracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], action.payload.tracks);
-  const invalidTrackIds = [];
-  for (var i = 0; i < localTracks.length; i++) {
-    if ((0, _fp.isUndefined)(localTracks[i])) {
-      invalidTrackIds.push(action.payload.tracks[i]);
-    }
-  }
-
-  // Handle scenario where some or all of the track ids are invalid
-  if (!(0, _fp.isEmpty)(invalidTrackIds)) {
-    const message = `The following invalid track ids were provided: ${invalidTrackIds.join(', ')}`;
-    log.debug(message);
-    yield (0, _effects.put)(_actions.callActions.removeMediaFinish(action.payload.id, {
-      local: true,
-      error: new _errors2.default({
-        code: _errors.callCodes.INVALID_PARAM,
-        message
-      })
-    }));
-    return;
-  }
-
-  // Removes tracks from peer (Will stop tracks from being sent to remote participant).
-  // Does NOT end the tracks.
-  yield (0, _effects.call)([session, 'removeTracks'], action.payload.tracks);
-
-  // Ends the tracks.
-  // Clean-up the local tracks.
-  yield (0, _effects.all)(localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
-
-  // TODO: Make sure the session is in the correct signaling state to start a
-  //    renegotiation operation.
-  const offer = yield (0, _effects.call)([session, 'generateOffer']);
-
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors.getRequestInfo, _constants.platforms.CPAAS2);
   const callInfo = {
-    sessionId: targetCall.wrtcsSessionId,
-    offer: offer.sdp
+    sessionId: wrtcsSessionId,
+    offer: sdp
   };
 
   const response = yield (0, _effects.call)(_calls.updateSession, requestInfo, callInfo);
@@ -23652,6 +24360,78 @@ function* removeMedia(webRTC, action) {
       local: true,
       tracks: action.payload.tracks
     }));
+  }
+}
+
+/**
+ * Sends DTMF tones.
+ * @method sendDTMF
+ * @param  {Object} action A "send DTMF" action.
+ */
+function* sendDTMF(webRTC, action) {
+  // Handle scenario where no tone is provided.
+  if ((0, _fp.isUndefined)(action.payload.tone)) {
+    yield (0, _effects.put)(_actions.callActions.sendDTMFFinish(action.payload.id, {
+      error: new _errors2.default({
+        code: _errors.callCodes.INVALID_PARAM,
+        message: 'No tone specifed.'
+      })
+    }));
+    return;
+  }
+
+  const { session, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  const { tone, duration, intertoneGap } = action.payload;
+
+  if (error) {
+    log.debug(`Failed to send DTMF: ${error.message}`);
+    yield (0, _effects.put)(_actions.callActions.sendDTMFFinish(action.payload.id, { error }));
+    return;
+  }
+  // Send DTMF tones.
+  const result = yield (0, _effects.call)([session, 'sendDTMF'], { tone, duration, intertoneGap });
+  if (result) {
+    log.debug('Successfully sent DTMF tones.');
+    yield (0, _effects.put)(_actions.callActions.sendDTMFFinish(action.payload.id));
+  } else {
+    log.debug('Failed to send DTMF tones.');
+    yield (0, _effects.put)(_actions.callActions.sendDTMFFinish(action.payload.id, {
+      error: new _errors2.default({
+        code: _errors.callCodes.GENERIC_ERROR,
+        message: 'Unable to send DTMF tones.'
+      })
+    }));
+  }
+}
+/**
+ * Gets RTCStatsReport.
+ * @method getStats
+ * @param  {Object} action A "get Stats" action.
+ */
+function* getStats(webRTC, action) {
+  const trackId = action.payload.trackId;
+  const { session, error } = yield (0, _effects.call)(_utils.getSessionInfoByCallId, webRTC, action.payload.id);
+  if (error) {
+    yield (0, _effects.put)(_actions.callActions.getStatsFinish(action.payload.id, { error, trackId }));
+    return;
+  }
+
+  // Retrieve the RTCStatsReport from the session.
+  let result;
+  try {
+    result = yield (0, _effects.call)([session, 'getStats'], trackId);
+    log.debug('Successfully got RTCStatsReport.');
+  } catch (error) {
+    yield (0, _effects.put)(_actions.callActions.getStatsFinish(action.payload.id, {
+      error: new _errors2.default({
+        code: _errors.callCodes.GENERIC_ERROR,
+        message: error.message
+      }),
+      trackId
+    }));
+  }
+  if (result) {
+    yield (0, _effects.put)(_actions.callActions.getStatsFinish(action.payload.id, { result, trackId }));
   }
 }
 
@@ -23672,19 +24452,25 @@ exports.callStatusUpdateRinging = callStatusUpdateRinging;
 exports.callStatusUpdateCancelled = callStatusUpdateCancelled;
 exports.callStatusUpdateEnded = callStatusUpdateEnded;
 exports.receivedOffer = receivedOffer;
-exports.receivedAnswer = receivedAnswer;
+exports.handleAnswerNotification = handleAnswerNotification;
 
 var _calls = __webpack_require__("./src/call/cpaas2/requests/calls.js");
 
 var _actions = __webpack_require__("./src/call/interfaceNew/actions/index.js");
 
-var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
+var _constants = __webpack_require__("./src/call/constants.js");
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
+var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
 
 var _selectors2 = __webpack_require__("./src/auth/interface/selectors.js");
 
 var _logs = __webpack_require__("./src/logs/index.js");
+
+var _midcall = __webpack_require__("./src/callstack/sagas/midcall.js");
+
+var _negotiation = __webpack_require__("./src/callstack/sagas/negotiation.js");
+
+var _establish = __webpack_require__("./src/callstack/sagas/establish.js");
 
 var _constants2 = __webpack_require__("./src/constants.js");
 
@@ -23697,16 +24483,6 @@ var _v2 = _interopRequireDefault(_v);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 // Libraries.
-const log = (0, _logs.getLogManager)().getLogger('CALL');
-
-/**
- * Handle an incoming call notification.
- * @method incomingCall
- * @param  {Object} action An action representing an incoming call notification.
- */
-
-
-// Helpers.
 
 
 // Other plugins.
@@ -23723,41 +24499,29 @@ const log = (0, _logs.getLogManager)().getLogger('CALL');
  */
 
 // Call plugin.
+const log = (0, _logs.getLogManager)().getLogger('CALL');
+
+/**
+ * Handle an incoming call notification.
+ * @method incomingCall
+ * @param  {Object} action An action representing an incoming call notification.
+ */
+
+
+// Helpers.
 function* incomingCall(webRTC, action) {
-  const wrtcsSession = action.payload.wrtcsSessionInvitationNotification;
-  const wrtcsSessionId = wrtcsSession.link[0].href.split('sessions/')[1];
+  const { originatorAddress, originatorName, link, offer } = action.payload.wrtcsSessionInvitationNotification;
+  const wrtcsSessionId = link[0].href.split('sessions/')[1];
 
   const turnInfo = yield (0, _effects.select)(_selectors.getTurnInfo);
-  const { trickleIceMode } = yield (0, _effects.select)(_selectors.getOptions);
+  const { trickleIceMode, sdpSemantics } = yield (0, _effects.select)(_selectors.getOptions);
 
-  // Create a webRTC session to represent the incoming call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'create'], {
-    peer: {
-      rtcConfig: {
-        iceServers: turnInfo.servers
-      },
-      trickleIceMode
-    }
+  const sessionId = yield (0, _effects.call)(_establish.setupIncomingCall, webRTC, {
+    offer,
+    trickleIceMode,
+    sdpSemantics,
+    turnInfo
   });
-
-  // Dispatch the "call incoming" action after creating the Session, but before
-  //    doing anything with it so that state knows about this call/session.
-  // Processing the offer will cause side-effects that will need to update
-  //    the call/session state.
-  const callId = yield (0, _effects.call)(_v2.default);
-  yield (0, _effects.put)(_actions.callActions.callIncoming(callId, {
-    // TODO: Proper constants.
-    direction: 'incoming',
-    state: _constants.CALL_STATES.RINGING,
-    remoteParticipant: {
-      displayName: wrtcsSession.originatorAddress,
-      displayNumber: wrtcsSession.originatorName
-    },
-    // The ID that the backend uses to track this webRTC session.
-    wrtcsSessionId,
-    // The ID that the webRTC stack uses to track this webRTC session.
-    webrtcSessionId: session.id
-  }));
 
   // Send update that the wrtcsSessionStatus is 'Ringing'
   const requestInfo = yield (0, _effects.select)(_selectors2.getRequestInfo, _constants2.platforms.CPAAS2);
@@ -23768,10 +24532,20 @@ function* incomingCall(webRTC, action) {
     log.error(`Error: Update session status error - ${updateStatusResponse.error.code}: ${updateStatusResponse.error.message}.`);
   }
 
-  yield (0, _effects.call)([session, 'processOffer'], {
-    type: 'offer',
-    sdp: wrtcsSession.offer.sdp
-  });
+  const callId = yield (0, _effects.call)(_v2.default);
+  yield (0, _effects.put)(_actions.callActions.callIncoming(callId, {
+    // TODO: Proper constants.
+    direction: 'incoming',
+    state: _constants.CALL_STATES.RINGING,
+    remoteParticipant: {
+      displayName: originatorAddress,
+      displayNumber: originatorName
+    },
+    // The ID that the backend uses to track this webRTC session.
+    wrtcsSessionId,
+    // The ID that the webRTC stack uses to track this webRTC session.
+    webrtcSessionId: sessionId
+  }));
 }
 
 /**
@@ -23792,18 +24566,8 @@ function* callAccepted(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session to pass it the answer SDP.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], currentCall.webrtcSessionId);
-
-  if (!session) {
-    log.error(`Error: webRTC session ${currentCall.webrtcSessionId} not found.`);
-    return;
-  }
-
-  const error = yield (0, _effects.call)([session, 'processAnswer'], {
-    type: 'answer',
-    sdp: wrtcsSession.answer.sdp
-  });
+  const sessionOptions = { sessionId: currentCall.webrtcSessionId, answerSdp: wrtcsSession.answer.sdp };
+  const error = yield (0, _effects.call)(_negotiation.receivedAnswer, webRTC, sessionOptions, currentCall);
 
   if (!error) {
     yield (0, _effects.put)(_actions.callActions.callAccepted(currentCall.id, {
@@ -23851,20 +24615,7 @@ function* callStatusUpdateCancelled(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session that represents this call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], targetCall.webrtcSessionId);
-
-  if (!session) {
-    log.debug(`webRTC session ${targetCall.webrtcSessionId} not found.`);
-    return;
-  }
-
-  // Get the local tracks.
-  const localTracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], targetCall.localTracks);
-  // Clean-up the local tracks.
-  yield (0, _effects.all)(localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
-
-  yield (0, _effects.call)([session, 'end']);
+  yield (0, _effects.call)(_midcall.closeCall, webRTC, targetCall.id);
 
   yield (0, _effects.put)(_actions.callActions.callCancelled(targetCall.id));
 }
@@ -23891,20 +24642,7 @@ function* callStatusUpdateEnded(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session to pass it the answer SDP.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], currentCall.webrtcSessionId);
-
-  if (!session) {
-    log.debug(`Error: webRTC session ${currentCall.webrtcSessionId} not found.`);
-    return;
-  }
-
-  // Get the local tracks.
-  const localTracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], currentCall.localTracks);
-  // Clean-up the local tracks.
-  yield (0, _effects.all)(localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
-
-  yield (0, _effects.call)([session, 'end']);
+  yield (0, _effects.call)(_midcall.closeCall, webRTC, currentCall.webrtcSessionId);
 
   yield (0, _effects.put)(_actions.callActions.endCallFinish(currentCall.id));
 }
@@ -23915,9 +24653,10 @@ function* callStatusUpdateEnded(webRTC, action) {
  * @param  {Object} action A notification action for "offer received".
  */
 function* receivedOffer(webRTC, action) {
-  const wrtcsSession = action.payload.wrtcsOfferNotification;
-  const wrtcsSessionId = wrtcsSession.link[0].href.split('sessions/')[1];
+  const { link, offer } = action.payload.wrtcsOfferNotification;
+  const wrtcsSessionId = link[0].href.split('sessions/')[1];
 
+  // TODO: Helper to go from wrtcsSessionId --> session.
   const targetCall = yield (0, _effects.select)(_selectors.getCallByWrtcsSessionId, wrtcsSessionId);
 
   if (!targetCall) {
@@ -23928,30 +24667,17 @@ function* receivedOffer(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session that represents this call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], targetCall.webrtcSessionId);
+  const { answerSDP, error } = yield (0, _effects.call)(_midcall.handleOffer, webRTC, offer.sdp, targetCall.webrtcSessionId);
 
-  if (!session) {
-    // Scenario: A call in state does not have a webRTC session.
-    //    Our state is not synced with the webRTC stack.
-    // TODO: Do we end the call in our state or try to recover the call?
-    log.debug(`webRTC session ${targetCall.webrtcSessionId} not found.`);
+  if (error) {
+    log.debug('Failed to recieve offer SDP', error);
     return;
   }
-
-  // TODO: Make sure the session is in the correct signaling state to process an offer.
-  yield (0, _effects.call)([session, 'processOffer'], {
-    type: 'offer',
-    sdp: wrtcsSession.offer.sdp
-  });
-
-  const answer = yield (0, _effects.call)([session, 'generateAnswer']);
-
   // Collect the information needed to make the request.
   const requestInfo = yield (0, _effects.select)(_selectors2.getRequestInfo, _constants2.platforms.CPAAS2);
   const callInfo = {
-    answer: answer.sdp,
-    sessionId: targetCall.wrtcsSessionId
+    answer: answerSDP,
+    sessionId: wrtcsSessionId
   };
 
   const response = yield (0, _effects.call)(_calls.answerSession, requestInfo, callInfo);
@@ -23966,12 +24692,12 @@ function* receivedOffer(webRTC, action) {
 
 /**
  * Handle a remote answer SDP.
- * @method receivedAnswer
+ * @method handleAnswerNotification
  * @param  {Object} action A notification action for "answer received".
  */
-function* receivedAnswer(webRTC, action) {
-  const wrtcsSession = action.payload.wrtcsAnswerNotification;
-  const wrtcsSessionId = wrtcsSession.link[0].href.split('sessions/')[1];
+function* handleAnswerNotification(webRTC, action) {
+  const { link, answer } = action.payload.wrtcsAnswerNotification;
+  const wrtcsSessionId = link[0].href.split('sessions/')[1];
 
   // TODO: Helper to go from wrtcsSessionId --> session.
   const targetCall = yield (0, _effects.select)(_selectors.getCallByWrtcsSessionId, wrtcsSessionId);
@@ -23984,23 +24710,13 @@ function* receivedAnswer(webRTC, action) {
     return;
   }
 
-  // Get the webRTC session that represents this call.
-  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], targetCall.webrtcSessionId);
+  // Information about the Session / answer that the callstack will need.
+  const sessionInfo = {
+    sessionId: targetCall.webrtcSessionId,
+    answerSdp: answer.sdp
+  };
 
-  if (!session) {
-    // Scenario: A call in state does not have a webRTC session.
-    //    Our state is not synced with the webRTC stack.
-    // TODO: Do we end the call in our state or try to recover the call?
-    log.debug(`webRTC session ${incomingCall.webrtcSessionId} not found.`);
-    return;
-  }
-
-  // TODO: Make sure the session is in the correct signaling state to process an answer.
-  const error = yield (0, _effects.call)([session, 'processAnswer'], {
-    type: 'answer',
-    sdp: wrtcsSession.answer.sdp
-  });
-
+  const { error } = yield (0, _effects.call)(_negotiation.receivedAnswer, webRTC, sessionInfo, targetCall);
   // TODO: Need to determine what was updated, then update state and emit an event.
   if (error) {
     log.debug('Failed to process remote answer.', error);
@@ -24130,7 +24846,7 @@ var _actions = __webpack_require__("./src/call/interfaceNew/actions/index.js");
 
 var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
+var _constants = __webpack_require__("./src/call/constants.js");
 
 var _selectors2 = __webpack_require__("./src/auth/interface/selectors.js");
 
@@ -24263,16 +24979,20 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.getSessionInfoByCallId = getSessionInfoByCallId;
+exports.validateCallState = validateCallState;
+exports.sanitizeSdesFromSdp = sanitizeSdesFromSdp;
 
 var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
+var _constants = __webpack_require__("./src/call/constants.js");
 
 var _errors = __webpack_require__("./src/errors/index.js");
 
 var _errors2 = _interopRequireDefault(_errors);
 
 var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -24301,8 +25021,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  */
 
 
-// Other plugins.
-// Call plugin.
+// Libraries.
 function* getSessionInfoByCallId(webRTC, callId) {
   const targetCall = yield (0, _effects.select)(_selectors.getCallById, callId);
 
@@ -24346,7 +25065,96 @@ function* getSessionInfoByCallId(webRTC, callId) {
   return { targetCall, session };
 }
 
-// Libraries.
+/**
+ * Helper function: Check that the call is in an expected state.
+ * @method validateCallState
+ * @param  {string} callId ID for the call to validate.
+ * @param  {Object} expected  Properties that the call state is expected to have.
+ * @return {BasicError}
+ */
+
+
+// Other plugins.
+// Call plugin.
+function* validateCallState(callId, expected) {
+  /**
+   * Checks whether set is contained within whole.
+   * Tracks which properties of set are not the same as whole.
+   * @method isSubsetOf
+   * @param  {Object} set
+   * @param  {Object} whole
+   * @return {Array} List of set properties that are not the same as whole.
+   */
+  function isSubsetOf(set, whole) {
+    const differences = [];
+    // Ensure that each property in the set is also part of the whole.
+    for (let prop in set) {
+      if ((0, _fp.isArray)(set[prop])) {
+        // Compare arrays.
+        if ((0, _fp.difference)(set[prop], whole[prop]).length > 0) {
+          differences.push(prop);
+        }
+      } else if ((0, _fp.isObject)(set[prop])) {
+        // Compare objects (recursively).
+        if (isSubsetOf(set[prop], whole[prop]).length > 0) {
+          // Don't recursively add to differences.
+          differences.push(prop);
+        }
+      } else {
+        // Compare everything else.
+        if (set[prop] !== whole[prop]) {
+          differences.push(prop);
+        }
+      }
+    }
+
+    return differences;
+  }
+
+  const targetCall = yield (0, _effects.select)(_selectors.getCallById, callId);
+
+  // Ensure the call state exists.
+  if (!targetCall) {
+    return new _errors2.default({
+      code: _errors.callCodes.INVALID_PARAM,
+      message: 'Call state not found; invalid call ID.'
+    });
+  }
+
+  // Check whether the expected properties are a subset of the call properties.
+  const differences = isSubsetOf(expected, targetCall);
+
+  if (differences.length === 0) {
+    return false;
+  } else {
+    return new _errors2.default({
+      code: _errors.callCodes.INVALID_STATE,
+      message: `Call is in an invalid state (${differences}).`
+    });
+  }
+}
+
+/**
+ * SDP handler function that should be passed into session object's `processOffer` and `processAnswer` function.
+ * This function disables old media encryption method SDES (Modifies sdp by removing crypto).
+ * However, if only SDES is available, don't disable it.
+ * @method sanitizeSdesFromSdp
+ * @param {Object} newSdp The sdp so far (could have been modified by previous handlers).
+ * @param {RTCSdpType} info Information about the session description.
+ * @param {RTCSdpType} info.type The session description's type.
+ * @param {string} info.endpoint Which end of the connection created the SDP.
+ * @param {boolean} info.isInitiator Whether this session initiated the call or not.
+ * @param {Object} originalSdp The sdp in its initial state.
+ * @return {Object} The sanitized sdp with crypto removed (if fingerprint exists)
+ */
+function sanitizeSdesFromSdp(newSdp, info, originalSdp) {
+  for (let mLine of newSdp.media) {
+    if (mLine.crypto && mLine.fingerprint) {
+      delete mLine.crypto;
+    }
+  }
+  return newSdp;
+}
 
 /***/ }),
 
@@ -24377,6 +25185,12 @@ const CALL_AUDIT = exports.CALL_AUDIT = callPrefix + 'AUDIT';
 const ANSWER_CALL = exports.ANSWER_CALL = callPrefix + 'ANSWER';
 const ANSWER_CALL_FINISH = exports.ANSWER_CALL_FINISH = callPrefix + 'ANSWER_FINISH';
 
+const REJECT_CALL = exports.REJECT_CALL = callPrefix + 'REJECT';
+const REJECT_CALL_FINISH = exports.REJECT_CALL_FINISH = callPrefix + 'REJECT_FINISH';
+
+const IGNORE_CALL = exports.IGNORE_CALL = callPrefix + 'IGNORE';
+const IGNORE_CALL_FINISH = exports.IGNORE_CALL_FINISH = callPrefix + 'IGNORE_FINISH';
+
 const CALL_ACCEPTED = exports.CALL_ACCEPTED = callPrefix + 'ACCEPTED';
 
 const END_CALL = exports.END_CALL = callPrefix + 'END';
@@ -24386,17 +25200,31 @@ const END_CALL_FINISH = exports.END_CALL_FINISH = callPrefix + 'END_FINISH';
  * Mid-call operation actions.
  */
 
+const UPDATE_CALL = exports.UPDATE_CALL = callPrefix + 'UPDATE_CALL';
+
 const CALL_HOLD = exports.CALL_HOLD = callPrefix + 'HOLD';
 const CALL_HOLD_FINISH = exports.CALL_HOLD_FINISH = callPrefix + 'HOLD_FINISH';
 
 const CALL_UNHOLD = exports.CALL_UNHOLD = callPrefix + 'UNHOLD';
 const CALL_UNHOLD_FINISH = exports.CALL_UNHOLD_FINISH = callPrefix + 'UNHOLD_FINISH';
 
+const CALL_REMOTE_HOLD_FINISH = exports.CALL_REMOTE_HOLD_FINISH = callPrefix + 'CALL_REMOTE_HOLD_FINISH';
+
+const CALL_REMOTE_UNHOLD_FINISH = exports.CALL_REMOTE_UNHOLD_FINISH = callPrefix + 'CALL_REMOTE_UNHOLD_FINISH';
+
 const ADD_MEDIA = exports.ADD_MEDIA = callPrefix + 'ADD_MEDIA';
 const ADD_MEDIA_FINISH = exports.ADD_MEDIA_FINISH = callPrefix + 'ADD_MEDIA_FINISH';
 
 const REMOVE_MEDIA = exports.REMOVE_MEDIA = callPrefix + 'REMOVE_MEDIA';
 const REMOVE_MEDIA_FINISH = exports.REMOVE_MEDIA_FINISH = callPrefix + 'REMOVE_MEDIA_FINISH';
+
+const MUSIC_ON_HOLD = exports.MUSIC_ON_HOLD = callPrefix + 'MUSIC_ON_HOLD';
+
+const SEND_DTMF = exports.SEND_DTMF = callPrefix + 'SEND_DTMF';
+const SEND_DTMF_FINISH = exports.SEND_DTMF_FINISH = callPrefix + 'SEND_DTMF_FINISH';
+
+const GET_STATS = exports.GET_STATS = callPrefix + 'GET_STATS';
+const GET_STATS_FINISH = exports.GET_STATS_FINISH = callPrefix + 'GET_STATS_FINISH';
 
 /**
  * Turn action types.
@@ -24437,17 +25265,29 @@ exports.callCancelled = callCancelled;
 exports.sendCallAudit = sendCallAudit;
 exports.answerCall = answerCall;
 exports.answerCallFinish = answerCallFinish;
+exports.rejectCall = rejectCall;
+exports.rejectCallFinish = rejectCallFinish;
 exports.callAccepted = callAccepted;
+exports.ignoreCall = ignoreCall;
+exports.ignoreCallFinish = ignoreCallFinish;
 exports.endCall = endCall;
 exports.endCallFinish = endCallFinish;
+exports.updateCall = updateCall;
 exports.holdCall = holdCall;
 exports.holdCallFinish = holdCallFinish;
+exports.holdRemoteCallFinish = holdRemoteCallFinish;
 exports.unholdCall = unholdCall;
 exports.unholdCallFinish = unholdCallFinish;
+exports.unholdRemoteCallFinish = unholdRemoteCallFinish;
 exports.addMedia = addMedia;
 exports.addMediaFinish = addMediaFinish;
 exports.removeMedia = removeMedia;
 exports.removeMediaFinish = removeMediaFinish;
+exports.musicOnHold = musicOnHold;
+exports.sendDTMF = sendDTMF;
+exports.sendDTMFFinish = sendDTMFFinish;
+exports.getStats = getStats;
+exports.getStatsFinish = getStatsFinish;
 
 var _actionTypes = __webpack_require__("./src/call/interfaceNew/actionTypes.js");
 
@@ -24531,12 +25371,28 @@ function answerCall(id, options) {
   return callActionHelper(actionTypes.ANSWER_CALL, id, options);
 }
 
-function answerCallFinish(id, params) {
-  return callActionHelper(actionTypes.ANSWER_CALL_FINISH, id, params);
+function answerCallFinish(id, params, meta) {
+  return callActionHelper(actionTypes.ANSWER_CALL_FINISH, id, params, meta);
+}
+
+function rejectCall(id, options) {
+  return callActionHelper(actionTypes.REJECT_CALL, id, options);
+}
+
+function rejectCallFinish(id, params) {
+  return callActionHelper(actionTypes.REJECT_CALL_FINISH, id, params);
 }
 
 function callAccepted(id, params) {
   return callActionHelper(actionTypes.CALL_ACCEPTED, id, params);
+}
+
+function ignoreCall(id, params) {
+  return callActionHelper(actionTypes.IGNORE_CALL, id, params);
+}
+
+function ignoreCallFinish(id, params) {
+  return callActionHelper(actionTypes.IGNORE_CALL_FINISH, id, params);
 }
 
 function endCall(id, params) {
@@ -24547,6 +25403,10 @@ function endCallFinish(id, params) {
   return callActionHelper(actionTypes.END_CALL_FINISH, id, params);
 }
 
+function updateCall(id, params) {
+  return callActionHelper(actionTypes.UPDATE_CALL, id, params);
+}
+
 function holdCall(id, options) {
   return callActionHelper(actionTypes.CALL_HOLD, id, options);
 }
@@ -24555,12 +25415,20 @@ function holdCallFinish(id, params) {
   return callActionHelper(actionTypes.CALL_HOLD_FINISH, id, params);
 }
 
+function holdRemoteCallFinish(id, params) {
+  return callActionHelper(actionTypes.CALL_REMOTE_HOLD_FINISH, id, params);
+}
+
 function unholdCall(id, options) {
   return callActionHelper(actionTypes.CALL_UNHOLD, id, options);
 }
 
 function unholdCallFinish(id, params) {
   return callActionHelper(actionTypes.CALL_UNHOLD_FINISH, id, params);
+}
+
+function unholdRemoteCallFinish(id, params) {
+  return callActionHelper(actionTypes.CALL_REMOTE_UNHOLD_FINISH, id, params);
 }
 
 function addMedia(id, params) {
@@ -24577,6 +25445,26 @@ function removeMedia(id, params) {
 
 function removeMediaFinish(id, params) {
   return callActionHelper(actionTypes.REMOVE_MEDIA_FINISH, id, params);
+}
+
+function musicOnHold(id, params) {
+  return callActionHelper(actionTypes.MUSIC_ON_HOLD, id, params);
+}
+
+function sendDTMF(id, params) {
+  return callActionHelper(actionTypes.SEND_DTMF, id, params);
+}
+
+function sendDTMFFinish(id, params) {
+  return callActionHelper(actionTypes.SEND_DTMF_FINISH, id, params);
+}
+
+function getStats(id, params) {
+  return callActionHelper(actionTypes.GET_STATS, id, params);
+}
+
+function getStatsFinish(id, params) {
+  return callActionHelper(actionTypes.GET_STATS_FINISH, id, params);
 }
 
 /***/ }),
@@ -24664,21 +25552,39 @@ var _actions = __webpack_require__("./src/call/interfaceNew/actions/index.js");
 
 var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
 
+var _normalization = __webpack_require__("./src/call/utils/normalization.js");
+
 var _v = __webpack_require__("../../node_modules/uuid/v4.js");
 
 var _v2 = _interopRequireDefault(_v);
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
+var _constants = __webpack_require__("./src/call/constants.js");
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// Libraries.
 // Call plugin.
 function callAPI({ dispatch, getState }) {
   return {
     /**
      * Starts an outgoing call to a SIP user or a PSTN phone number.
-     * Will trigger a `call:started` event when the operation completes.
+     *
+     * The call will be tracked by a unique ID that is returned by the API. The
+     *    application will use this ID to identify and control the call after it
+     *    has been initiated.
+     *
+     * The `getCallById` API can be used to retrieve the current state of the
+     *    call.
+     *
+     * The SDK will emit a `call:start` event locally when the operation
+     *    completes. When the remote participant receives the call, a
+     *    `call:receive` event will be emitted remotely for them.
+     *
+     * The SDK requires access to the machine's media devices (eg. microphone)
+     *    in order to make a call. If it does not already have permissions to
+     *    use the devices, the user may be prompted by the browser to give
+     *    permissions.
      * @public
      * @memberof Calls
      * @method make
@@ -24688,6 +25594,18 @@ function callAPI({ dispatch, getState }) {
      * @param {Boolean} [media.audio=true] Whether the call should have audio on start. Currently, audio-less calls are not supported.
      * @param {Boolean} [media.video=false] Whether the call should have video on start.
      * @returns {string} The generated ID of the newly created call.
+     * @example
+     * // Listen for the event emitted after making a call.
+     * client.on('call:start', function (params) {
+     *   const { callId, error } = params
+     *   if (error) {
+     *     // Call failed to initialize.
+     *   } else {
+     *     // Call was initialized, and the recipient user will be notified.
+     *   }
+     * })
+     * // Make an audio-only call.
+     * const newCallId = client.call.make(callee, { audio: true })
      */
     make(destination, media = {}, options = {}) {
       const callId = (0, _v2.default)();
@@ -24698,7 +25616,7 @@ function callAPI({ dispatch, getState }) {
       };
 
       dispatch(_actions.callActions.makeCall(callId, (0, _extends3.default)({
-        participantAddress: destination,
+        participantAddress: (0, _normalization.normalizeSipUri)(destination),
         mediaConstraints
       }, options)));
       return callId;
@@ -24706,19 +25624,39 @@ function callAPI({ dispatch, getState }) {
 
     /**
      * Rejects an incoming call.
-     * Will end the call and trigger a `call:stateChange` event.
+     *
+     * The specified call to reject must be in a ringing state with an incoming
+     *    direction. The call will be ended as a result of the operation.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. The remote participant will be notified, through their own
+     *    `call:stateChange` event, that the call was rejected.
      * @public
      * @memberof Calls
      * @method reject
      * @param {string} callId The ID of the call to reject.
      */
     reject(callId) {
-      dispatch(_actions.callActions.endCall(callId));
+      dispatch(_actions.callActions.rejectCall(callId));
     },
 
     /**
-     * Answer an incoming call.
-     * Will trigger a `call:answered` event.
+     * Answers an incoming call.
+     *
+     * The specified call to answer must be in a ringing state with an incoming
+     *    direction. The call will become connected as a result of the operation.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. This indicates that the call has connected with the remote
+     *    participant. The `getCallById` API can be used to retrieve the latest
+     *    call state after the change. Further events will be emitted to
+     *    indicate that the call has received media from the remote participant.
+     *     See the `call:newTrack` event for more information about this.
+     *
+     * The SDK requires access to the machine's media devices (eg. microphone)
+     *    in order to answer a call. If it does not already have permissions to
+     *    use the devices, the user may be prompted by the browser to give
+     *    permissions.
      * @public
      * @memberof Calls
      * @method answer
@@ -24739,8 +25677,37 @@ function callAPI({ dispatch, getState }) {
     },
 
     /**
-     * Put a call on hold.
-     * Will stop all media from flowing and trigger a `call:held` event.
+     * Ignores an incoming call.
+     *
+     * The specified call to ignore must be in a ringing state with an incoming
+     *    direction. The call will be ended as a result of the operation.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. The remote participant will not be notified that the call
+     *    was ignored.
+     * @public
+     * @memberof Calls
+     * @method ignore
+     * @param {string} callId The ID of the call to ignore.
+     */
+    ignore(callId) {
+      dispatch(_actions.callActions.ignoreCall(callId));
+    },
+
+    /**
+     * Puts a call on hold.
+     *
+     * The specified call to hold must not already be locally held. Any/all
+     *    media received from the remote participant will stop being received,
+     *    and any/all media being sent to the remote participant will stop
+     *    being sent.
+     *
+     * Some call operations cannot be performed while the call is on hold. The
+     *    call can be taken off hold with the `unhold` API.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. The remote participant will be notified of the operation
+     *    through a `call:stateChange` as well.
      * @public
      * @memberof Calls
      * @method hold
@@ -24751,8 +25718,15 @@ function callAPI({ dispatch, getState }) {
     },
 
     /**
-     * Take a call off hold.
-     * Will resume any previously flowing media and trigger a `call:unheld` event.
+     * Takes a call off hold.
+     *
+     * The specified call to unhold must be locally held. If the call is not
+     *    also remotely held, call media will be reconnected as it was before
+     *    the call was held.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. The remote participant will be notified of the operation
+     *    through a `call:stateChange` as well.
      * @public
      * @memberof Calls
      * @method unhold
@@ -24791,8 +25765,15 @@ function callAPI({ dispatch, getState }) {
     },
 
     /**
-     * End an ongoing call.
-     * Will stop all media used for the call and trigger a `call:stateChange` event.
+     * Ends an ongoing call.
+     *
+     * The SDK will stop any/all local media associated with the call. Events
+     *    will be emitted to indicate which media tracks were stopped. See the
+     *    `call:trackEnded` event for more information.
+     *
+     * The SDK will emit a `call:stateChange` event locally when the operation
+     *    completes. The remote participant will be notified, through their own
+     *    `call:stateChange` event, that the call was ended.
      * @public
      * @memberof Calls
      * @method end
@@ -24831,9 +25812,64 @@ function callAPI({ dispatch, getState }) {
      */
     removeMedia(callId, tracks) {
       dispatch(_actions.callActions.removeMedia(callId, { tracks }));
-    }
+    },
+
+    /**
+     * Send DTMF tones on an ongoing call.
+     *
+     * @public
+     * @memberof Calls
+     * @method sendDTMF
+     * @param {string} callId Id of the call being acted on.
+     * @param {string} tone DTMF tone to send. Valid values are ['0','1','2','3','4','5','6','7','8','9','#','*' and ','].
+     * @param {number} [duration=100] The amount of time, in milliseconds, that each DTMF tone should last.
+     * @param {number} [intertoneGap=70] The length of time, in milliseconds, to wait between tones.
+     *
+     */
+    sendDTMF(callId, tone, duration = 100, intertoneGap = 70) {
+      dispatch(_actions.callActions.sendDTMF(callId, { tone, duration, intertoneGap }));
+    },
+
+    /**
+     * Get a report about low-level call stats / information.
+     * A track ID can optionally be provided to get a report for the specific track of the call.
+     * @public
+     * @memberof Calls
+     * @param {string} callId The ID of the call to retrieve stats report.
+     * @param {string} [trackId] TrackId. If trackId is not provided, RTCStatsReport is gererated from the peerConnection.
+     */
+    getStats(callId, trackId) {
+      dispatch(_actions.callActions.getStats(callId, { trackId }));
+    },
+
+    /**
+     * Possible states for a call.
+     *
+     * @public
+     * @memberof Calls
+     * @type {Object}
+     * @property {string} INITIATING The (outgoing) call is being started.
+     * @property {string} INITIATED The (outgoing) call has been sent over the network, but has not been received.
+     * @property {string} RINGING The call has been received by both parties, and is waiting to be answered.
+     * @property {string} CANCELLED The call was disconnected before it could be answered.
+     * @property {string} CONNECTED Both parties are connected and media is flowing.
+     * @property {string} ON_HOLD Both parties are connected but no media is flowing.
+     * @property {string} ENDED The call has ended.
+     * @example
+     * // Use the call states to know how to handle a change in the call.
+     * client.on('call:stateChange', function (params) {
+     *    const call = client.call.getById(params.callId)
+     *    // Check if the call now has media flowing.
+     *    if (call.state === client.call.states.CONNECTED) {
+     *      // Render call media ...
+     *    }
+     * })
+     */
+    states: _constants.CALL_STATES
   };
 }
+
+// Libraries.
 
 /***/ }),
 
@@ -24911,6 +25947,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 /**
  * A Track is a stream of audio or video media from a single source.
+ * Tracks can be retrieved using the Media module's `getTrackById` API and manipulated with other functions of the Media module.
  *
  * @public
  * @module TrackObject
@@ -25010,10 +26047,17 @@ const CALL_INCOMING = exports.CALL_INCOMING = 'call:receive';
  * @event call:stateChange
  * @param {Object} params
  * @param {string} params.callId The ID of the Media object that was operated on.
+ * @param {Object} params.previous The call's properties before the operation changed it.
+ * @param {string} params.previous.state The previous state of the call.
+ * @param {boolean} [params.previous.localHold] The previous local hold state. Present when the state change was a hold/unhold operation.
+ * @param {boolean} [params.previous.remoteHold] The previous remote hold state. Present when the state change was a hold/unhold operation.
  * @param {BasicError} [params.error] An error object, if the operation was not successful.
  * @example
  * client.on('call:stateChange', function (params) {
  *     const call = client.call.getById(params.callId)
+ *     const prevState = params.previous.state
+ *     log(`Call changed from ${prevState} to ${call.state} state.`)
+ *
  *     // Handle the event depending on the new call state.
  *     switch (call.state) {
  *         case client.call.states.CONNECTED:
@@ -25027,52 +26071,6 @@ const CALL_INCOMING = exports.CALL_INCOMING = 'call:receive';
  * })
  */
 const CALL_STATE_CHANGE = exports.CALL_STATE_CHANGE = 'call:stateChange';
-
-/**
- * An incoming call has been answered and is now on call.
- * @public
- * @memberof Calls
- * @event call:answered
- * @param {Object} params
- * @param {string} params.callId The Id of the call.
- * @param {BasicError} [params.error] An error object, if the operation was not successful.
- */
-const CALL_ANSWERED = exports.CALL_ANSWERED = 'call:answered';
-
-/**
- * An outgoing call has been accepted and is now on call.
- * @public
- * @memberof Calls
- * @event call:accepted
- * @param {Object} params
- * @param {string} params.callId The Id of the call.
- * @param {BasicError} [params.error] An error object, if the operation was not successful.
- */
-const CALL_ACCEPTED = exports.CALL_ACCEPTED = 'call:accepted';
-
-/**
- * A call hold opeartion has completed.
- * @public
- * @memberof Calls
- * @event call:held
- * @param {Object} params
- * @param {string} params.callId The Id of the call.
- * @param {boolean} params.local Whether the operation was local or not.
- * @param {BasicError} [params.error] An error object, if the operation was not successful.
- */
-const CALL_HELD = exports.CALL_HELD = 'call:held';
-
-/**
- * A call unhold opeartion has completed.
- * @public
- * @memberof Calls
- * @event call:unheld
- * @param {Object} params
- * @param {string} params.callId The Id of the call.
- * @param {boolean} params.local Whether the operation was local or not.
- * @param {BasicError} [params.error] An error object, if the operation was not successful.
- */
-const CALL_UNHELD = exports.CALL_UNHELD = 'call:unheld';
 
 /**
  * New media has been added to the call.
@@ -25125,6 +26123,19 @@ const CALL_NEW_TRACK = exports.CALL_NEW_TRACK = 'call:newTrack';
  */
 const CALL_TRACK_ENDED = exports.CALL_TRACK_ENDED = 'call:trackEnded';
 
+/**
+ * Stats have been retrieved for a call or specific track.
+ * @public
+ * @memberof Calls
+ * @event call:statsReceived
+ * @param {Object} params
+ * @param {string} params.callId The ID of the call to retrieve stats for.
+ * @param {string} [params.trackId] The ID of the track to retrieve stats for.
+ * @param {string} params.result The RTCStatsReport.
+ * @param {BasicError} [params.error] An error object, if the operation was not successful.
+ */
+const STATS_RECEIVED = exports.STATS_RECEIVED = 'call:statsReceived';
+
 /***/ }),
 
 /***/ "./src/call/interfaceNew/events.js":
@@ -25154,6 +26165,8 @@ var _actionTypes2 = __webpack_require__("./src/webrtc/interface/actionTypes.js")
 
 var webrtcActionTypes = _interopRequireWildcard(_actionTypes2);
 
+var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
+
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
@@ -25166,6 +26179,10 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * @param  {Object} [params={}] Any non-consistent information to be included in the event.
  * @return {Object} An event object.
  */
+
+
+// Webrtc plugin.
+// Call plugin.
 function callEventHandler(type, action, params = {}) {
   /**
    * Call event format.
@@ -25181,8 +26198,33 @@ function callEventHandler(type, action, params = {}) {
   };
 }
 
-// Webrtc plugin.
-// Call plugin.
+/**
+ * Helper function for converting an action to a "call state change" event.
+ * Ensures that all such events have consistent parameters.
+ * @method stateChangeHandler
+ * @param  {Object} action
+ * @param  {Object} params
+ * @param  {Object} params.prevState Redux state from before the action was processed by reducers.
+ * @param  {Object} params.state     Redux state from after the action was processed by reducers.
+ * @return {Object} An event object.
+ */
+
+
+// Helpers
+function stateChangeHandler(action, params) {
+  // Get the call state before this action updated state.
+  const prevCall = (0, _selectors.getCallById)(params.prevState, action.payload.id);
+
+  return callEventHandler(eventTypes.CALL_STATE_CHANGE, action, {
+    error: action.payload.error,
+    previous: {
+      state: prevCall.state,
+      localHold: prevCall.localHold,
+      remoteHold: prevCall.remoteHold
+    }
+  });
+}
+
 const callEvents = exports.callEvents = {};
 
 callEvents[actionTypes.MAKE_CALL_FINISH] = action => {
@@ -25197,49 +26239,26 @@ callEvents[actionTypes.CALL_INCOMING] = action => {
   });
 };
 
-callEvents[actionTypes.CALL_RINGING] = action => {
-  return callEventHandler(eventTypes.CALL_STATE_CHANGE, action, {
-    error: action.payload.error
-  });
+callEvents[actionTypes.CALL_RINGING] = stateChangeHandler;
+callEvents[actionTypes.CALL_CANCELLED] = stateChangeHandler;
+
+callEvents[actionTypes.ANSWER_CALL_FINISH] = (action, params) => {
+  // Don't emit an event if it was a slow start answer. The call isn't actually
+  //    answered yet, so state hasn't changed.
+  if (action.meta.isSlowStart) {
+    return;
+  }
+
+  return stateChangeHandler(action, params);
 };
 
-callEvents[actionTypes.CALL_CANCELLED] = action => {
-  return callEventHandler(eventTypes.CALL_STATE_CHANGE, action, {
-    error: action.payload.error
-  });
-};
-
-callEvents[actionTypes.ANSWER_CALL_FINISH] = action => {
-  return callEventHandler(eventTypes.CALL_ANSWERED, action, {
-    error: action.payload.error
-  });
-};
-
-callEvents[actionTypes.CALL_ACCEPTED] = action => {
-  return callEventHandler(eventTypes.CALL_ACCEPTED, action, {
-    error: action.payload.error
-  });
-};
-
-callEvents[actionTypes.END_CALL_FINISH] = action => {
-  return callEventHandler(eventTypes.CALL_STATE_CHANGE, action, {
-    error: action.payload.error
-  });
-};
-
-callEvents[actionTypes.CALL_HOLD_FINISH] = action => {
-  return callEventHandler(eventTypes.CALL_HELD, action, {
-    local: action.payload.local,
-    error: action.payload.error
-  });
-};
-
-callEvents[actionTypes.CALL_UNHOLD_FINISH] = action => {
-  return callEventHandler(eventTypes.CALL_UNHELD, action, {
-    local: action.payload.local,
-    error: action.payload.error
-  });
-};
+callEvents[actionTypes.CALL_ACCEPTED] = stateChangeHandler;
+callEvents[actionTypes.IGNORE_CALL_FINISH] = stateChangeHandler;
+callEvents[actionTypes.END_CALL_FINISH] = stateChangeHandler;
+callEvents[actionTypes.CALL_HOLD_FINISH] = stateChangeHandler;
+callEvents[actionTypes.CALL_UNHOLD_FINISH] = stateChangeHandler;
+callEvents[actionTypes.CALL_REMOTE_HOLD_FINISH] = stateChangeHandler;
+callEvents[actionTypes.CALL_REMOTE_UNHOLD_FINISH] = stateChangeHandler;
 
 callEvents[actionTypes.ADD_MEDIA_FINISH] = action => {
   return callEventHandler(eventTypes.CALL_ADDED_MEDIA, action, {
@@ -25258,16 +26277,37 @@ callEvents[actionTypes.REMOVE_MEDIA_FINISH] = action => {
   });
 };
 
-/*
- * TODO: Fix this event. Check other session events.
- * The event uses the Session ID as the call ID.
- */
-callEvents[webrtcActionTypes.SESSION_NEW_TRACK] = action => {
-  return callEventHandler(eventTypes.CALL_NEW_TRACK, action, (0, _extends3.default)({}, action.payload));
+callEvents[actionTypes.GET_STATS_FINISH] = action => {
+  return callEventHandler(eventTypes.STATS_RECEIVED, action, {
+    result: action.payload.result,
+    error: action.payload.error,
+    trackId: action.payload.trackId
+  });
 };
 
-callEvents[webrtcActionTypes.SESSION_TRACK_ENDED] = action => {
-  return callEventHandler(eventTypes.CALL_TRACK_ENDED, action, (0, _extends3.default)({}, action.payload));
+callEvents[webrtcActionTypes.SESSION_NEW_TRACK] = (action, context) => {
+  const state = context.state;
+  const call = (0, _selectors.getCallByWebrtcSessionId)(state, action.payload.id);
+
+  if (call) {
+    // By passing callId in the params object it will overwrite
+    // callId that is set in callEventHandler
+    return callEventHandler(eventTypes.CALL_NEW_TRACK, action, (0, _extends3.default)({}, action.payload, {
+      callId: call.id
+    }));
+  }
+  return null;
+};
+
+callEvents[webrtcActionTypes.SESSION_TRACK_ENDED] = (action, context) => {
+  const state = context.state;
+  const call = (0, _selectors.getCallByWebrtcSessionId)(state, action.payload.id);
+
+  if (call) {
+    return callEventHandler(eventTypes.CALL_TRACK_ENDED, action, (0, _extends3.default)({}, action.payload, {
+      callId: call.id
+    }));
+  }
 };
 
 exports.default = (0, _extends3.default)({}, callEvents);
@@ -25328,7 +26368,7 @@ var _actionTypes = __webpack_require__("./src/call/interfaceNew/actionTypes.js")
 
 var actionTypes = _interopRequireWildcard(_actionTypes);
 
-var _constants = __webpack_require__("./src/call/cpaas2/constants.js");
+var _constants = __webpack_require__("./src/call/constants.js");
 
 var _reduxActions = __webpack_require__("../../node_modules/redux-actions/es/index.js");
 
@@ -25368,7 +26408,8 @@ reducers[actionTypes.MAKE_CALL] = {
       direction: 'outgoing',
       // Hold status.
       localHold: false,
-      remoteHold: false
+      remoteHold: false,
+      isCaller: true
     };
 
     return (0, _fp.concat)(state, newCall);
@@ -25378,7 +26419,9 @@ reducers[actionTypes.MAKE_CALL] = {
 // Add the new call to state.
 reducers[actionTypes.CALL_INCOMING] = {
   next(state, action) {
-    return (0, _fp.concat)(state, (0, _extends3.default)({}, action.payload));
+    return (0, _fp.concat)(state, (0, _extends3.default)({
+      isCaller: false
+    }, action.payload));
   }
 };
 
@@ -25408,6 +26451,22 @@ callReducers[actionTypes.CALL_CANCELLED] = {
   }
 };
 
+callReducers[actionTypes.IGNORE_CALL_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      state: _constants.CALL_STATES.ENDED
+    });
+  }
+};
+
+callReducers[actionTypes.REJECT_CALL_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      state: _constants.CALL_STATES.ENDED
+    });
+  }
+};
+
 // Update the new call state based on the outcome.
 callReducers[actionTypes.MAKE_CALL_FINISH] = {
   next(state, action) {
@@ -25425,8 +26484,16 @@ callReducers[actionTypes.MAKE_CALL_FINISH] = {
 // Update the call state based on the outcome.
 callReducers[actionTypes.ANSWER_CALL_FINISH] = {
   next(state, action) {
+    // If the action has a Session ID, store it as the ID.
+    // In some scenarios (slow start), the we only get an ID
+    //    at the answer step.
+    const webrtcId = action.payload.webrtcSessionId || state.webrtcSessionId;
+
     return (0, _extends3.default)({}, state, {
-      state: action.payload.state
+      state: action.payload.state,
+      webrtcSessionId: webrtcId,
+      localHold: false,
+      remoteHold: false
     });
   },
   throw(state, action) {
@@ -25449,6 +26516,18 @@ callReducers[actionTypes.END_CALL_FINISH] = (state, action) => {
   });
 };
 
+callReducers[actionTypes.UPDATE_CALL] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, action.payload);
+  }
+};
+
+callReducers[actionTypes.MUSIC_ON_HOLD] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, action.payload);
+  }
+};
+
 callReducers[actionTypes.CALL_HOLD_FINISH] = {
   next(state, action) {
     return (0, _extends3.default)({}, state, {
@@ -25468,6 +26547,27 @@ callReducers[actionTypes.CALL_UNHOLD_FINISH] = {
   }
 };
 
+callReducers[actionTypes.CALL_REMOTE_HOLD_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      remoteHold: true,
+      pendingRemoteOp: false,
+      state: _constants.CALL_STATES.ON_HOLD
+    });
+  }
+};
+
+callReducers[actionTypes.CALL_REMOTE_UNHOLD_FINISH] = {
+  next(state, action) {
+    const callState = state.localHold ? _constants.CALL_STATES.ON_HOLD : _constants.CALL_STATES.CONNECTED;
+    return (0, _extends3.default)({}, state, {
+      remoteHold: false,
+      pendingRemoteOp: false,
+      state: callState
+    });
+  }
+};
+
 /*
  * Combine all of the call-tier reducers into a single reducer,
  *      each with a default state of empty object.
@@ -25475,7 +26575,7 @@ callReducers[actionTypes.CALL_UNHOLD_FINISH] = {
 const callReducer = (0, _reduxActions.handleActions)(callReducers, {});
 
 // Actions routed to call-tier reducers.
-const specificCallActions = (0, _reduxActions.combineActions)(actionTypes.MAKE_CALL_FINISH, actionTypes.ANSWER_CALL_FINISH, actionTypes.CALL_ACCEPTED, actionTypes.CALL_RINGING, actionTypes.CALL_CANCELLED, actionTypes.END_CALL_FINISH, actionTypes.CALL_HOLD_FINISH, actionTypes.CALL_UNHOLD_FINISH, actionTypes.ADD_MEDIA_FINISH);
+const specificCallActions = (0, _reduxActions.combineActions)(actionTypes.MAKE_CALL_FINISH, actionTypes.ANSWER_CALL_FINISH, actionTypes.REJECT_CALL_FINISH, actionTypes.CALL_ACCEPTED, actionTypes.CALL_RINGING, actionTypes.CALL_CANCELLED, actionTypes.IGNORE_CALL_FINISH, actionTypes.END_CALL_FINISH, actionTypes.CALL_HOLD_FINISH, actionTypes.CALL_UNHOLD_FINISH, actionTypes.CALL_REMOTE_HOLD_FINISH, actionTypes.CALL_REMOTE_UNHOLD_FINISH, actionTypes.ADD_MEDIA_FINISH, actionTypes.UPDATE_CALL, actionTypes.MUSIC_ON_HOLD);
 
 /*
  * Reducer to handle specific call actions.
@@ -25593,10 +26693,14 @@ var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/ex
 var _extends3 = _interopRequireDefault(_extends2);
 
 exports.getCalls = getCalls;
+exports.getActiveCalls = getActiveCalls;
 exports.getCallById = getCallById;
 exports.getCallByWrtcsSessionId = getCallByWrtcsSessionId;
+exports.getCallByWebrtcSessionId = getCallByWebrtcSessionId;
 exports.getOptions = getOptions;
 exports.getTurnInfo = getTurnInfo;
+
+var _constants = __webpack_require__("./src/call/constants.js");
 
 var _selectors = __webpack_require__("./src/webrtc/interface/selectors.js");
 
@@ -25614,6 +26718,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * @param  {Object} callState
  * @return {Object} Track augmented call state.
  */
+// Call plugin.
 function addTracksToCall(state, callState) {
   const session = (0, _selectors.getSessionById)(state, callState.webrtcSessionId);
   if (session) {
@@ -25635,10 +26740,24 @@ function addTracksToCall(state, callState) {
  * @param  {Object} state Redux state.
  * @return {Array} A list of all call objects.
  */
+
+
 // Webrtc plugin.
 function getCalls(state) {
   // TODO: cloneDeep?
   return state.call.calls.map(callState => addTracksToCall(state, callState));
+}
+
+/**
+ * Retrieves the list of all on-going calls.
+ * @method getActiveCalls
+ * @param {Object} state Redux state.
+ * @return {Array} A list of call objects.
+ */
+function getActiveCalls(state) {
+  const endedStates = [_constants.CALL_STATES.ENDED, _constants.CALL_STATES.CANCELLED];
+
+  return getCalls(state).filter(call => !endedStates.includes(call.state));
 }
 
 /**
@@ -25664,6 +26783,17 @@ function getCallByWrtcsSessionId(state, wrtcsSessionId) {
 }
 
 /**
+ * Get the call object with a specific webrtcSessionId.
+ * @method getCallByWebrtcSessionId
+ * @param  {Object} state Redux state.
+ * @param  {string} webrtcSessionId The call to retrieve.
+ * @return {Object} A call object.
+ */
+function getCallByWebrtcSessionId(state, webrtcSessionId) {
+  return getCalls(state).find(call => call.webrtcSessionId === webrtcSessionId);
+}
+
+/**
  * Retrieve the call plugin's options.
  * @method getOptions
  * @param  {Object} state Redux state.
@@ -25678,6 +26808,684 @@ function getOptions(state) {
  */
 function getTurnInfo(state) {
   return state.call.turn;
+}
+
+/***/ }),
+
+/***/ "./src/call/utils/normalization.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.normalizeSipUri = normalizeSipUri;
+/**
+ * Extracts the domain from an address if an @ symbol exists and isn't at the start or end of the address.
+ * @param {string} addressString The address string to extract the domain from (if it exists).
+ * @returns {string} The extracted domain. Empty string of none found.
+ */
+function extractDomainFromAddress(addressString) {
+  const indexOfAtSymbol = addressString.indexOf('@');
+  if (indexOfAtSymbol !== 0 && indexOfAtSymbol !== addressString.length - 1) {
+    // If '@' symbol found in middle of addressString, split it.
+    if (indexOfAtSymbol !== -1) {
+      return addressString.substr(indexOfAtSymbol + 1);
+    }
+  }
+  return '';
+}
+
+/**
+ * Determines which address and domain to use depending on whether the address string contains a domain or not.
+ * @param {string} addressString The address string to examine and extract a domain from (if any).
+ * @param {string} defaultDomainString The domain to use if the address string does not contain a domain in it.
+ * @returns {Object} An object containing the correct address and domain to use.
+ */
+function separateAddressAndDomain(addressString, defaultDomainString) {
+  const extractedDomain = extractDomainFromAddress(addressString);
+  // If a domain was extracted from the address, use that as the domain and strip it from the address.
+  if (extractedDomain) {
+    return {
+      address: addressString.substr(0, addressString.length - extractedDomain.length - 1),
+      domain: extractedDomain
+    };
+  } else {
+    return {
+      address: addressString,
+      domain: defaultDomainString
+    };
+  }
+}
+
+/**
+ * Extracts any pre-pended data before a ":" (if it exists) from the beginning of a string.
+ * @param {string} inputString The string to remove pre-pended data from.
+ * @returns {string} The pre-pended data string.
+ */
+function extractPrependedData(inputString) {
+  const prependedDataMatches = inputString.match(/^.*:/g);
+  if (prependedDataMatches && prependedDataMatches[0]) {
+    return prependedDataMatches[0];
+  } else {
+    return '';
+  }
+}
+
+/**
+ * Finds the leading special characters ("#", "+", "*") of an address if it is a phone number.
+ * If the address contains letters or any non-visual-separator characters,
+ *  it is not a phone number and no leading special characters will be found.
+ * @param {string} addressString The address string to find the leading characters of (if any).
+ *  The addressString must not contain any pre-pended data such as "sip:".
+ *  The addressString must not contain a domain.
+ * @returns {string} The leading special characters as one string. Empty string if none found.
+ */
+function extractLeadingSpecialCharacters(addressString) {
+  // A single or group of contiguous characters are considered leading character/s if it is  the following:
+  // - starts at the beginning of the string - ^
+  // - is any of the following characters - [#+*]+
+  // - is followed by a digit or "(" - [\d|(]
+  // - is followed by any number of only digits and visual separators - [\d \-.()+]*$
+  const potentialLeadingChars = addressString.match(/^[#+*]+[\d|(][\d \-.()+]*$/g);
+  if (potentialLeadingChars && potentialLeadingChars[0]) {
+    // Guaranteed to have a match for regex [#+*]+ since we have potentialLeadingChars
+    // which was a match for a similar regex and we are simply extracting the leading characters part.
+    const actualLeadingChars = potentialLeadingChars[0].match(/[#+*]+/g);
+    return actualLeadingChars[0];
+  }
+  return '';
+}
+
+/**
+ * Outputs a new string without its phone number visual separators ("-", ".", "(", ")", "+").
+ * @param {string} inputString The string to remove visual separators from.
+ * @returns {string} A new string without visual separators.
+ */
+function withoutVisualSeparators(inputString) {
+  return inputString.replace(/[ \-.()+]/g, '');
+}
+
+/**
+ * Determines whether a string should be considered a phone number or not.
+ * @param {string} addressString The address string to check.
+ *  The addressString must not contain any pre-pended data such as "sip:"
+ *  The addressString must not contain any leading special characters.
+ *  The addressString must not contain a domain.
+ * @returns {boolean} True if the input string is a phone number. False if it is not.
+ */
+function isPhoneNumber(addressString) {
+  const cleanNumber = withoutVisualSeparators(addressString);
+  const phoneNumberMatch = cleanNumber.match(/^\d+$/g);
+  return phoneNumberMatch && phoneNumberMatch.length === 1;
+}
+
+/**
+ * Processes the address string and returns the correct output.
+ * If the address is a phone number, visual separators are removed.
+ * Otherwise, it will just return the address as-is.
+ * @param {string} addressString The address string to process.
+ *  The addressString must not contain any pre-pended data such as "sip:".
+ *  The addressString must not contain any leading special characters (if it is a phone number).
+ *  The addressString must not contain a domain.
+ * @returns {string} A phone number without visual-separators or the addressString as-is.
+ */
+function processAddress(addressString) {
+  return isPhoneNumber(addressString) ? withoutVisualSeparators(addressString) : addressString;
+}
+
+/**
+ * Processes the domain string and returns the correct output.
+ * Adds an "@" symbol if it isn't present at the beginning of the domain.
+ * @param {string} domainString The domain string to process.
+ * @returns {string} The domain with "@" symbol at the beginning if it doesn't exist.
+ */
+function processDomain(domainString) {
+  return (domainString.indexOf('@') === 0 ? '' : '@') + domainString;
+}
+
+/**
+ *The function takes in the input dial string and domain address of the user, performs a normalization process based on the phone number handling normalization rules
+ * @function normalizeSipUri
+ * @param {string} address   It contains the input dial string the user dials in or the callee address
+ * @param {string} domain    It contains the user's domain address
+ * @returns {string} output  The output which is the normalized callee address/phone number
+ */
+function normalizeSipUri(address, domain) {
+  // Remove leading and trailing white spaces.
+  address = address.trim();
+
+  // Extract domain.
+  const resultingAddressAndDomain = separateAddressAndDomain(address, domain);
+  domain = resultingAddressAndDomain.domain;
+  address = resultingAddressAndDomain.address;
+
+  // Extract pre-pended "sip:".
+  const prepend = extractPrependedData(address);
+  address = address.substr(prepend.length);
+
+  // Extract leading characters.
+  const leadingChars = extractLeadingSpecialCharacters(address);
+  address = address.substr(leadingChars.length);
+
+  // Process and build parts into final output in the form of `<prepend>:<leadingChars><address>@<domain>`.
+  return 'sip:' + leadingChars + processAddress(address) + processDomain(domain);
+}
+
+/***/ }),
+
+/***/ "./src/callstack/sagas/establish.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.setupCall = setupCall;
+exports.setupIncomingCall = setupIncomingCall;
+exports.answerWebrtcSession = answerWebrtcSession;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+// Helpers
+const log = (0, _logs.getLogManager)().getLogger('CALLSTACK');
+
+/**
+ * Performs the WebRTC portion necessary for establishing outgoing calls
+ *
+ * @method setupCall
+ * @param  {Object} webRTC A WebRTC instance
+ * @param  {Object} mediaConstraints Video and audio media constraints
+ * @param  {boolean} mediaConstraints.audio Whether to enable audio or not
+ * @param  {boolean} mediaConstraints.video Whether to enable video or not
+ * @param  {Object} sessionOptions
+ * @param  {Object} sessionOptions.sdpSemantics Semantics for Real Time Communication configurations
+ * @param  {Object} sessionOptions.turnInfo Contains information required for setting up ICE servers
+ * @param  {string} sessionOptions.trickleIceMode What mode to be used for trickle ICE
+ * @return {Object} Object
+ * @return {string} Object.offerSdp Session Description Protocol for a call offer
+ * @return {string} Object.sessionId session identifier
+ * @return {string} Object.mediaId call identifier
+ */
+
+
+// Libraries.
+function* setupCall(webRTC, mediaConstraints, sessionOptions) {
+  const { sdpSemantics, turnInfo, trickleIceMode } = sessionOptions;
+
+  log.debug('Getting media with constraints: ', mediaConstraints);
+  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], mediaConstraints);
+
+  // Create a webRTC session to represent this call.
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'create'], {
+    peer: {
+      rtcConfig: {
+        sdpSemantics,
+        iceServers: turnInfo.servers
+      },
+      trickleIceMode
+    }
+  });
+
+  // Add the tracks to the session.
+  const tracks = yield (0, _effects.call)([media, 'getTracks']);
+  yield (0, _effects.call)([session, 'addTracks'], tracks);
+
+  const offer = yield (0, _effects.call)([session, 'generateOffer']);
+
+  return {
+    offerSdp: offer.sdp,
+    sessionId: session.id,
+    mediaId: media.id
+  };
+}
+
+/**
+ * Prepares the WebRTC portions of setting up an incoming call
+ *
+ * @method setupIncomingCall
+ * @param  {Object} webRTC An instance of webRTC
+ * @param  {Object} sessionOptions
+ * @param  {Object} sessionOptions.sdpSemantics semantics for the SDP, contains video and audio constraints
+ * @param  {Object} sessionOptions.turnInfo TURN information, contains server info
+ * @param  {string} sessionOptions.trickleIceMode the mode to enable for Trickle ICE
+ * @param  {Object} sessionOptions.offer an offer containing an SDP
+ * @return {string} sessionId an identifier for the session
+ */
+function* setupIncomingCall(webRTC, sessionOptions) {
+  const { offer, sdpSemantics, turnInfo, trickleIceMode } = sessionOptions;
+
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'create'], {
+    peer: {
+      rtcConfig: {
+        sdpSemantics,
+        iceServers: turnInfo.servers
+      },
+      trickleIceMode
+    }
+  });
+  yield (0, _effects.call)([session, 'processOffer'], {
+    type: 'offer',
+    sdp: offer.sdp
+  });
+
+  return session.id;
+}
+
+/**
+ * Prepares the WebRTC portions of answering a call
+ *
+ * @method answerWebrtcSession
+ * @param  {Object} webRTC An instance of webRTC
+ * @param  {Object} mediaConstraints Video and audio media constraints
+ * @param  {boolean} mediaConstraints.audio Whether to enable audio or not
+ * @param  {boolean} mediaConstraints.video Whether to enable video or not
+ * @param  {Object} sessionOptions
+ * @param  {string} sessionOptions.sessionId the local webrtc session id
+ * @return {Object} Object
+ * @return {string} Object.answerSDP Session Description Protocol for answer
+ * @return {string} Object.mediaId an identifier for media
+ */
+function* answerWebrtcSession(webRTC, mediaConstraints, sessionOptions) {
+  // Get the webRTC session that represents this call.
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionOptions.sessionId);
+
+  if (!session) {
+    log.error(`Error: webRTC session ${sessionOptions.sessionId} not found.`);
+    return;
+  }
+
+  log.debug('Getting media with constraints: ', mediaConstraints);
+  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], mediaConstraints);
+
+  // Add the tracks to the session.
+  yield (0, _effects.call)([session, 'addTracks'], media.getTracks());
+
+  const answer = yield (0, _effects.call)([session, 'generateAnswer']);
+
+  return {
+    answerSDP: answer.sdp,
+    mediaId: media.id
+  };
+}
+
+/***/ }),
+
+/***/ "./src/callstack/sagas/midcall.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.closeCall = closeCall;
+exports.handleOffer = handleOffer;
+exports.handleAnswer = handleAnswer;
+exports.generateOffer = generateOffer;
+exports.webRtcAddMedia = webRtcAddMedia;
+exports.webRtcRemoveMedia = webRtcRemoveMedia;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _errors = __webpack_require__("./src/errors/index.js");
+
+var _errors2 = _interopRequireDefault(_errors);
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// Libraries
+// Other Plugins
+const log = (0, _logs.getLogManager)().getLogger('CALLSTACK');
+
+/**
+ * Performs the webRTC session functions associated with closing a call
+ *
+ * @method closeCall
+ * @param {Object} webRTC A WebRTC instance
+ * @param {string} sessionId the local webRTC session id, used to lookup the session object
+ */
+function* closeCall(webRTC, sessionId) {
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionId);
+  if (!session) {
+    log.debug(`webRTC session ${sessionId} not found.`);
+    return;
+  }
+
+  yield (0, _effects.all)(session.localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
+
+  yield (0, _effects.call)([session, 'end']);
+}
+
+/**
+ * Performs webRTC portions of receiving an "offer" Session Description Protocol
+ *
+ * @method handleOffer
+ * @param {Object} webRTC A WebRTC instance
+ * @param {string} sdp Session Description protocol offer
+ * @param {string} webrtcSessionId local webrtc session id
+ * @returns {Object}
+ */
+function* handleOffer(webRTC, sdp, webrtcSessionId) {
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], webrtcSessionId);
+
+  if (!session) {
+    log.debug(`webRTC session ${webrtcSessionId} not found.`);
+    return;
+  }
+
+  // TODO: Make sure the session is in the correct signaling state to process an offer.
+  const error = yield (0, _effects.call)([session, 'processOffer'], {
+    type: 'offer',
+    sdp
+  });
+
+  if (error) {
+    return { error };
+  }
+
+  const answer = yield (0, _effects.call)([session, 'generateAnswer']);
+
+  return {
+    answerSDP: answer.sdp
+  };
+}
+
+/**
+ * Performs webRTC portions of receiving an "answer" Session Description Protocol
+ *
+ * @method handleAnswer
+ * @param {Object} webRTC A WebRTC instance
+ * @param {string} sdp Session Description protocol answer
+ * @param {string} webrtcSessionId local webrtc session id
+ * @return {Object} Object
+ * @return {Object} Object.error
+ */
+function* handleAnswer(webRTC, sdp, webrtcSessionId) {
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], webrtcSessionId);
+
+  if (!session) {
+    log.debug(`webRTC session ${webrtcSessionId} not found.`);
+    return;
+  }
+
+  // TODO: Make sure the session is in the correct signaling state to process an answer.
+  const error = yield (0, _effects.call)([session, 'processAnswer'], {
+    type: 'answer',
+    sdp
+  });
+
+  return { error };
+}
+
+/**
+ * Performs the webRTC session functions associated with creating an SDP offer
+ *
+ * @method generateOffer
+ * @param {Object} webRTC A WebRTC instance
+ * @param {string} sessionId the local webRTC session id, used to lookup the session object
+ * @param {Object} mediaDirections
+ * @param {string} mediaDirections.audio mode of audio add to the sdp offer
+ * @param {string} mediaDirections.video mode of video add to the sdp offer
+ * @return {Object} offer object containing a Session Description Protocol
+ */
+function* generateOffer(webRTC, sessionId, mediaDirections) {
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionId);
+
+  if (!session) {
+    log.debug(`webRTC session ${sessionId} not found.`);
+    return;
+  }
+
+  // TODO: Make sure the session is in the correct signaling state to start a
+  //    renegotiation operation.
+  const offer = yield (0, _effects.call)([session, 'generateOffer'], {
+    mediaDirections
+  });
+
+  return offer;
+}
+
+/**
+ * Performs the webRTC responsibilities for adding media
+ *
+ * @param {Object} webRTC A WebRTC instance
+ * @param  {Object} mediaConstraints Video and audio media constraints
+ * @param  {boolean} mediaConstraints.audio Whether to enable audio or not
+ * @param  {boolean} mediaConstraints.video Whether to enable video or not
+ * @param  {Object} sessionOptions
+ * @param  {string} sessionOptions.sessionId the local webrtc session id
+ * @return {Object} Object
+ * @return {string} Object.sdp An offer in the form of a Session Description Protocol
+ * @return {Object} Object.media media object containing tracks
+ */
+function* webRtcAddMedia(webRTC, mediaConstraints, sessionOptions) {
+  const media = yield (0, _effects.call)([webRTC.media, 'createLocal'], mediaConstraints);
+
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionOptions.sessionId);
+  yield (0, _effects.call)([session, 'addTracks'], media.getTracks());
+
+  // TODO: Make sure the session is in the correct signaling state to start a
+  //    renegotiation operation.
+  const offer = yield (0, _effects.call)([session, 'generateOffer']);
+  return { media: media.getState(), sdp: offer.sdp };
+}
+
+/**
+ * Performs the webRTC responsibilities for removing media
+ *
+ * @param {Object} webRTC A WebRTC instance
+ * @param {Object} sessionOptions
+ * @return {Object} Object
+ * @return {string} Object.sdp An offer in the form of a Session Description Protocol
+ */
+function* webRtcRemoveMedia(webRTC, sessionOptions) {
+  // Get the tracks
+  const localTracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], sessionOptions.tracks);
+  const invalidTrackIds = [];
+  for (var i = 0; i < localTracks.length; i++) {
+    if ((0, _fp.isUndefined)(localTracks[i])) {
+      invalidTrackIds.push(sessionOptions.tracks[i]);
+    }
+  }
+
+  if (!(0, _fp.isEmpty)(invalidTrackIds)) {
+    const message = 'Invalid track id(s) provided';
+    log.debug(message);
+    return new _errors2.default({
+      code: _errors.callCodes.INVALID_PARAM,
+      message
+    });
+  }
+
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionOptions.sessionId);
+
+  // Removes tracks from peer (Will stop tracks from being sent to remote participant).
+  // Does NOT end the tracks.
+  yield (0, _effects.call)([session, 'removeTracks'], sessionOptions.tracks);
+
+  // Ends the tracks.
+  // Clean-up the local tracks.
+  yield (0, _effects.all)(localTracks.map(track => (0, _effects.call)([track, 'cleanup'])));
+
+  // TODO: Make sure the session is in the correct signaling state to start a
+  //    renegotiation operation.
+  const offer = yield (0, _effects.call)([session, 'generateOffer']);
+
+  return {
+    sdp: offer.sdp
+  };
+}
+
+/***/ }),
+
+/***/ "./src/callstack/sagas/negotiation.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.receivedAnswer = receivedAnswer;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _utils = __webpack_require__("./src/callstack/utils/index.js");
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+// Helpers.
+const log = (0, _logs.getLogManager)().getLogger('CALLSTACK');
+
+/**
+ * An answer SDP has been received and should be applied to the Session.
+ *
+ * This saga is intended to handle all webRTC scenarios where a remote answer
+ *    SDP has been received and needs to be added to the Session. At this point
+ *    in negotiation, a Session should have been created and a local offer SDP
+ *    set. This can be for initial negotiation or for midcall renegotiation, so
+ *    the Session may or may not have a "current remote SDP" already.
+ * This saga will complete the negotiation process, as both ends will have both
+ *    an offer and answer SDP set.
+ * Responsibilities:
+ *    1. Ensure this is a valid operation.
+ *        - Session exists, Session is in correct signaling state.
+ *    2. Check the answer SDP for abnormal scenarios.
+ *        - DTLS role issue.
+ *    3. Process the answer SDP via Session's APIs.
+ * @method receivedAnswer
+ * @param {Object} webRTC An instance of webRTC
+ * @param {Object} sessionInfo Session related information for the operation.
+ * @param {string} sessionInfo.sessionId ID for the local webRTC Session.
+ * @param {string} sessionInfo.answerSdp The received answer SDP.
+ * @param {Object} targetCall Information about the call that this Session is associated with.
+ */
+
+
+// Libraries.
+// Other Plugins
+function* receivedAnswer(webRTC, sessionInfo, targetCall) {
+  log.debug(`Processing SDP answer for session ${sessionInfo.sessionId}.`);
+
+  const { sessionId, answerSdp } = sessionInfo;
+  const session = yield (0, _effects.call)([webRTC.sessionManager, 'get'], sessionId);
+
+  if (!session) {
+    log.debug(`webRTC session ${sessionId} not found.`);
+    // TODO: Better error.
+    return;
+  }
+  // TODO: Ensure Session is in the correct signaling state for an answer SDP.
+
+  // SDP handlers to be used during SDP "processing".
+  const sdpHandlers = [];
+
+  /*
+   * If the answer we received has DTLS role of 'actpass', then this is not a
+   *    normal webRTC scenario. An answer SDP cannot have 'actpass' as the role.
+   * It is assumed that the reason for this is a slow start call.
+   */
+  if (answerSdp.includes('a=setup:actpass')) {
+    /*
+     * Change the DTLS role depending on which side of the call the user is.
+     * Change the caller to passive and the callee to active roles, because
+     *    this is how it would be set for a regular call.
+     */
+    const newRole = targetCall.isCaller ? 'passive' : 'active';
+    log.debug(`Received answer SDP has role of actpass. Changing to ${newRole}.`);
+    sdpHandlers.push((0, _utils.changeDtlsRoleTo)(newRole));
+  }
+
+  /*
+   * Provide the answer SDP to the Session for "processing".
+   * If successful, the webRTC negotiation process is considered complete.
+   */
+  const error = yield (0, _effects.call)([session, 'processAnswer'], {
+    type: 'answer',
+    sdp: answerSdp
+  }, { sdpHandlers });
+
+  // TODO: Handle webRTC errors here.
+
+  return error;
+}
+
+/***/ }),
+
+/***/ "./src/callstack/utils/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.sanitizeSdesFromSdp = sanitizeSdesFromSdp;
+exports.changeDtlsRoleTo = changeDtlsRoleTo;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+const log = (0, _logs.getLogManager)().getLogger('SDPHANDLER');
+
+/**
+ * SDP handler function that should be passed into session object's `processOffer` and `processAnswer` function.
+ * This function disables old media encryption method SDES (Modifies sdp by removing crypto).
+ * However, if only SDES is available, don't disable it.
+ *
+ * @method sanitizeSdesFromSdp
+ * @param {Object} newSdp The sdp so far (could have been modified by previous handlers).
+ * @param {RTCSdpType} info Information about the session description.
+ * @param {RTCSdpType} info.type The session description's type.
+ * @param {string} info.endpoint Which end of the connection created the SDP.
+ * @param {Object} originalSdp The sdp in its initial state.
+ * @return {Object} The sanitized sdp with crypto removed (if fingerprint exists)
+ */
+// Other plugins.
+function sanitizeSdesFromSdp(newSdp, info, originalSdp) {
+  for (let mLine of newSdp.media) {
+    if (mLine.crypto && mLine.fingerprint) {
+      log.debug('Removing SDES line from SDP media section.');
+      delete mLine.crypto;
+    }
+  }
+  return newSdp;
+}
+
+/**
+ * Function generator for an SDP handler function that changes the DTLS role of the SDP.
+ * @method changeDtlsRoleTo
+ * @param  {string} role
+ * @return {Function} SDP handler.
+ */
+function changeDtlsRoleTo(role) {
+  return function changeDtlsRole(newSdp, info, originalSdp) {
+    // Grab the original DTLS role for logging purposes.
+    //    Assumed that the DTLS role is the same in every media section.
+    const original = newSdp.media[0].setup;
+    log.debug(`Changing SDP DTLS role from ${original} to ${role}.`);
+
+    // Change the DTLS role in every media section.
+    newSdp.media.map(media => {
+      media.setup = role;
+      return media;
+    });
+
+    return newSdp;
+  };
 }
 
 /***/ }),
@@ -25904,12 +27712,15 @@ var _keys2 = _interopRequireDefault(_keys);
 
 exports.mergeValues = mergeValues;
 exports.toQueryString = toQueryString;
+exports.autoRestart = autoRestart;
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
 var _queryString = __webpack_require__("./node_modules/query-string/index.js");
 
 var _queryString2 = _interopRequireDefault(_queryString);
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -25938,12 +27749,41 @@ function mergeValues(...objects) {
  * @param {Object} [options] Options to be passed to the query-string library
  * * @param {String} [options.arrayFormat] Format in which to compose array values which were passed as query parameters
  */
+// Libraries.
 function toQueryString(params = {}, options = {}) {
   if ((0, _keys2.default)(params).length > 0) {
     const stringifiedParams = _queryString2.default.stringify(params, options);
     return '?' + stringifiedParams;
   }
   return '';
+}
+
+/**
+ * Higher-order function to auto-restart sagas when they crash.
+ * Based on: https://github.com/redux-saga/redux-saga/pull/644#issuecomment-266454875
+ * @method autoRestart
+ * @param  {Generator} saga The saga to wrap.
+ * @return {Generator} Wrapped saga.
+ */
+function autoRestart(saga) {
+  return function* autoRestarting(...args) {
+    // Only restart the saga if it crashed; avoid restarting it if
+    //      it returned normally.
+    let shouldRestart = false;
+    do {
+      try {
+        yield (0, _effects.call)(saga, ...args);
+        shouldRestart = false;
+      } catch (e) {
+        // TODO: Re-add this log line.
+        // Importing the LogManager in this file breaks tests for an unknown
+        //    reason. Should find out why so that we can log in our utils.
+        // log.error(`Unhandled error in saga ${saga.name}.`, e)
+        console.log(`Unhandled error in saga ${saga.name}.`, e);
+        shouldRestart = true;
+      }
+    } while (shouldRestart);
+  };
 }
 
 /***/ }),
@@ -26354,6 +28194,7 @@ const WS_ATTEMPT_CONNECT = exports.WS_ATTEMPT_CONNECT = prefix + 'WS_ATTEMPT_CON
 const WS_CONNECT_FINISHED = exports.WS_CONNECT_FINISHED = prefix + 'WS_CONNECT_FINISHED';
 const WS_DISCONNECT = exports.WS_DISCONNECT = prefix + 'WS_DISCONNECT';
 const WS_DISCONNECT_FINISHED = exports.WS_DISCONNECT_FINISHED = prefix + 'WS_DISCONNECT_FINISHED';
+const WS_RECONNECT_FAILED = exports.WS_RECONNECT_FAILED = prefix + 'WS_RECONNECT_FAILED';
 
 // actions for hooking into connectivity plugin behaviour
 const WS_CLOSED = exports.WS_CLOSED = prefix + 'WS_CLOSED';
@@ -26378,7 +28219,7 @@ const CHANGE_PING_INTERVAL = exports.CHANGE_PING_INTERVAL = prefix + 'CHANGE_PIN
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.changePingInterval = exports.changeConnectivityChecking = exports.receiveServerPong = exports.receiveServerPing = exports.lostConnection = exports.wsError = exports.wsClosed = exports.wsDisconnectFinished = exports.wsConnectFinished = exports.wsDisconnect = exports.wsAttemptConnect = undefined;
+exports.changePingInterval = exports.changeConnectivityChecking = exports.receiveServerPong = exports.receiveServerPing = exports.lostConnection = exports.wsError = exports.wsClosed = exports.wsReconnectFailed = exports.wsDisconnectFinished = exports.wsConnectFinished = exports.wsDisconnect = exports.wsAttemptConnect = undefined;
 
 var _actionTypes = __webpack_require__("./src/connectivity/interface/actionTypes.js");
 
@@ -26395,14 +28236,15 @@ function createWsAction(type) {
   /**
    * @param {any=} payload
    * @param {string=} platform
+   * @param {boolean=} [isReconnect] flag to signify if we are reconnecting or not.
    */
-  function action(payload, platform = _constants.platforms.LINK) {
+  function action(payload, platform = _constants.platforms.LINK, isReconnect = false) {
     return {
       type,
       // TODO: This must check for basic error eventually instead.
       error: payload instanceof Error,
       payload,
-      meta: { platform }
+      meta: { platform, isReconnect }
     };
   }
   return action;
@@ -26412,6 +28254,7 @@ const wsAttemptConnect = exports.wsAttemptConnect = createWsAction(actionTypes.W
 const wsDisconnect = exports.wsDisconnect = createWsAction(actionTypes.WS_DISCONNECT);
 const wsConnectFinished = exports.wsConnectFinished = createWsAction(actionTypes.WS_CONNECT_FINISHED);
 const wsDisconnectFinished = exports.wsDisconnectFinished = createWsAction(actionTypes.WS_DISCONNECT_FINISHED);
+const wsReconnectFailed = exports.wsReconnectFailed = createWsAction(actionTypes.WS_RECONNECT_FAILED);
 
 const wsClosed = exports.wsClosed = createWsAction(actionTypes.WS_CLOSED);
 const wsError = exports.wsError = createWsAction(actionTypes.WS_ERROR);
@@ -26710,6 +28553,17 @@ reducers[actionTypes.WS_ATTEMPT_CONNECT] = {
   }
 };
 
+reducers[actionTypes.WS_RECONNECT_FAILED] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      [action.meta.platform]: (0, _extends3.default)({}, state[action.meta.platform], {
+        connected: false,
+        pinging: false
+      })
+    });
+  }
+};
+
 reducers[actionTypes.WS_CONNECT_FINISHED] = {
   next(state, action) {
     return (0, _extends3.default)({}, state, {
@@ -26941,7 +28795,8 @@ function* wsConnectFlow() {
  */
 function* websocketLifecycle(wsConnectAction) {
   const wsInfo = wsConnectAction.payload;
-  const platform = wsConnectAction.meta.platform;
+  const { platform, isReconnect } = wsConnectAction.meta;
+
   // Try to open the websocket.
   let websocket = yield (0, _effects.call)(connectWebsocket, wsInfo, platform);
 
@@ -26954,10 +28809,13 @@ function* websocketLifecycle(wsConnectAction) {
 
   // If the websocket didn't open, dispatch the error and stop here.
   if (websocket.error) {
-    // TODO: Differentiate between failed initial connect and reconnect?
-    //      So that actions/events can too.
-    yield (0, _effects.put)(actions.wsConnectFinished(new Error(websocket.message), platform));
-    return;
+    if (isReconnect) {
+      yield (0, _effects.put)(actions.wsReconnectFailed(undefined, platform));
+      return;
+    } else {
+      yield (0, _effects.put)(actions.wsConnectFinished(new Error(websocket.message), platform));
+      return;
+    }
   }
 
   // set last contact in both cases to be now
@@ -27013,7 +28871,7 @@ function* websocketLifecycle(wsConnectAction) {
 
     // If we've lost connection, re-dispatch the initial action, so that we can
     //      start the lifecycle over.
-    yield (0, _effects.put)(actions.wsAttemptConnect(wsInfo, wsConnectAction.meta.platform));
+    yield (0, _effects.put)(actions.wsAttemptConnect(wsInfo, wsConnectAction.meta.platform, true));
   }
 }
 
@@ -27487,7 +29345,9 @@ const authCodes = exports.authCodes = {
   // A provided parameter is not valid.
   INVALID_PARAM: 'call:7',
   // There is a desync between components' state.
-  STATE_DESYNC: 'call:8'
+  STATE_DESYNC: 'call:8',
+  // Offer could not be generated
+  INVALID_OFFER: 'call:9'
 
   /**
    * Error codes for the Call History plugin.
@@ -27944,7 +29804,12 @@ function middleware(context) {
         break;
       default:
         if (eventMap.hasOwnProperty(action.type)) {
+          // Get state both before and after allowing the action to go through
+          //    the reducers. This lets events have compare state changes.
+          const prevState = context.getState();
           let result = next(action);
+          const state = context.getState();
+
           // make this compatible with promise middleware by ensuring we
           // wait for the promise to resolve. It's easier to just always
           // use a promise, as opposed to handling cases.
@@ -27953,7 +29818,9 @@ function middleware(context) {
           }
           result.then(function () {
             for (let mapper of eventMap[action.type]) {
-              let events = mapper(action, context);
+              // Use the mapper(s) for this specific event to create the event object(s).
+              // Event mappings have access to the action and states pre+post reducer.
+              let events = mapper(action, { prevState, state });
               if (!events) {
                 events = [];
               } else if (!Array.isArray(events)) {
@@ -28368,10 +30235,14 @@ var _compose = __webpack_require__("../../node_modules/stampit/compose.js");
 
 var _compose2 = _interopRequireDefault(_compose);
 
+var _utils = __webpack_require__("./src/common/utils.js");
+
 var _logs = __webpack_require__("./src/logs/index.js");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+// Helpers.
+// Libraries.
 const log = (0, _logs.getLogManager)().getLogger('FACTORY');
 
 /**
@@ -28390,21 +30261,27 @@ const log = (0, _logs.getLogManager)().getLogger('FACTORY');
  * @return {boolean} True if the property is a normal property, false otherwise.
  */
 
-// Logs
+
+// Plugins.
 function isNormalProperty({ enumerable, configurable, writable, get, set }) {
   return configurable && enumerable && writable && !get && !set;
 }
 
-/**
- * Creates an instance of the SDK with the specified plugins and configuration.
- *
- * @param {Plugin[]} plugins - The list of plugins to load into this instance of the SDK.
- * @param {Object} [options] - Factory options
- * @param {boolean} [options.enableReduxDevTools] - A flag to indicate whether or not to include Redux Dev Tools
- */
-function factory(plugins, options = { enableReduxDevTools: false }) {
+const factoryDefaults = {
+  enableReduxDevTools: false,
+  allowProxy: false
+
+  /**
+   * Creates an instance of the SDK with the specified plugins and configuration.
+   *
+   * @param {Plugin[]} plugins - The list of plugins to load into this instance of the SDK.
+   * @param {Object} [options] - Factory options
+   * @param {boolean} [options.enableReduxDevTools] - A flag to indicate whether or not to include Redux Dev Tools
+   * @param {boolean} [options.allowProxy] Whether the factory should allow the Proxy Plugin to be included.
+   */
+};function factory(plugins, options = factoryDefaults) {
   // Log the SDK's version (templated by webpack) on initialization.
-  let version = '3.0.0-beta.38849';
+  let version = '3.3.0';
   log.info(`CPaaS SDK version: ${version}`);
 
   var sagas = [];
@@ -28413,6 +30290,7 @@ function factory(plugins, options = { enableReduxDevTools: false }) {
   var middlewares = [];
   var reducers = {};
   var initSagas = [];
+  const shared = {};
   var context = {
     capabilities: [],
     api: {},
@@ -28443,6 +30321,11 @@ function factory(plugins, options = { enableReduxDevTools: false }) {
   // Run all the plugins to build the context.
   // Set up each plugin component individually.
   plugins.forEach(function (plugin) {
+    // Ignore the Proxy Plugin if not configured to allow it.
+    if (plugin.name === 'proxy' && !options.allowProxy) {
+      plugin = {};
+    }
+
     if (plugin.capabilities) {
       context.capabilities = context.capabilities.concat(plugin.capabilities);
     }
@@ -28505,35 +30388,30 @@ function factory(plugins, options = { enableReduxDevTools: false }) {
         }
       }
     }
+
+    /**
+     * Plugins are allowed to share data between them by providing it to the
+     *    factory. All shared data will be collected as a single object, and
+     *    that object will be provided to plugins during their `init` saga.
+     * It is intended that a plugin can "override" another plugin's shared data.
+     * The order that plugins are given to the factory matters because of this.
+     * `plugin.shared` is expected to be an object.
+     */
+    if (plugin.shared) {
+      for (let key in plugin.shared) {
+        if (shared[key]) {
+          log.debug(`Replacing shared ${key} with ${key} from ${plugin.name}.`);
+          shared[key] = plugin.shared[key];
+        } else {
+          shared[key] = plugin.shared[key];
+        }
+      }
+    }
   });
 
   if (loggerMiddleware) {
     // The redux logger middleware should be the last middleware.
     middlewares.push(() => loggerMiddleware(context));
-  }
-
-  /**
-   * Higher-order function to auto-restart sagas when they crash.
-   * Based on: https://github.com/redux-saga/redux-saga/pull/644#issuecomment-266454875
-   * @method autoRestart
-   * @param  {Generator} saga The saga to wrap.
-   * @return {Generator} Wrapped saga.
-   */
-  function autoRestart(saga) {
-    return function* autoRestarting(...args) {
-      // Only restart the saga if it crashed; avoid restarting it if
-      //      it returned normally.
-      let shouldRestart = false;
-      do {
-        try {
-          yield (0, _effects.call)(saga, ...args);
-          shouldRestart = false;
-        } catch (e) {
-          log.error(`Unhandled error in saga ${saga.name}.`, e);
-          shouldRestart = true;
-        }
-      } while (shouldRestart);
-    };
   }
 
   // Compose the root saga
@@ -28546,11 +30424,12 @@ function factory(plugins, options = { enableReduxDevTools: false }) {
     for (let init of initSagas) {
       // Note: Yield directly to init. If redux-saga's `call()` is used, then the
       //      factory returns before the instance is done all inits. See PR #699.
-      yield* init();
+      // Provide the factory's shared data (from plugins) to the `init` saga.
+      yield* init(shared);
     }
     // Run all of the sagas provided by implementation plugins.
     for (let saga of sagas) {
-      yield (0, _effects.fork)(autoRestart(saga));
+      yield (0, _effects.fork)((0, _utils.autoRestart)(saga));
     }
   }
 
@@ -28628,10 +30507,14 @@ var _factory = __webpack_require__("./src/factory.js");
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
+// This is a hack to fix an issue where Lodash will add itself to
+// the window scope even if it's loaded via ES6. You can remove this when
+// we have an answer to https://github.com/lodash/lodash/issues/1798 .
+// eslint-disable-next-line
 // Disabling eslint for the next comment as we want to be able to use a disallowed word
 // eslint-disable-next-line no-warning-comments
 /**
- * The SDK creation factory. Create an instance of the SDK by calling this factory with the the desired configurations.
+ * The SDK creation factory. Create an instance of the SDK by calling this factory with the desired configurations.
  * @public
  * @method create
  * @param {config} config The configuration object.
@@ -28689,6 +30572,8 @@ var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 /*
  * Index template file that is used to create pre-defined version of the SDK.
  */
+if (_fp._) _fp._.noConflict();
+
 function commonIndex(options = {}, plugins = []) {
   const pluginInstances = (0, _fp.map)(function (plugin) {
     return plugin.fn(options[plugin.name]);
@@ -28720,6 +30605,10 @@ var _cpaas2 = _interopRequireDefault(_cpaas);
 var _webrtc = __webpack_require__("./src/webrtc/index.js");
 
 var _webrtc2 = _interopRequireDefault(_webrtc);
+
+var _webrtcProxy = __webpack_require__("./src/webrtcProxy/index.js");
+
+var _webrtcProxy2 = _interopRequireDefault(_webrtcProxy);
 
 var _cpaas3 = __webpack_require__("./src/call/cpaas2/index.js");
 
@@ -28755,7 +30644,9 @@ var _cpaas14 = _interopRequireDefault(_cpaas13);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-const defaultPlugins = [..._basePlugins2.default, { name: 'authentication', fn: _cpaas2.default }, { name: 'webrtc', fn: _webrtc2.default }, { name: 'call', fn: _cpaas4.default }, { name: 'connectivity', fn: _connectivity2.default }, { name: 'messaging', fn: _cpaas6.default }, { name: 'notifications', fn: _cpaas8.default }, { name: 'presence', fn: _cpaas10.default }, { name: 'subscription', fn: _cpaas12.default }, { name: 'users', fn: _cpaas14.default }];
+const defaultPlugins = [..._basePlugins2.default, { name: 'authentication', fn: _cpaas2.default }, { name: 'webrtc', fn: _webrtc2.default },
+// TODO: Don't _always_ include the Proxy Plugin.
+{ name: 'proxy', fn: _webrtcProxy2.default }, { name: 'call', fn: _cpaas4.default }, { name: 'connectivity', fn: _connectivity2.default }, { name: 'messaging', fn: _cpaas6.default }, { name: 'notifications', fn: _cpaas8.default }, { name: 'presence', fn: _cpaas10.default }, { name: 'subscription', fn: _cpaas12.default }, { name: 'users', fn: _cpaas14.default }];
 
 function root(options = {}, plugins = []) {
   return (0, _index2.default)(options, [...defaultPlugins, ...plugins]);
@@ -28858,6 +30749,7 @@ const logMgr = getLogManager(defaultOptions);
  * @public
  * @name config.logs
  * @memberof config
+ * @requires logs
  * @instance
  * @param {Object} logs Logs configs.
  * @param  {string} [logs.logLevel=debug] Log level to be set. See `logger.levels`.
@@ -28897,6 +30789,7 @@ function logger(options = {}) {
 
   var components = {
     name,
+    capabilities: ['logs'],
     init,
     api: _api2.default
     // Consider actions to be at the INFO log level.
@@ -28923,6 +30816,11 @@ function logger(options = {}) {
         nextState: false
       };
     }
+
+    if (options.logActions.excludeActions) {
+      actionOptions.predicate = excludeActions(options.logActions.excludeActions);
+    }
+
     // ALWAYS use our own logger
     actionOptions.logger = logMgr.getLogger('ACTION');
     // ALWAYS remove theming/styling from the action log messages
@@ -28955,6 +30853,16 @@ function getLogManager(options) {
   return getLogManager.instance;
 }
 
+/**
+ * Logger predicate function that will take an array of action types
+ * and exclude them from logs
+ * @param {Array} actions An array of action types to exclude from logs
+ * @returns {function} A predicate function
+ */
+function excludeActions(actions) {
+  return (getState, action) => !actions.includes(action.type);
+}
+
 /***/ }),
 
 /***/ "./src/logs/interface/api.js":
@@ -28978,6 +30886,7 @@ exports.default = api;
  *
  * @public
  * @module Logger
+ * @requires logs
  */
 
 function api() {
@@ -29598,6 +31507,9 @@ const FILE_UPLOAD_FAIL = exports.FILE_UPLOAD_FAIL = PREFIX + 'FILE_UPLOAD_FAIL';
 const SET_IS_TYPING = exports.SET_IS_TYPING = PREFIX + 'SET_IS_TYPING';
 const SET_IS_TYPING_FINISHED = exports.SET_IS_TYPING_FINISHED = PREFIX + 'SET_IS_TYPING_FINISHED';
 
+const GET_IMAGE_LINKS = exports.GET_IMAGE_LINKS = PREFIX + 'GET_IMAGE_LINKS';
+const GET_IMAGE_LINKS_FINISH = exports.GET_IMAGE_LINKS_FINISH = PREFIX + 'GET_IMAGE_LINKS_FINISH';
+
 /***/ }),
 
 /***/ "./src/messaging/cpaas2/interface/actions/conversations.js":
@@ -29822,6 +31734,8 @@ exports.fetchMessagesFinished = fetchMessagesFinished;
 exports.clearMessages = clearMessages;
 exports.deleteMessage = deleteMessage;
 exports.deleteMessageFinish = deleteMessageFinish;
+exports.getImageLinks = getImageLinks;
+exports.getImageLinksFinish = getImageLinksFinish;
 
 var _actionTypes = __webpack_require__("./src/messaging/cpaas2/interface/actionTypes.js");
 
@@ -30079,6 +31993,43 @@ function deleteMessageFinish({ destination, type, messageId, error }) {
   };
 }
 
+/**
+ * Returns a get image links action
+ * @method getImageLinks
+ * @param {Object} $0
+ * @param {Array} $0.parts the different parts of the message
+ * @param {string} $0.destination the destination address(es)
+ * @param {string} $0.type the type of message (chat, group, SMS
+ * @param {string} $0.messageId id for looking up the message
+ * @returns {Object}
+ */
+function getImageLinks({ parts, destination, type, messageId }) {
+  return {
+    type: actionTypes.GET_IMAGE_LINKS,
+    payload: { parts, destination, type, messageId }
+  };
+}
+
+/**
+ * Returns a get image links finish action
+ * @method getImageLinksFinish
+ * @param {Object} $0
+ * @param {string} $0.url the url that returns an attachment
+ * @param {string} $0.rawURL the url returned when we upload an image
+ * @param {Array} $0.destination the destination address(es)
+ * @param {string} $0.typethe type of message (chat, group, SMS
+ * @param {string} $0.messageId id for looking up the message
+ * @param {Object} [$0.error] a standard error object
+ * @returns {Object}
+ */
+function getImageLinksFinish({ url, rawURL, destination, type, messageId, error }) {
+  return {
+    type: actionTypes.GET_IMAGE_LINKS_FINISH,
+    payload: error || { url, rawURL, destination, type, messageId },
+    error: !!error
+  };
+}
+
 /***/ }),
 
 /***/ "./src/messaging/cpaas2/interface/api.js":
@@ -30096,25 +32047,21 @@ var _actions = __webpack_require__("./src/messaging/cpaas2/interface/actions/ind
 
 var _selectors = __webpack_require__("./src/messaging/cpaas2/interface/selectors.js");
 
-var _selectors2 = __webpack_require__("./src/auth/interface/selectors.js");
-
 var _logs = __webpack_require__("./src/logs/index.js");
 
 // Retrieve logger
-/**
- * The messaging feature revolves around a "conversation" structure. It is responsible to store the conversations
- * and its messages, and return conversation objects when requested.
- *
- * See the "Conversation" and "Message" sections of the documentation for more details.
- *
- *
- * Messaging functions are all part of the 'conversation' namespace. Ex: client.conversation.get('id').
- *
- * @public
- * @module Messaging
- */
-
-const log = (0, _logs.getLogManager)().getLogger('Messaging');
+const log = (0, _logs.getLogManager)().getLogger('Messaging'); /**
+                                                                * The messaging feature revolves around a "conversation" structure. It is responsible to store the conversations
+                                                                * and its messages, and return conversation objects when requested.
+                                                                *
+                                                                * See the "Conversation" and "Message" sections of the documentation for more details.
+                                                                *
+                                                                *
+                                                                * Messaging functions are all part of the 'conversation' namespace. Ex: client.conversation.get('id').
+                                                                *
+                                                                * @public
+                                                                * @module Messaging
+                                                                */
 
 function api(context) {
   const messagingApi = {
@@ -30258,23 +32205,6 @@ function api(context) {
      */
     getAll: function () {
       return (0, _selectors.getConversations)(context.getState());
-    },
-
-    /**
-     * Takes a URL and fetches an image found that that URL with token authentication.
-     *
-     * @method fetchImageBlob
-     * @param {string} url
-     * @return a string ObjectURL
-     * TODO: docs relating to revokeImageURL
-     */
-    createImageURL(url) {
-      const headers = {
-        authorization: `Bearer ${(0, _selectors2.getUserInfo)(context.getState()).accessToken}`
-      };
-      return fetch(url, { headers }).then(response => response.blob()).then(imageBlob => URL.createObjectURL(imageBlob)).catch(err => {
-        log.info('something went wrong createImageUrl:', err);
-      });
     }
   };
   return { conversation: messagingApi };
@@ -30437,7 +32367,7 @@ eventsMap[actionTypes.FETCH_CONVERSATIONS_FINISHED] = function (action) {
   }
 };
 
-eventsMap[actionTypes.DELETE_CONVERSATION_FINISH] = function (action, context) {
+eventsMap[actionTypes.DELETE_CONVERSATION_FINISH] = function (action, { state }) {
   if (action.error) {
     return {
       type: eventTypes.MESSAGES_ERROR,
@@ -30446,7 +32376,7 @@ eventsMap[actionTypes.DELETE_CONVERSATION_FINISH] = function (action, context) {
   } else {
     return {
       type: eventTypes.CONVERSATIONS_CHANGE,
-      args: context.getState().messaging.conversations.map(conversation => {
+      args: state.messaging.conversations.map(conversation => {
         if (!((0, _fp.isEqual)(conversation.destination, action.payload.destination) && conversation.type === action.payload.type)) {
           return {
             destination: conversation.destination,
@@ -30516,6 +32446,16 @@ eventsMap[actionTypes.SET_IS_TYPING_FINISHED] = function (action) {
     args: {
       destination: action.payload.destination,
       sender: action.payload.senderAddress,
+      type: action.payload.type
+    }
+  };
+};
+
+eventsMap[actionTypes.GET_IMAGE_LINKS_FINISH] = function (action) {
+  return {
+    type: eventTypes.MESSAGES_CHANGE,
+    args: {
+      destination: action.payload.destination,
       type: action.payload.type
     }
   };
@@ -30644,7 +32584,7 @@ const log = (0, _logs.getLogManager)().getLogger('MESSAGING');
 const conversationBase = {
   initializers: [function ({
     destination,
-    type = 'im',
+    type = 'chat',
     id = undefined,
     description = '',
     messages = [],
@@ -30716,14 +32656,19 @@ const conversationBase = {
      * @memberof Conversation
      * @requires simpleMessagingOnly
      * @param {Object} part The part to add to the message.
-     * @param {string} part.type The type of part. Must be "text".
-     * @param {string} part.text The text of the part. Must be a part of type "text".
+     * @param {string} part.type The type of part. Must be "text" or "file"
+     * @param {string} [part.text] The text of the part. Must be a part of type "text".
      * @returns {Message} The newly created Message object.
      *
      * @example
      * conversation.createMessage({type: 'text', text: 'This is the message'});
      */
     createMessage(part) {
+      if (typeof part === 'string') {
+        part = { type: 'text', text: part };
+      }
+      let parts = Array.isArray(part) ? part : [part];
+
       const messageContext = {
         features: this.features,
         isGroup: this.destination.length > 1,
@@ -30732,7 +32677,7 @@ const conversationBase = {
       };
       return this.context.primitives.Message({
         destination: this.destination,
-        part,
+        parts: parts,
         context: messageContext,
         type: this.type
       });
@@ -30740,6 +32685,7 @@ const conversationBase = {
 
     /**
      * Clears all messages in this conversation from local state.
+     *
      * @public
      * @memberof Conversation
      * @method clearMessages
@@ -30753,37 +32699,24 @@ const conversationBase = {
      *
      * @public
      * @memberof Conversation
-     * @returns {Object[]} messages An array containing the conversation's messages.
-     * @returns {Function} messages.markRead Marks the message as read.
-     * @returns {Function} messages.forward Forward the message to another user.
-     * @returns {string} messages.messageId The Id of the message.
-     * @returns {string} messages.sender The user Id of the user who sent the message.
-     * @returns {number} messages.timestamp The time at which the message was sent.
-     * @returns {boolean} messages.read Whether the message has been marked as read.
-     * @returns {boolean} messages.isPending Whether the message has finished being sent to the server.
-     * @returns {Array} messages.parts The parts of the message.
+     * @method getMessages
+     * @return {Message[]} An array of messages.
      */
     getMessages: function () {
-      const convo = (0, _selectors.findConversation)(this.context.getState(), this.destination, this.type);
+      const conversation = (0, _selectors.findConversation)(this.context.getState(), this.destination, this.type);
 
-      return convo.messages.map(message => {
-        message.forward = participant => {
-          this.context.dispatch(_actions.messageActions.sendMessage(participant, message.parts, Date.now(), this.type, this.id));
-        };
-
-        const userInfo = (0, _selectors2.getUserInfo)(this.context.getState());
-        // Only allow the end user to markRead on message that were incoming.
-        if (message.sender !== userInfo.username) {
-          message.markRead = () => {
-            this.context.dispatch(_actions.messageActions.sendMessageRead(message.messageId, this.destination));
-          };
+      return conversation.messages.map(message => {
+        if (!message.parts) {
+          log.debug('no message parts found on message, skipping message');
+          return;
         }
-        return message;
+        return this.getMessage(message.messageId);
       });
     },
 
     /**
      * Get a specific message from this conversation.
+     *
      * @public
      * @method getMessage
      * @memberof Conversation
@@ -30799,19 +32732,37 @@ const conversationBase = {
         return;
       }
 
-      // TODO: Have a helper that "augments" messages.
-      // "Augment" the message like we do in `getMessages`.
-      message.forward = participant => {
-        this.context.dispatch(_actions.messageActions.sendMessage(participant, message.parts, Date.now(), this.type, this.id));
+      const { parts, sender, timestamp, isFetchingLinks } = message;
+      const { type, features, destination, id } = this;
+      let mixinMessage = this.context.primitives.Message({
+        parts,
+        sender,
+        timestamp,
+        isFetchingLinks,
+        destination,
+        type,
+        messageId,
+        context: {
+          features,
+          id,
+          type,
+          isGroup: destination.length > 1
+        }
+      });
+
+      // TODO: Have these functions as proper mixin functions, instead of adding them manually afterwards.
+      mixinMessage.forward = participant => {
+        this.context.dispatch(_actions.messageActions.sendMessage(participant, mixinMessage.parts, Date.now(), this.type, this.id));
       };
       // Only allow the end user to markRead on message that were incoming.
       const userInfo = (0, _selectors2.getUserInfo)(this.context.getState());
-      if (message.sender !== userInfo.username) {
-        message.markRead = () => {
-          this.context.dispatch(_actions.messageActions.sendMessageRead(message.messageId, this.destination));
+      if (mixinMessage.sender !== userInfo.username) {
+        // TODO: Have these functions as proper mixin functions, instead of adding them manually afterwards.
+        mixinMessage.markRead = () => {
+          this.context.dispatch(_actions.messageActions.sendMessageRead(mixinMessage.messageId, this.destination));
         };
       }
-      return message;
+      return mixinMessage;
     },
 
     /**
@@ -30932,25 +32883,30 @@ const conversationBase = {
   }
 
   /*
-   * base Message stamp
+   * Base Message stamp
    * @param {string} destination The Destination for messages being sent through
    * this conversation in this instance of the SDK. This can be one or many users,
    * separated by commas `,`
-   * @param  {Object} part - Initial part to the message.
+   * @param  {Object} parts - Initial part to the message.
    * @param  {Object} context - Information and capabilities for how the message will act with regard to the conversation.
    * @param  {Array} context.features - List of features the conversation supports.
    * @param  {Function} context.send - Function for sending the message.
-   * @param  {string} type=im - The type of the message
+   * @param  {number} timestamp unix timestamp in seconds
+   * @param  {boolean} isFetchingLinks
+   * @param  {string} sender The author of the message
+   * @param  {string} messageId a unique id for looking up the message
+   * @param  {string} [type='chat'] - The type of the message
    */
 };const messageBase = {
-  initializers: [function ({ destination, part, context, type = 'im' }) {
+  initializers: [function ({ destination, parts, context, timestamp, isFetchingLinks, sender, messageId, type = 'chat' }) {
     this.destination = Array.isArray(destination) ? destination : [destination];
     this.convoContext = context;
     this.type = destination.length > 1 ? 'group' : type;
-    if (typeof part === 'string') {
-      part = { type: 'text', text: part };
-    }
-    this.parts = [part];
+    this.messageId = messageId;
+    this.sender = sender;
+    this.timestamp = timestamp;
+    this.isFetchingLinks = isFetchingLinks;
+    this.parts = parts;
   }],
   methods: {
     /**
@@ -30962,7 +32918,8 @@ const conversationBase = {
      */
     send() {
       log.debug('Send message', this);
-      this.context.dispatch(_actions.messageActions.sendMessage(this.destination, this.parts, Date.now(), this.type, this.convoContext.id));
+      const dateInSeconds = Date.now() / 1000 | 0;
+      this.context.dispatch(_actions.messageActions.sendMessage(this.destination, this.parts, dateInSeconds, this.type, this.convoContext.id));
     }
   }
 
@@ -30997,6 +32954,7 @@ const conversationBase = {
      * @param {number} [part.location.longitude] The longitude of the location.
      * @param {number} [part.location.latitude] The latitude of the location.
      */
+
     /**
      * Add an additional part to a message.
      *
@@ -31019,31 +32977,55 @@ const conversationBase = {
     }
   }
 
+  /**
+   * stamp to allow creation of multimedia links
+   * @name multimediaLinks
+   * @param  {Object} context - Information and capabilities for how the message will act with regard to the conversation.
+   * @param  {Array} context.features - List of features the conversation supports.
+   */
+};const multimediaLinks = {
+  initializers: [function ({ context: { features = [] } }) {
+    if (!(0, _fp.includes)('rich', features)) {
+      const prototype = (0, _getPrototypeOf2.default)(this);
+      delete prototype.createImageLinks;
+    }
+    return this;
+  }],
+  methods: {
+    /**
+     * Creates a usable link for the given message
+     *
+     * @public
+     * @memberof Message
+     * @requires rich
+     */
+    createImageLinks() {
+      const { parts, destination, type, messageId } = this;
+      this.context.dispatch(_actions.messageActions.getImageLinks({ parts, destination, type, messageId }));
+    }
+  }
+
   /*
    * A helper function to validate inputs. Will be progressively updated as we
    * allow for more and more input types.
    */
 };let validatePart = function (part, features) {
   if (part.hasOwnProperty('type')) {
-    if (part.hasOwnProperty(part.type)) {
-      let validTypeFlag = false;
-      switch (part.type) {
-        case 'text':
-          validTypeFlag = true;
-          break;
-        case 'file':
-          validTypeFlag = features.indexOf('rich') !== -1;
-          break;
-        case 'location':
-          validTypeFlag = features.indexOf('rich') !== -1;
-          break;
-        case 'json':
-          validTypeFlag = features.indexOf('rich') !== -1;
-      }
-      return validTypeFlag || new Error(`Part of type "${part.type}" is not supported`);
-    } else {
-      return new Error('A message part must have a payload corresponding with its declared type');
+    let validTypeFlag = false;
+    switch (part.type) {
+      case 'text':
+        validTypeFlag = true;
+        break;
+      case 'file':
+        validTypeFlag = features.indexOf('rich') !== -1;
+        break;
+      case 'location':
+        validTypeFlag = features.indexOf('rich') !== -1;
+        break;
+      case 'json':
+        validTypeFlag = features.indexOf('rich') !== -1;
     }
+    return validTypeFlag || new Error(`Part of type "${part.type}" is not supported`);
   } else {
     return new Error('A message part must have a type. Options are: [text, file, location, json]');
   }
@@ -31051,7 +33033,7 @@ const conversationBase = {
 
 exports.default = {
   Conversation: (0, _compose2.default)(conversationBase, conversationHistory, conversationIsTyping),
-  Message: (0, _compose2.default)(messageBase, withParts)
+  Message: (0, _compose2.default)(messageBase, withParts, multimediaLinks)
 };
 
 /***/ }),
@@ -31339,6 +33321,61 @@ reducers[actionTypes.SET_IS_TYPING_FINISHED] = {
   }
 };
 
+reducers[actionTypes.GET_IMAGE_LINKS] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      conversations: state.conversations.map(conversation => {
+        if ((0, _fp.isEqual)(conversation.destination, action.payload.destination) && conversation.type === action.payload.type) {
+          return (0, _extends3.default)({}, conversation, {
+            messages: conversation.messages.map(message => {
+              // iterate over messages find ours using messageId
+              if ((0, _fp.isEqual)(message.messageId, action.payload.messageId)) {
+                return (0, _extends3.default)({}, message, {
+                  isFetchingLinks: true
+                });
+              }
+              return message;
+            })
+          });
+        }
+        return conversation;
+      })
+    });
+  }
+};
+
+reducers[actionTypes.GET_IMAGE_LINKS_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      conversations: state.conversations.map(conversation => {
+        if ((0, _fp.isEqual)(conversation.destination, action.payload.destination) && conversation.type === action.payload.type) {
+          return (0, _extends3.default)({}, conversation, {
+            messages: conversation.messages.map(message => {
+              // iterate over messages find ours using messageId
+              if ((0, _fp.isEqual)(message.messageId, action.payload.messageId)) {
+                return (0, _extends3.default)({}, message, {
+                  isFetchingLinks: false,
+                  parts: message.parts.map(part => {
+                    // iterate over message parts and find ours using oldURL
+                    if ((0, _fp.isEqual)(part.rawURL, action.payload.rawURL)) {
+                      return (0, _extends3.default)({}, part, {
+                        url: action.payload.url
+                      });
+                    }
+                    return part;
+                  })
+                });
+              }
+              return message;
+            })
+          });
+        }
+        return conversation;
+      })
+    });
+  }
+};
+
 /*
  * Combine all of reducers into a single reducer, with
  *      a default state of an empty array.
@@ -31499,6 +33536,7 @@ exports.smsOutboundSubscribe = smsOutboundSubscribe;
 exports.smsOutboundUnsubscribe = smsOutboundUnsubscribe;
 exports.chatFetchConversations = chatFetchConversations;
 exports.chatFetchMessages = chatFetchMessages;
+exports.fetchImageLinks = fetchImageLinks;
 
 var _effects = __webpack_require__("./src/request/effects.js");
 
@@ -31977,6 +34015,33 @@ function* chatFetchMessages(requestInfo, destination) {
   }
 }
 
+/**
+ * Used to fetch links for images with authentication,
+ * url is passed as a parameter because it is a unique url
+ * returned via the uploadFile API
+ * @method fetchImageLinks
+ * @param {Object} requestInfo
+ * @param {string} url where we get the image blob
+ * @return {Object}
+ */
+function* fetchImageLinks(requestInfo, url) {
+  const response = yield (0, _effects2.default)({ url, method: 'GET', responseType: 'blob' }, requestInfo.options);
+
+  if (response.error) {
+    return {
+      error: new _errors2.default({
+        message: 'Failed to fetch image link.',
+        code: _errors.messagingCodes.FETCH_IMAGE_LINKS_FAIL
+      })
+    };
+  } else {
+    return {
+      blob: response.payload.body,
+      error: false
+    };
+  }
+}
+
 /***/ }),
 
 /***/ "./src/messaging/cpaas2/sagas/index.js":
@@ -32000,6 +34065,7 @@ exports.fetchChatConversations = fetchChatConversations;
 exports.fetchChatMessages = fetchChatMessages;
 exports.setIsTyping = setIsTyping;
 exports.receiveIsTypingNotification = receiveIsTypingNotification;
+exports.getImageLinks = getImageLinks;
 
 var _messaging = __webpack_require__("./src/messaging/cpaas2/sagas/messaging.js");
 
@@ -32172,6 +34238,17 @@ function* receiveIsTypingNotification() {
   yield (0, _effects2.takeEvery)(isTypingPattern, messagingSagas.receiveIsTypingNotification);
 }
 
+/**
+ * Waits for get image links notifications and triggers getImageLinks saga
+ * @method getImageLinks
+ */
+function* getImageLinks() {
+  function getImageLinksPattern(action) {
+    return action.type === actionTypes.GET_IMAGE_LINKS;
+  }
+  yield (0, _effects2.takeEvery)(getImageLinksPattern, messagingSagas.getImageLinks);
+}
+
 /***/ }),
 
 /***/ "./src/messaging/cpaas2/sagas/messaging.js":
@@ -32197,6 +34274,7 @@ exports.sendSMS = sendSMS;
 exports.handleIncomingSMS = handleIncomingSMS;
 exports.fetchChatConversations = fetchChatConversations;
 exports.fetchChatMessages = fetchChatMessages;
+exports.getImageLinks = getImageLinks;
 
 var _actions = __webpack_require__("./src/messaging/cpaas2/interface/actions/index.js");
 
@@ -32288,13 +34366,13 @@ function* sendChatMessage(action) {
     } else if (part.type === 'file') {
       fileParts = fileParts.concat([part]);
     } else {
-      log('invalid part type');
+      log.info('Unknown part type' + part.type);
     }
   });
 
   // TODO: when the backend API expands its functionality this log/error should be removed
   if (fileParts.length > 1) {
-    log('Too many fileParts to upload, API  doesnt currently support multiple fileParts.');
+    log.info('Too many fileParts to upload, API  doesnt currently support multiple fileParts.');
     yield (0, _effects.put)(_actions.messageActions.sendMessageFinish({
       error: new _errors2.default({
         message: 'Too many fileParts to upload, API  doesnt currently support multiple fileParts.',
@@ -32305,8 +34383,11 @@ function* sendChatMessage(action) {
 
   let attachmentParts = [];
   if (fileParts.length > 0) {
-    const uploadResponse = yield (0, _effects.all)(fileParts.map(filePart => (0, _effects.call)(_requests.uploadFile, requestInfo, filePart.file)));
-    attachmentParts = uploadResponse.reduce((accum, current) => accum.concat((0, _extends3.default)({ type: 'file' }, current.attachment, { url: current.attachment.link })), []);
+    const uploadResponseList = yield (0, _effects.all)(fileParts.map(filePart => (0, _effects.call)(_requests.uploadFile, requestInfo, filePart.file)));
+
+    attachmentParts = uploadResponseList.map(response => {
+      return (0, _extends3.default)({}, response.attachment, { type: 'file', rawURL: response.attachment.link });
+    });
     // multimedia messaging requires a specific format for each uploaded file
     const chatMediaParts = attachmentParts.map(part => {
       return { name: part.name, 'x-id': part['x-id'] };
@@ -32345,7 +34426,9 @@ function* sendChatMessage(action) {
  * @param  {Object} action A `NOTIFICATION_RECEIVED` action representing a deliveryReceipt.
  */
 function* handleChatMessageNotification(action) {
-  const { id, dateTime, senderAddress, text, attachment } = action.payload.chatMessageNotification.chatMessage;
+  const { dateTime, senderAddress, text, attachment } = action.payload.chatMessageNotification.chatMessage;
+  // Grab the messageId from the end of link.href
+  const messageId = action.payload.chatMessageNotification.link[0].href.split('/messages/')[1];
 
   const existingConversation = yield (0, _effects.select)(_selectors.findConversation, [senderAddress], 'chat');
   const newConversation = !existingConversation;
@@ -32360,7 +34443,7 @@ function* handleChatMessageNotification(action) {
     const fileParts = attachment.map(file => {
       return {
         type: 'file',
-        url: file.link,
+        rawURL: file.link,
         name: file.name,
         size: file.size,
         'x-id': file['x-id']
@@ -32369,7 +34452,7 @@ function* handleChatMessageNotification(action) {
     parts = parts.concat(fileParts);
   }
 
-  yield (0, _effects.put)(_actions.messageActions.messageReceived([senderAddress], parts, id, senderAddress, dateTime, {
+  yield (0, _effects.put)(_actions.messageActions.messageReceived([senderAddress], parts, messageId, senderAddress, dateTime, {
     type: 'chat',
     newConversation: newConversation
   }));
@@ -32520,7 +34603,7 @@ function* fetchChatMessages(action) {
         return (0, _extends3.default)({
           type: 'file'
         }, attachment, {
-          url: attachment.link,
+          rawURL: attachment.link,
           name: attachment.name
         });
       }));
@@ -32540,6 +34623,33 @@ function* fetchChatMessages(action) {
   } else {
     yield (0, _effects.put)(_actions.messageActions.fetchMessagesFinished([destination], 'chat', messageList, null));
   }
+}
+
+/**
+ * Creates URLs for multimedia attachments and dispatches an action to update the store with the new url
+ * @param {Object} action
+ */
+function* getImageLinks(action) {
+  const requestInfo = yield (0, _effects.select)(_selectors2.getRequestInfo, _constants.platforms.CPAAS2);
+  const { parts, destination, type, messageId } = action.payload;
+  const fileParts = parts.filter(part => part.type === 'file');
+  const responseList = yield (0, _effects.all)(fileParts.map(filePart => (0, _effects.call)(_requests.fetchImageLinks, requestInfo, filePart.rawURL)));
+
+  yield (0, _effects.all)(responseList.map((response, index) => {
+    if (response.error) {
+      return (0, _effects.put)(_actions.messageActions.getImageLinksFinish({ error: response.error }));
+    } else {
+      // create a url from the blob and save it to the store.
+      const url = URL.createObjectURL(response.blob);
+      return (0, _effects.put)(_actions.messageActions.getImageLinksFinish({
+        url,
+        rawURL: fileParts[index].rawURL,
+        destination,
+        type,
+        messageId
+      }));
+    }
+  }));
 }
 
 /***/ }),
@@ -32854,7 +34964,7 @@ function notifications(options = {}) {
     yield (0, _effects.put)((0, _actions.mapEvents)(_events2.default));
   }
 
-  const capabilities = ['externalNotifications'];
+  const capabilities = [];
 
   return {
     name: _interface.name,
@@ -33199,7 +35309,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 /**
  * @public
  * @module Notification
- * @requires justHideThisForNowTODO
+ * @requires externalNotifications
  */
 function api({ dispatch }) {
   const notificationApi = {
@@ -34537,7 +36647,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
  * @param  {string} note     The note to be shown as alternative presence state
  *                           which is determined by the user. The note entry is
  *                           effective on the remote sip client when the
- *                           activity is Ã¢â‚¬Å“otherÃ¢â‚¬Â.
+ *                           activity is “other”.
  * @return {Object}          A Flux Standard Action for UPDATE_PRESENCE
  */
 // Presence plugin.
@@ -34726,6 +36836,32 @@ exports.default = function (context) {
     },
 
     /**
+     * Retrieve the presence information for all users.
+     *
+     * @public
+     * @memberof Presence
+     * @requires presence
+     * @method getAll
+     * @return {Array} List of user presence information.
+     */
+    getAll() {
+      return selectors.getAllPresence(context.getState());
+    },
+
+    /**
+     * Retrieves the presence information for the current user.
+     *
+     * @public
+     * @memberof Presence
+     * @requires presence
+     * @method getSelf
+     * @return {Object}
+     */
+    getSelf() {
+      return selectors.getSelfPresence(context.getState());
+    },
+
+    /**
      * Fetch (from the server) the presence for the given users.
      * This will update the store with the retrieved values, which can then
      * be accessed using `get`.
@@ -34807,6 +36943,16 @@ Object.defineProperty(exports, "__esModule", {
 const RECEIVED = exports.RECEIVED = 'presence:change';
 
 /**
+ * The user's self presence information has changed.
+ *
+ * @public
+ * @memberof Presence
+ * @requires presence
+ * @event presence:selfChange
+ */
+const SELF_CHANGE = exports.SELF_CHANGE = 'presence:selfChange';
+
+/**
  * An error occured with presence.
  *
  * @public
@@ -34862,8 +37008,17 @@ eventsMap[actionTypes.RECEIVED] = action => ({
   }
 });
 
+eventsMap[actionTypes.UPDATE_FINISH] = action => {
+  if (action.error) {
+    return presenceError(action);
+  } else {
+    return {
+      type: eventTypes.SELF_CHANGE
+    };
+  }
+};
+
 // TODO: Should have events to notifiy of successful operations for these actions.
-eventsMap[actionTypes.UPDATE_FINISH] = presenceError;
 eventsMap[actionTypes.GET_FINISH] = presenceError;
 eventsMap[actionTypes.SUBSCRIBE_FINISH] = presenceError;
 eventsMap[actionTypes.UNSUBSCRIBE_FINISH] = presenceError;
@@ -34985,6 +37140,10 @@ reducers[actionTypes.GET] = {
 
 reducers[actionTypes.GET_FINISH] = {
   next(state, { payload }) {
+    if (!payload.presenceContact) {
+      return (0, _extends3.default)({}, state);
+    }
+
     let users = {};
     for (let contact of payload.presenceContact) {
       let presenceObject = {};
@@ -35048,6 +37207,8 @@ var _values = __webpack_require__("../../node_modules/babel-runtime/core-js/obje
 var _values2 = _interopRequireDefault(_values);
 
 exports.getPresence = getPresence;
+exports.getAllPresence = getAllPresence;
+exports.getSelfPresence = getSelfPresence;
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -35059,6 +37220,26 @@ function getPresence(state, users) {
 
   // Grab all users that match the passed in IDs, return
   return (0, _values2.default)(state.presence.users).filter(user => users.indexOf(user.userId) !== -1);
+}
+
+/**
+ * Retrieves presence information for all users.
+ * @method getAllPresence
+ * @param  {Object} state Redux state.
+ * @return {Array}  List of presence information for users.
+ */
+function getAllPresence(state) {
+  return (0, _values2.default)(state.presence.users);
+}
+
+/**
+ * Retrieves the current user's self presence.
+ * @method getSelfPresence
+ * @param  {Object} state Redux state.
+ * @return {Object} Self-presence information.
+ */
+function getSelfPresence(state) {
+  return state.presence.self;
 }
 
 /***/ }),
@@ -35097,7 +37278,9 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
  * @param {string} options.url The url to perform the request on.
  * @param {string} options.method The HTTP method to use for the request.
  * @param {Object} options.headers Object literal of headers you want to add to the request.
- * @param {Blob|BufferSource|FormData|UrlSearchParams|string} options.body Any body that you want to add to your request.
+ * @param {Object} [options.queryParams] The parameters to be added to the query string
+ * @param {string} [options.responseType] The data type assumed to be received in the response body
+ * @param {Blob|BufferSource|FormData|UrlSearchParams|string} [options.body] Any body that you want to add to your request.
  * @return A blocking redux-saga effect that will instruct the middleware to wait for the request to be fullfilled or until it fails.
  */
 function request(options, commonOptions) {
@@ -35133,10 +37316,19 @@ function* requestSaga(options, commonOptions) {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+exports.__testonly__ = undefined;
 
-var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/extends.js");
+var _objectWithoutProperties2 = __webpack_require__("../../node_modules/babel-runtime/helpers/objectWithoutProperties.js");
 
-var _extends3 = _interopRequireDefault(_extends2);
+var _objectWithoutProperties3 = _interopRequireDefault(_objectWithoutProperties2);
+
+var _freeze = __webpack_require__("../../node_modules/babel-runtime/core-js/object/freeze.js");
+
+var _freeze2 = _interopRequireDefault(_freeze);
+
+var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
+
+var _promise2 = _interopRequireDefault(_promise);
 
 exports.default = request;
 
@@ -35154,10 +37346,6 @@ var _fetchPonyfill = __webpack_require__("../../node_modules/fetch-ponyfill/buil
 
 var _fetchPonyfill2 = _interopRequireDefault(_fetchPonyfill);
 
-var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
-
-var _promise2 = _interopRequireDefault(_promise);
-
 var _utils = __webpack_require__("./src/common/utils.js");
 
 var _logs = __webpack_require__("./src/logs/index.js");
@@ -35168,6 +37356,15 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 const { fetch } = (0, _fetchPonyfill2.default)({ Promise: _promise2.default });
 const log = (0, _logs.getLogManager)().getLogger('REQUEST');
+
+/**
+ * Enum declaring the valid request response data types that are available to be handled
+ */
+const responseTypes = (0, _freeze2.default)({
+  json: 'json',
+  blob: 'blob'
+});
+
 /*
  * HTTP request plugin.
  */
@@ -35197,7 +37394,7 @@ function* handleRequest(action) {
   yield (0, _effects.put)(actions.response(action.meta.requestId, result, !!result.error));
 }
 
-/*
+/**
  * Make a request with the specified options. The options is very similar to the options passed to the GlobalFetch
  * method except that is also accepts the url as part of the options.
  *
@@ -35211,60 +37408,90 @@ function* handleRequest(action) {
  *
  * @param {Object} options Options to make the request with.
  * @param {string} options.url The URL to make the request to.
+ * @param {Object} [options.queryParams] The parameters to be added to the query string
+ * @param {string} [options.responseType] The data type assumed to be received in the response body
+ * @param {Blob|BufferSource|FormData|UrlSearchParams|string} [options.body] The request body
  * @return {Promise} A promise that resolves with a custom response object.
  */
-function makeRequest(options, requestId) {
+async function makeRequest(options, requestId) {
   // Extract and remove the url property.
-  let optionsCopy = (0, _extends3.default)({}, options);
-  const { url, queryParams } = optionsCopy;
-  delete optionsCopy.url;
-  delete optionsCopy.queryParams;
+  const { url, queryParams, responseType = 'json' } = options,
+        fetchOptions = (0, _objectWithoutProperties3.default)(options, ['url', 'queryParams', 'responseType']);
 
-  return fetch(url + (0, _utils.toQueryString)(queryParams), optionsCopy).then(response => {
-    // Information about the result of the actual fetch request.
-    let result = {
-      ok: response.ok,
-      code: response.status,
-      message: response.statusText
+  if (!responseTypes.hasOwnProperty(responseType)) {
+    // Invalid data type requested
+    log.debug('responseType value was invalid');
+    return {
+      body: undefined,
+      error: 'RESPONSE_TYPE',
+      message: 'Requested invalid data type for response'
     };
-
-    let error = response.ok ? false : 'REQUEST';
-
-    // TODO: Check response.headers.get('Content-Type') to see if its json?
-    // Check whether there is a JSON body or not. If not, provide a dummy response.
-    return response.json().then(responseBody => {
-      return {
-        body: responseBody,
-        error,
-        result
-      };
-    }).catch(err => {
-      log.debug(`Error parsing JSON '${err}' response for request ${requestId}.`);
-      return {
-        body: false,
-        error,
-        result
-      };
-    });
-  }).catch(function (error) {
-    // Scenario: fetch failed, and so went straight to catch.
-    //      Only the fetch error is provided here; there is no response.
-    // Ref: https://github.com/github/fetch/issues/201#issuecomment-308213104
-    log.debug(`Fetch request ${requestId} failed: ${error.message}.`);
-
-    // TODO: Improve this error checking / Provide info on what the
-    //      error was?
+  }
+  let response;
+  try {
+    response = await fetch(url + (0, _utils.toQueryString)(queryParams), fetchOptions);
+  } catch (err) {
+    log.debug(`Fetch request ${requestId} failed: ${err.message}.`);
     return {
       body: false,
       error: 'FETCH',
       result: {
         ok: false,
-        code: error.name,
-        message: error.message
+        code: err.name,
+        message: err.message
       }
     };
-  });
+  }
+  try {
+    let result = {
+      ok: response.ok,
+      code: response.status,
+      message: response.statusText
+    };
+    let responseBody;
+    let error = !response.ok;
+
+    if (error) {
+      // If the response indicates an error, resolve the body as JSON and return a `REQUEST` error
+      log.debug(`Response indicates that request ${requestId} failed`);
+      responseBody = await response.json();
+      return {
+        body: responseBody,
+        error: 'REQUEST',
+        result
+      };
+    } else {
+      if (responseType === responseTypes.json) {
+        responseBody = await response.json();
+      } else {
+        // `blob` is the only other possible value for responseType
+        responseBody = await response.blob();
+      }
+      return {
+        body: responseBody,
+        error: false,
+        result
+      };
+    }
+  } catch (err) {
+    log.debug(`Error parsing response. Response for request ${requestId}: "${err.message}"`);
+    return {
+      body: false,
+      error: 'REQUEST',
+      result: {
+        ok: false,
+        code: err.name,
+        message: err.message
+      }
+    };
+  }
 }
+
+// begin-test-code
+const __testonly__ = exports.__testonly__ = { makeRequest, watchRequests, handleRequest
+  // end-test-code
+
+};
 
 /***/ }),
 
@@ -35309,6 +37536,11 @@ function generateRequestId() {
 
 /**
  * Creates a request action.
+ * @param {Object} options
+ * @param {string} options.url The url for the request
+ * @param {Object} [options.queryParams] Query parameters to be added to the url string
+ * @param {string} [options.responseType] The data type assumed to be received in the response body
+ * @param {Blob|BufferSource|FormData|UrlSearchParams|string} [options.body] The request body
  */
 function request(options) {
   return {
@@ -35404,7 +37636,7 @@ function createSubcriptionPlugin(options = {}) {
   }
 
   return {
-    sagas: [_sagas.subscriptionFlow],
+    sagas: [_sagas.subscriptionFlow, _sagas.onConnectionLostEntry],
     init,
     api: _interface.api,
     reducer: _interface.reducer,
@@ -35836,11 +38068,14 @@ function* closeChannel(channel, platform) {
 
   // TODO: Don't hardcode a constant.
   if (channelType === 'websockets') {
-    // Ask the connectivity plugin to disconnect this platform's websocket.
-    const closeAction = yield (0, _effects.disconnectWebsocket)(undefined, platform);
+    // Ask the connectivity plugin to disconnect this platform's websocket if it exists
+    const wsState = yield (0, _effects2.select)(_selectors3.getConnectionState, platform);
+    if (wsState.connected) {
+      const closeAction = yield (0, _effects.disconnectWebsocket)(undefined, platform);
 
-    if (closeAction.error) {
-      log.debug('Failed to close websocket. Continuing anyway.');
+      if (closeAction.error) {
+        log.debug('Failed to close websocket. Continuing anyway.');
+      }
     }
 
     const requestInfo = yield (0, _effects2.select)(_selectors2.getRequestInfo, _constants.platforms.CPAAS2);
@@ -35866,6 +38101,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.subscriptionFlow = subscriptionFlow;
 exports.refreshWebsocketSaga = refreshWebsocketSaga;
+exports.onConnectionLostEntry = onConnectionLostEntry;
+exports.onConnectionLost = onConnectionLost;
 
 var _actionTypes = __webpack_require__("./src/subscription/interface/actionTypes.js");
 
@@ -35875,13 +38112,17 @@ var _actions = __webpack_require__("./src/subscription/interface/actions.js");
 
 var actions = _interopRequireWildcard(_actions);
 
-var _selectors = __webpack_require__("./src/auth/interface/selectors.js");
-
 var _channels = __webpack_require__("./src/subscription/cpaas2/sagas/channels.js");
 
 var _requests = __webpack_require__("./src/subscription/cpaas2/requests.js");
 
-var _selectors2 = __webpack_require__("./src/subscription/interface/selectors.js");
+var _selectors = __webpack_require__("./src/subscription/interface/selectors.js");
+
+var _actionTypes2 = __webpack_require__("./src/connectivity/interface/actionTypes.js");
+
+var connectivityActionTypes = _interopRequireWildcard(_actionTypes2);
+
+var _selectors2 = __webpack_require__("./src/auth/interface/selectors.js");
 
 var _logs = __webpack_require__("./src/logs/index.js");
 
@@ -35902,13 +38143,16 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 // Helpers.
-// Subscription plugin.
+
+
+// Other plugins
 const platform = _constants.platforms.CPAAS2;
 
 // Constants
 
 
 // Libraries.
+// Subscription plugin.
 
 const log = (0, _logs.getLogManager)().getLogger('SUBSCRIPTION');
 
@@ -35975,10 +38219,21 @@ function* subscriptionFlow() {
         continue;
       }
 
+      const connectionInfo = yield (0, _effects2.select)(_selectors2.getConnectionInfo, platform);
+      const subscribedServices = yield (0, _effects2.select)(_selectors.getSubscribedServices, action.payload.type);
+
+      // if we're not connected or connection info is not available, unsub from all services.
+      if ((0, _fp.isUndefined)(connectionInfo)) {
+        yield (0, _effects2.put)(actions.unsubscribeFinished({
+          unsubscriptions: subscribedServices,
+          type: action.payload.type
+        }));
+        continue;
+      }
+
       // Get the channel information of the channel to be closed.
-      const { notificationChannels } = yield (0, _effects2.select)(_selectors2.getNotificationChannels);
+      const { notificationChannels } = yield (0, _effects2.select)(_selectors.getNotificationChannels);
       const channel = notificationChannels[action.payload.type];
-      const subscribedServices = yield (0, _effects2.select)(_selectors2.getSubscribedServices, action.payload.type);
 
       // If there are no longer any subscribed services for this channel (and
       //    the channel is open), close it.
@@ -36012,7 +38267,7 @@ function* subscriptionFlow() {
  * @return {Object}
  */
 function* subscribeForServices(action) {
-  const registeredServices = yield (0, _effects2.select)(_selectors2.getRegisteredServices);
+  const registeredServices = yield (0, _effects2.select)(_selectors.getRegisteredServices);
 
   // Get the list of services that were requested, but plugins did not register.
   const notRegistered = (0, _fp.difference)(registeredServices, action.payload.services);
@@ -36036,7 +38291,7 @@ function* subscribeForServices(action) {
     };
   }
 
-  const subscriptionConfig = yield (0, _effects2.select)(_selectors2.getSubscriptionConfig, platform);
+  const subscriptionConfig = yield (0, _effects2.select)(_selectors.getSubscriptionConfig, platform);
 
   // Announce to all plugins that subscriptions should happen.
   yield (0, _effects2.put)(actions.doPluginSubscriptions(validServices, action.payload.type));
@@ -36062,7 +38317,7 @@ function* subscribeForServices(action) {
  * @return {Object}
  */
 function* unsubscribeServices(action) {
-  const subscribedServices = yield (0, _effects2.select)(_selectors2.getSubscribedServices, action.payload.type);
+  const subscribedServices = yield (0, _effects2.select)(_selectors.getSubscribedServices, action.payload.type);
 
   // Get the list of services we want to unsubscribe, but aren't subscribed.
   const notSubscribed = action.payload.services.filter(service => {
@@ -36087,7 +38342,7 @@ function* unsubscribeServices(action) {
     };
   }
 
-  const subscriptionConfig = yield (0, _effects2.select)(_selectors2.getSubscriptionConfig, platform);
+  const subscriptionConfig = yield (0, _effects2.select)(_selectors.getSubscriptionConfig, platform);
 
   // Announce to all plugins that unsubscriptions should happen
   yield (0, _effects2.put)(actions.doPluginUnsubscriptions(validServices, action.payload.type));
@@ -36117,7 +38372,7 @@ function* refreshWebsocketSaga() {
       continue;
     }
 
-    const subscription = yield (0, _effects2.select)(_selectors.getSubscriptionInfo, platform);
+    const subscription = yield (0, _effects2.select)(_selectors2.getSubscriptionInfo, platform);
 
     const resubDelay = subscription.channelLifetime * 1000 / 2;
 
@@ -36130,9 +38385,9 @@ function* refreshWebsocketSaga() {
     // If the resubDelay has elapsed, resubscribe.
     if (expiry) {
       log.info('Extending user subscription.');
-      const connection = yield (0, _effects2.select)(_selectors.getConnectionInfo, platform);
-      const subscription = yield (0, _effects2.select)(_selectors.getSubscriptionInfo, platform);
-      const credentials = yield (0, _effects2.select)(_selectors.getUserInfo);
+      const connection = yield (0, _effects2.select)(_selectors2.getConnectionInfo, platform);
+      const subscription = yield (0, _effects2.select)(_selectors2.getSubscriptionInfo, platform);
+      const credentials = yield (0, _effects2.select)(_selectors2.getUserInfo);
 
       const response = yield (0, _effects2.call)(_requests.refreshWebsocket, connection, subscription, credentials);
 
@@ -36143,6 +38398,23 @@ function* refreshWebsocketSaga() {
       }
     }
   }
+}
+
+/**
+ * Triggers onConnectionLost saga when a WS_RECONNECT_FAILED actionType occurs
+ * @method onConnectionLostEntry
+ */
+function* onConnectionLostEntry() {
+  yield (0, _effects2.takeEvery)(connectivityActionTypes.WS_RECONNECT_FAILED, onConnectionLost);
+}
+
+/**
+ * Handles lost connections from the connectivity plugin
+ * @method onConnectionLost
+ */
+function* onConnectionLost() {
+  const subscribedServices = yield (0, _effects2.select)(_selectors.getSubscribedServices);
+  yield (0, _effects2.put)(actions.unsubscribe(subscribedServices));
 }
 
 /***/ }),
@@ -36722,7 +38994,19 @@ function pendingChange(value) {
 reducers[actionTypes.SUBSCRIBE] = pendingChange(true);
 reducers[actionTypes.SUBSCRIBE_FINISHED] = pendingChange(false);
 reducers[actionTypes.UNSUBSCRIBE] = pendingChange(true);
-reducers[actionTypes.UNSUBSCRIBE_FINISHED] = pendingChange(false);
+
+/*
+ * Remove subscriptions that are in the unsubscriptions list
+ */
+reducers[actionTypes.UNSUBSCRIBE_FINISHED] = {
+  next(state, action) {
+    const subscribedServices = state.subscriptions.map(subscription => subscription.service);
+    return (0, _extends3.default)({}, state, {
+      isPending: false,
+      subscriptions: (0, _fp.difference)(subscribedServices, action.payload.unsubscriptions)
+    });
+  }
+};
 
 /*
  * When a plugin reports a succesful subscription, store it in state.
@@ -36856,6 +39140,7 @@ function getNotificationChannels(state) {
 /**
  * Retrieve the list of services with current subscriptions.
  * @method getSubscribedServices
+ * @param {string} type the type of subscription we want to get specifically
  * @return {Array}
  */
 function getSubscribedServices(state, type) {
@@ -37535,7 +39820,7 @@ function* searchDirectory(action) {
 }
 
 /**
- * fetch one user by their userId/primaryContact
+ * fetch one user by their userId
  * @method fetchUser
  * @param {Object} action an action of type FETCH_USER
  */
@@ -38204,10 +40489,10 @@ function usersAPI({ dispatch, getState, primitives }) {
      * @memberof Users
      * @method fetch
      *
-     * @param {string} primaryContact The URI uniquely identifying the user.
+     * @param {string} userId The URI uniquely identifying the user.
      */
-    fetch(primaryContact) {
-      dispatch(actions.fetchUser(primaryContact));
+    fetch(userId) {
+      dispatch(actions.fetchUser(userId));
     },
 
     /**
@@ -38227,10 +40512,10 @@ function usersAPI({ dispatch, getState, primitives }) {
      * @public
      * @memberof Users
      * @method get
-     * @param {string} primaryContact The URI uniquely identifying the user.
+     * @param {string} userId The URI uniquely identifying the user.
      */
-    get(primaryContact) {
-      return (0, _selectors.getUser)(getState(), primaryContact);
+    get(userId) {
+      return (0, _selectors.getUser)(getState(), userId);
     },
 
     /**
@@ -38800,8 +41085,8 @@ function getUser(state, name) {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.createDeviceManagerChannel = createDeviceManagerChannel;
 exports.default = watchDeviceEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -38810,44 +41095,53 @@ var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js"
 var _reduxSaga = __webpack_require__("../../node_modules/redux-saga/es/index.js");
 
 /**
- * Create an event channel between the Device Manager and redux-saga.
- * This pushes its events into the redux-saga context.
- * @method createDeviceManagerChannel
- * @param  {Object} manager The webRTC Device Manager.
- * @return {EventChannel}
- */
-
-
-// Libraries.
-function createDeviceManagerChannel(manager) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Manager event handlers.
-    const change = devices => {
-      emit(_actions.deviceActions.devicesChanged(devices));
-    };
-
-    manager.on('change', change);
-
-    // Return an unsubscribe function that removes all event listeners.
-    const unsubscribe = () => {
-      manager.off('change', change);
-    };
-
-    return unsubscribe;
-  });
-}
-
-/**
  * Listen for events emitted from the webRTC Device Manager.
  * @method watchDeviceEvents
  * @param  {Object} manager The webRTC Device Manager.
  */
-// Webrtc plugin.
+
+
+// Libraries.
 function* watchDeviceEvents(manager) {
-  const managerChannel = yield (0, _effects.call)(createDeviceManagerChannel, manager);
+  /**
+   * Create an event channel between the Device Manager and redux-saga.
+   * This pushes its events into the redux-saga context.
+   * */
+  const managerChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(manager, emit);
+  });
+
   // managerChannel will emit the Manager's events as actions,
   //  so they can be directly dispatched.
   yield (0, _effects.takeEvery)(managerChannel, _effects.put);
+}
+
+/**
+ * Function to set-up listeners for the Device Manager events.
+ * Contains the logic for how a webRTC event should be parsed
+ *    before being sent elsewhere. Split into a stand-alone
+ *    function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   manager The Device Manager.
+ * @param  {Function} emit    Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+// Webrtc plugin.
+function setListeners(manager, emit, END = 'END') {
+  // Manager event handlers.
+  const change = devices => {
+    emit(_actions.deviceActions.devicesChanged(devices));
+  };
+
+  manager.on('change', change);
+
+  // Return an unsubscribe function that removes all event listeners.
+  const unsubscribe = () => {
+    manager.off('change', change);
+  };
+
+  return unsubscribe;
 }
 
 /***/ }),
@@ -38929,6 +41223,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = watchMediaEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -38937,62 +41232,83 @@ var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js"
 var _reduxSaga = __webpack_require__("../../node_modules/redux-saga/es/index.js");
 
 /**
- * Create an event channel between the Media and redux-saga.
- * This "forces" the Media events into a redux-saga context.
- * @method createMediaChannel
- * @param  {Media} media The Media being tracked.
+ * Sets up event listeners for a Media's events.
+ * The events are turned into actions and dispatched
+ *    to be handled by redux elsewhere.
+ * @method watchMediaEvents
+ * @param  {Object} media A Media object.
  * @param  {Object} webRTC The webRTC stack.
- * @return {EventChannel}
  */
 
 
 // Libraries.
-function createMediaChannel(media, webRTC) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Media received a new track.
-    const newTrack = ({ mediaId, trackId }) => {
-      /**
-       * When a new track has been added,
-       * update redux state's webrtc.media.tracks array with the new trackId.
-       */
-      emit(_actions.mediaActions.mediaNewTrack(mediaId, { trackId }));
-    };
-
-    // TODO: Handle media's 'track:removed' event here.
-    //  In unified-plan, when a track is removed this event is triggered
-    //  and we need to call track.cleanup afterwards in some saga so that 'track:ended' event is triggered.
-
-    const trackEnded = ({ mediaId, trackId }) => {
-      /**
-       * When a track has ended,
-       * update redux state's webrtc.media.tracks array
-       * by removing the specified trackId.
-       */
-      emit(_actions.mediaActions.mediaTrackEnded(mediaId, { trackId }));
-    };
-    const mediaStopped = id => {
-      /**
-       * When the media is stopped, its channel should be ended (via `END`).
-       * The mediaManager channel will handle updating state for this event.
-       */
-      emit(_reduxSaga.END);
-    };
-
-    media.on('track:new', newTrack);
-    media.on('track:ended', trackEnded);
-    media.on('media:stopped', mediaStopped);
-
-    const unsubscribe = () => {
-      media.off('track:new', newTrack);
-      media.off('track:ended', trackEnded);
-      media.off('media:stopped', mediaStopped);
-    };
-    return unsubscribe;
-  });
-} // Webrtc plugin.
 function* watchMediaEvents(media, webRTC) {
-  const mediaChannel = yield (0, _effects.call)(createMediaChannel, media, webRTC);
+  /**
+   * Create an event channel between the Media and redux-saga.
+   * This "forces" the Media events into a redux-saga context.
+   */
+  const mediaChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(media, emit, _reduxSaga.END);
+  });
   yield (0, _effects.takeEvery)(mediaChannel, _effects.put);
+}
+
+/**
+ * Function to set-up listeners for a Media object's events.
+ * Contains the logic for how a webRTC event should be parsed
+ *    before being sent elsewhere. Split into a stand-alone
+ *    function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   media A Media object.
+ * @param  {Function} emit  Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+// Webrtc plugin.
+function setListeners(media, emit, END = 'END') {
+  // Media received a new track.
+  const newTrack = ({ mediaId, trackId }) => {
+    /**
+     * When a new track has been added,
+     * update redux state's webrtc.media.tracks array with the new trackId.
+     */
+    emit(_actions.mediaActions.mediaNewTrack(mediaId, { trackId }));
+  };
+
+  // TODO: Handle media's 'track:removed' event here.
+  //  In unified-plan, when a track is removed this event is triggered.
+  const trackRemoved = trackId => {
+    emit(_actions.mediaActions.mediaTrackRemoved(media.id, { trackId }));
+  };
+
+  const trackEnded = ({ mediaId, trackId }) => {
+    /**
+     * When a track has ended,
+     * update redux state's webrtc.media.tracks array
+     * by removing the specified trackId.
+     */
+    emit(_actions.mediaActions.mediaTrackEnded(mediaId, { trackId }));
+  };
+  const mediaStopped = id => {
+    /**
+     * When the media is stopped, its channel should be ended (via `END`).
+     * The mediaManager channel will handle updating state for this event.
+     */
+    emit(END);
+  };
+
+  media.on('track:new', newTrack);
+  media.on('track:removed', trackRemoved);
+  media.on('track:ended', trackEnded);
+  media.on('media:stopped', mediaStopped);
+
+  const unsubscribe = () => {
+    media.off('track:new', newTrack);
+    media.off('track:removed', trackRemoved);
+    media.off('track:ended', trackEnded);
+    media.off('media:stopped', mediaStopped);
+  };
+  return unsubscribe;
 }
 
 /***/ }),
@@ -39007,6 +41323,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = watchMediaManagerEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -39027,68 +41344,84 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 /**
- * Create an event channel between the Media Manager and redux-saga.
- * This pushes its events into the redux-saga context.
- * @method createManagerChannel
- * @param  {Object} manager The webRTC Media Manager.
- * @return {EventChannel}
+ * Sets up event listeners for Media Manager events. The events are turned into
+ *    actions and dispatched to be handled by redux elsewhere.
+ * @method watchMediaManagerEvents
+ * @param  {Object} manager The Media Manager.
  */
 
 
 // Libraries.
-function createManagerChannel(manager) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    const newMedia = id => {
-      const media = manager.get(id);
-      /**
-       * When a new media has been added,
-       * update redux state's webrtc.media array by adding in the new media object
-       * (List of tracks will just be a list of track ids).
-       */
-      emit({
-        media,
-        action: _actions.mediaActions.newMedia(id, {
-          local: media.getState().isLocal,
-          tracks: media.getTracks().map(track => track.id)
-        })
-      });
-    };
-
-    const removedMedia = id => {
-      /**
-       * When a media has been removed,
-       * update redux state's webrtc.media array
-       * by removing the media with the specified media id.
-       */
-      emit({
-        action: _actions.mediaActions.removedMedia(id)
-      });
-    };
-
-    manager.on('media:new', newMedia);
-    manager.on('media:removed', removedMedia);
-
-    const unsubscribe = () => {
-      manager.off('media:new', newMedia);
-      manager.off('media:removed', removedMedia);
-    };
-    return unsubscribe;
-  });
-} // Webrtc plugin.
 function* watchMediaManagerEvents(manager) {
-  const managerChannel = yield (0, _effects.call)(createManagerChannel, manager);
+  /**
+   * Create an event channel between the Media Manager and redux-saga.
+   * This pushes its events into the redux-saga context.
+   */
+  const managerChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(manager, emit);
+  });
 
-  while (true) {
-    const { media, action } = yield (0, _effects.take)(managerChannel);
+  yield (0, _effects.takeEvery)(managerChannel, mediaManagerEventsHandler);
+} // Webrtc plugin.
 
-    // If it is a new Session, watch for its events.
-    if (action.type === actionTypes.MEDIA_NEW) {
-      yield (0, _effects.fork)(_media2.default, media);
-    }
 
-    // Dispatch the action directly.
-    yield (0, _effects.put)(action);
+function* mediaManagerEventsHandler({ media, action }) {
+  // If it is a new Media, watch for its events.
+  if (action.type === actionTypes.MEDIA_NEW) {
+    yield (0, _effects.fork)(_media2.default, media);
   }
+
+  // Dispatch the action
+  yield (0, _effects.put)(action);
+}
+
+/**
+ * Function to set-up listeners for the Media Manager events.
+ * Contains the logic for how a webRTC event should be parsed
+ *    before being sent elsewhere. Split into a stand-alone
+ *    function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   manager The Media Manager.
+ * @param  {Function} emit    Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+function setListeners(manager, emit, END = 'END') {
+  const newMedia = id => {
+    const media = manager.get(id);
+    /**
+     * When a new media has been added,
+     * update redux state's webrtc.media array by adding in the new media object
+     * (List of tracks will just be a list of track ids).
+     */
+    emit({
+      media,
+      action: _actions.mediaActions.newMedia(id, {
+        local: media.getState().isLocal,
+        tracks: media.getTracks().map(track => track.id)
+      })
+    });
+  };
+
+  const removedMedia = id => {
+    /**
+     * When a media has been removed,
+     * update redux state's webrtc.media array
+     * by removing the media with the specified media id.
+     */
+    emit({
+      action: _actions.mediaActions.removedMedia(id)
+    });
+  };
+
+  manager.on('media:new', newMedia);
+  manager.on('media:removed', removedMedia);
+
+  const unsubscribe = () => {
+    manager.off('media:new', newMedia);
+    manager.off('media:removed', removedMedia);
+  };
+  return unsubscribe;
 }
 
 /***/ }),
@@ -39103,6 +41436,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = watchSessionEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -39111,74 +41445,91 @@ var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js"
 var _reduxSaga = __webpack_require__("../../node_modules/redux-saga/es/index.js");
 
 /**
- * Create an event channel between the Session and redux-saga.
- * This "forces" the Session events into a redux-saga context.
- * @method createSessionChannel
- * @param  {Session} session The Session being tracked.
+ * Sets up event listeners for a Session's events.
+ * The events are turned into actions and dispatched
+ *    to be handled by redux elsewhere.
+ * @method watchSessionEvents
+ * @param  {Object} session The Session object.
  * @param  {Object} webRTC The webRTC stack.
- * @return {EventChannel}
  */
 
 
 // Libraries.
-function createSessionChannel(session, webRTC) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Session received a new track.
-    const newTrack = ({ local, trackId }) => {
-      /**
-       * When a new track has been added,
-       * update redux state's webrtc.session.localTracks/remoteTracks array
-       * with the new trackId.
-       * ('local' boolean will determine whether to update localTracks or remoteTracks)
-       */
-      emit(_actions.sessionActions.sessionNewTrack(session.id, {
-        local,
-        trackId
-      }));
-    };
-
-    const trackEnded = ({ local, trackId }) => {
-      /**
-       * When a track has ended,
-       * update redux state's webrtc.session.localTracks/remoteTracks array
-       * by removing the specified trackId.
-       * ('local' boolean will determine whether to update localTracks or remoteTracks)
-       */
-      emit(_actions.sessionActions.sessionTrackEnded(session.id, {
-        local,
-        trackId
-      }));
-    };
-
-    // Generic "something changed" handler.
-    // TODO: Either use this for other events or remove it.
-    // eslint-disable-next-line no-unused-vars
-    const onChange = () => {
-      const state = session.getState();
-
-      emit(_actions.sessionActions.sessionChange(session.id, {
-        id: state.id,
-        localTracks: state.localTracks.map(track => track.id),
-        remoteTracks: state.remoteTracks.map(track => track.id)
-      }));
-    };
-
-    session.on('new:track', newTrack);
-    session.on('track:ended', trackEnded);
-
-    const unsubscribe = () => {
-      session.off('new:track', newTrack);
-      session.off('track:ended', trackEnded);
-    };
-    return unsubscribe;
-  });
-} // Webrtc plugin.
 function* watchSessionEvents(session, webRTC) {
-  const sessionChannel = yield (0, _effects.call)(createSessionChannel, session, webRTC);
+  /**
+   * Create an event channel between the Session and redux-saga.
+   * This "forces" the Session events into a redux-saga context.
+   */
+  const sessionChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(session, emit);
+  });
   // sessionChannel will emit the Session's events as actions, so dispatch
   //    them to be handled by sagas.
   // TODO: If the event is "Session gone", should close/unsubscribe the channel.
   yield (0, _effects.takeEvery)(sessionChannel, _effects.put);
+}
+
+/**
+ * Function to set-up listeners for a Session object's events.
+ * Contains the logic for how a webRTC event should be parsed
+ *    before being sent elsewhere. Split into a stand-alone
+ *    function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   session A Session object.
+ * @param  {Function} emit  Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+// Webrtc plugin.
+function setListeners(session, emit, END = 'END') {
+  // Session received a new track.
+  const newTrack = ({ local, trackId }) => {
+    /**
+     * When a new track has been added,
+     * update redux state's webrtc.session.localTracks/remoteTracks array
+     * with the new trackId.
+     * ('local' boolean will determine whether to update localTracks or remoteTracks)
+     */
+    emit(_actions.sessionActions.sessionNewTrack(session.id, {
+      local,
+      trackId
+    }));
+  };
+
+  const trackEnded = ({ local, trackId }) => {
+    /**
+     * When a track has ended,
+     * update redux state's webrtc.session.localTracks/remoteTracks array
+     * by removing the specified trackId.
+     * ('local' boolean will determine whether to update localTracks or remoteTracks)
+     */
+    emit(_actions.sessionActions.sessionTrackEnded(session.id, {
+      local,
+      trackId
+    }));
+  };
+
+  // Generic "something changed" handler.
+  // TODO: Either use this for other events or remove it.
+  // eslint-disable-next-line no-unused-vars
+  const onChange = () => {
+    const state = session.getState();
+
+    emit(_actions.sessionActions.sessionChange(session.id, {
+      id: state.id,
+      localTracks: state.localTracks.map(track => track.id),
+      remoteTracks: state.remoteTracks.map(track => track.id)
+    }));
+  };
+
+  session.on('new:track', newTrack);
+  session.on('track:ended', trackEnded);
+
+  const unsubscribe = () => {
+    session.off('new:track', newTrack);
+    session.off('track:ended', trackEnded);
+  };
+  return unsubscribe;
 }
 
 /***/ }),
@@ -39192,8 +41543,8 @@ function* watchSessionEvents(session, webRTC) {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.createManagerChannel = createManagerChannel;
 exports.default = watchSessionManagerEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -39214,47 +41565,24 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 /**
- * Create an event channel between the Session Manager and redux-saga.
- * This pushes its events into the redux-saga context.
- * @method createManagerChannel
+ * Sets up event listeners for Session Manager Events.
+ * The events are turned into actions and dispatched
+ *    to be handled by redux elsewhere.
+ * @method watchSessionManagerEvents
  * @param  {Object} manager The webRTC Session Manager.
- * @return {EventChannel}
+ * @param  {Object} webRTC The webRTC stack.
  */
 
 
 // Libraries.
-function createManagerChannel(manager) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Handle new Session.
-    const sessionAdded = id => {
-      const session = manager.get(id);
-      const state = session.getState();
-      delete state.id;
-
-      emit({
-        session: session,
-        action: _actions.sessionActions.sessionAdded(id, state)
-      });
-    };
-
-    // Handle Sessions ending.
-    const sessionRemoved = id => {
-      emit({
-        action: _actions.sessionActions.sessionRemoved(id)
-      });
-    };
-
-    manager.on('session:new', sessionAdded);
-    manager.on('session:removed', sessionRemoved);
-    const unsubscribe = () => {
-      manager.off('session:new', sessionAdded);
-      manager.off('session:removed', sessionRemoved);
-    };
-    return unsubscribe;
-  });
-} // Webrtc plugin.
 function* watchSessionManagerEvents(manager, webRTC) {
-  const managerChannel = yield (0, _effects.call)(createManagerChannel, manager);
+  /**
+   * Create an event channel between the Session Manager and redux-saga.
+   * This pushes its events into the redux-saga context.
+   */
+  const managerChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(manager, emit);
+  });
 
   while (true) {
     const { session, action } = yield (0, _effects.take)(managerChannel);
@@ -39269,6 +41597,47 @@ function* watchSessionManagerEvents(manager, webRTC) {
   }
 }
 
+/**
+ * Sets up listeners for the Session Manager events.
+ * Contains logic for how specific webRTC events should be
+ *    parsed before being sent elsewhere. Split into a
+ *    stand-alone function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   manager The Session Manager.
+ * @param  {Function} emit    Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+// Webrtc plugin.
+function setListeners(manager, emit, END = 'END') {
+  // Handle new Session.
+  const sessionAdded = id => {
+    const session = manager.get(id);
+    const state = session.getState();
+    delete state.id;
+
+    emit({
+      session: session,
+      action: _actions.sessionActions.sessionAdded(id, state)
+    });
+  };
+
+  // Handle Sessions ending.
+  const sessionRemoved = id => {
+    emit({
+      action: _actions.sessionActions.sessionRemoved(id)
+    });
+  };
+
+  manager.on('session:new', sessionAdded);
+  manager.on('session:removed', sessionRemoved);
+  const unsubscribe = () => {
+    manager.off('session:new', sessionAdded);
+    manager.off('session:removed', sessionRemoved);
+  };
+  return unsubscribe;
+}
+
 /***/ }),
 
 /***/ "./src/webrtc/channels/track.js":
@@ -39281,43 +41650,59 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = watchTrackEvents;
+exports.setListeners = setListeners;
 
 var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
 
 var _reduxSaga = __webpack_require__("../../node_modules/redux-saga/es/index.js");
 
 /**
- * Create an event channel between the Track and redux-saga.
- * This "forces" the Track events into a redux-saga context.
- * @method createTrackChannel
- * @param  {Track} track The Track being tracked.
+ * Sets up event listeners for a Track's events.
+ * The events are turned into actions and dispatched
+ *    to be handled by redux elsewhere.
+ * @method watchTrackEvents
+ * @param  {Object} track A Track object.
  * @param  {Object} webRTC The webRTC stack.
- * @return {EventChannel}
  */
 // Libraries.
-function createTrackChannel(track, webRTC) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Track ended
-    const trackEnded = trackData => {
-      /**
-       * When the track ends, its channel should be ended (via `END`).
-       * The trackManager channel will handle updating state for this event.
-       */
-      emit(_reduxSaga.END);
-    };
-
-    track.on('ended', trackEnded);
-
-    const unsubscribe = () => {
-      track.off('ended', trackEnded);
-    };
-    return unsubscribe;
+function* watchTrackEvents(track, webRTC) {
+  /**
+   * Create an event channel between the Track and redux-saga.
+   * This "forces" the Track events into a redux-saga context.
+   */
+  const trackChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(track, emit, _reduxSaga.END);
   });
+  yield (0, _effects.takeEvery)(trackChannel, _effects.put);
 }
 
-function* watchTrackEvents(track, webRTC) {
-  const trackChannel = yield (0, _effects.call)(createTrackChannel, track, webRTC);
-  yield (0, _effects.takeEvery)(trackChannel, _effects.put);
+/**
+ * Function to set-up listeners for a Track object's events.
+ * Contains the logic for how a webRTC event should be parsed
+ *    before being sent elsewhere. Split into a stand-alone
+ *    function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   track A Track object.
+ * @param  {Function} emit  Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+function setListeners(track, emit, END = 'END') {
+  // Track ended
+  const trackEnded = trackData => {
+    /**
+     * When the track ends, its channel should be ended (via `END`).
+     * The trackManager channel will handle updating state for this event.
+     */
+    emit(END);
+  };
+
+  track.on('ended', trackEnded);
+
+  const unsubscribe = () => {
+    track.off('ended', trackEnded);
+  };
+  return unsubscribe;
 }
 
 /***/ }),
@@ -39331,8 +41716,8 @@ function* watchTrackEvents(track, webRTC) {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.createManagerChannel = createManagerChannel;
 exports.default = watchTrackManagerEvents;
+exports.setListeners = setListeners;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
@@ -39353,68 +41738,89 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 /**
- * Create an event channel between the Track Manager and redux-saga.
- * This pushes its events into the redux-saga context.
- * @method createManagerChannel
+ * Sets up event listeners for Track Manager Events.
+ * The events are turned into actions and dispatched
+ *    to be handled by redux elsewhere.
+ * @method watchTrackManagerEvents
  * @param  {Object} manager The webRTC Track Manager.
- * @return {EventChannel}
  */
 
 
 // Libraries.
-function createManagerChannel(manager) {
-  return (0, _reduxSaga.eventChannel)(emit => {
-    // Handle new Tracks.
-    const trackAdded = id => {
-      const track = manager.get(id);
-      const state = track.getState();
-      delete state.id;
-
-      /**
-       * When a new track is added,
-       * update redux state's webrtc.tracks array by adding track's state into it.
-       */
-      emit({
-        track,
-        action: _actions.trackActions.trackAdded(id, state)
-      });
-    };
-
-    // Handle Tracks ending.
-    const trackRemoved = id => {
-      /**
-       * When a track has ended,
-       * update redux state's webrtc.tracks array
-       * by specifying which track to remove by providing a track id.
-       */
-      emit({
-        action: _actions.trackActions.trackRemoved(id)
-      });
-    };
-
-    manager.on('add', trackAdded);
-    manager.on('remove', trackRemoved);
-    const unsubscribe = () => {
-      manager.off('add', trackAdded);
-      manager.off('remove', trackRemoved);
-    };
-    return unsubscribe;
-  });
-} // Call plugin.
 function* watchTrackManagerEvents(manager) {
-  const managerChannel = yield (0, _effects.call)(createManagerChannel, manager);
+  /**
+   * Create an event channel between the Track Manager and redux-saga.
+   * This pushes its events into the redux-saga context.
+   * */
+  const managerChannel = (0, _reduxSaga.eventChannel)(emit => {
+    return setListeners(manager, emit);
+  });
 
-  while (true) {
-    const { track, action } = yield (0, _effects.take)(managerChannel);
+  // https://github.com/redux-saga/redux-saga/issues/684
+  // See user "kuy"'s second comment.
+  // Using takeEvery to handle actions.
+  // That way they are handled in a forked process and other actions don't get dropped.
+  yield (0, _effects.takeEvery)(managerChannel, trackManagerEventsHandler);
+} // Call plugin.
 
-    // If it is a new Track, watch for its events.
-    if (action.type === actionTypes.TRACK_ADDED) {
-      yield (0, _effects.fork)(_track2.default, track);
-    }
 
-    // Dispatch the action directly.
-    yield (0, _effects.put)(action);
+function* trackManagerEventsHandler({ track, action }) {
+  // If it is a new Track, watch for its events.
+  if (action.type === actionTypes.TRACK_ADDED) {
+    yield (0, _effects.fork)(_track2.default, track);
   }
+
+  // Dispatch the action
+  yield (0, _effects.put)(action);
+}
+
+/**
+ * Sets up listeners for the Track Manager events.
+ * Contains logic for how specific webRTC events should be
+ *    parsed before being sent elsewhere. Splut into a
+ *    stand-alone function in order to be re-usable.
+ * @method setListeners
+ * @param  {Object}   manager The Track Manager.
+ * @param  {Function} emit    Function that receives the parsed events.
+ * @param  {Any}      [END='END'] The "end of lifetime" symbol.
+ * @return {Function} The unsubscribe function.
+ */
+function setListeners(manager, emit, END = 'END') {
+  // Handle new Tracks.
+  const trackAdded = id => {
+    const track = manager.get(id);
+    const state = track.getState();
+    delete state.id;
+
+    /**
+     * When a new track is added,
+     * update redux state's webrtc.tracks array by adding track's state into it.
+     */
+    emit({
+      track,
+      action: _actions.trackActions.trackAdded(id, state)
+    });
+  };
+
+  // Handle Tracks ending.
+  const trackRemoved = id => {
+    /**
+     * When a track has ended,
+     * update redux state's webrtc.tracks array
+     * by specifying which track to remove by providing a track id.
+     */
+    emit({
+      action: _actions.trackActions.trackRemoved(id)
+    });
+  };
+
+  manager.on('add', trackAdded);
+  manager.on('remove', trackRemoved);
+  const unsubscribe = () => {
+    manager.off('add', trackAdded);
+    manager.off('remove', trackRemoved);
+  };
+  return unsubscribe;
 }
 
 /***/ }),
@@ -39439,33 +41845,70 @@ var _events = __webpack_require__("./src/webrtc/interface/events/index.js");
 
 var _events2 = _interopRequireDefault(_events);
 
+var _channels = __webpack_require__("./src/webrtc/channels/index.js");
+
+var _channels2 = _interopRequireDefault(_channels);
+
+var _sagas = __webpack_require__("./src/webrtc/sagas/index.js");
+
+var sagas = _interopRequireWildcard(_sagas);
+
 var _actions = __webpack_require__("./src/events/interface/actions.js");
+
+var _utils = __webpack_require__("./src/common/utils.js");
 
 var _kandyWebrtc = __webpack_require__("../webrtc/src/interface/index.js");
 
 var _kandyWebrtc2 = _interopRequireDefault(_kandyWebrtc);
 
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
 var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// Libraries.
+// Helpers.
 function initializeStack() {
   return (0, _kandyWebrtc2.default)();
 }
 
+// Libraries.
+
+
 // Other plugins.
-// Webrtc Interface.
+// Webrtc plugin.
 function webRtcPlugin() {
-  function* init() {
+  // Initialize the webRTC.
+  const webRTC = (0, _kandyWebrtc2.default)();
+
+  function* init({ webRTC }) {
     yield (0, _effects.put)((0, _actions.mapEvents)(_events2.default));
+
+    // Wrap the webrtc sagas in a function that provides them with the webRTC stack.
+    const wrappedSagas = (0, _fp.values)(sagas).map(saga => {
+      return (0, _utils.autoRestart)(() => saga(webRTC.managers));
+    });
+
+    // Run all of the sagas.
+    for (let saga of wrappedSagas) {
+      yield (0, _effects.fork)(saga);
+    }
+
+    // Watch for events from the webRTC stack.
+    // TODO: Don't also pass in the entire stack.
+    yield (0, _effects.fork)(_channels2.default, webRTC.managers, webRTC);
   }
 
   return {
     name: _interface2.default.name,
     api: _interface2.default.api,
     reducer: _interface2.default.reducer,
-    init
+    init,
+    shared: {
+      webRTC
+    }
   };
 }
 
@@ -39528,6 +41971,7 @@ const MEDIA_REMOVED = exports.MEDIA_REMOVED = mediaPrefix + 'REMOVED';
 const MEDIA_CHANGE = exports.MEDIA_CHANGE = mediaPrefix + 'CHANGE';
 
 const MEDIA_NEW_TRACK = exports.MEDIA_NEW_TRACK = mediaPrefix + 'NEW_TRACK';
+const MEDIA_TRACK_REMOVED = exports.MEDIA_TRACK_REMOVED = mediaPrefix + 'TRACK_REMOVED';
 const MEDIA_TRACK_ENDED = exports.MEDIA_TRACK_ENDED = mediaPrefix + 'TRACK_ENDED';
 
 /***/ }),
@@ -39614,6 +42058,7 @@ var _extends3 = _interopRequireDefault(_extends2);
 exports.newMedia = newMedia;
 exports.removedMedia = removedMedia;
 exports.mediaNewTrack = mediaNewTrack;
+exports.mediaTrackRemoved = mediaTrackRemoved;
 exports.mediaTrackEnded = mediaTrackEnded;
 
 var _actionTypes = __webpack_require__("./src/webrtc/interface/actionTypes.js");
@@ -39655,6 +42100,10 @@ function removedMedia(id, params) {
 
 function mediaNewTrack(id, params) {
   return mediaActionHelper(actionTypes.MEDIA_NEW_TRACK, id, params);
+}
+
+function mediaTrackRemoved(id, params) {
+  return mediaActionHelper(actionTypes.MEDIA_TRACK_REMOVED, id, params);
 }
 
 function mediaTrackEnded(id, params) {
@@ -39873,11 +42322,18 @@ function api(context) {
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+
+var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/extends.js");
+
+var _extends3 = _interopRequireDefault(_extends2);
+
 exports.default = mediaAPI;
 
 var _actions = __webpack_require__("./src/webrtc/interface/actions/index.js");
 
 var _selectors = __webpack_require__("./src/webrtc/interface/selectors.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /**
  * Media related APIs.
@@ -39914,6 +42370,8 @@ function mediaAPI({ dispatch, getState }) {
 
     /**
      * Retrieve a Track object from state with a specific ID.
+     * @public
+     * @memberof Media
      * @method getTrackById
      * @param  {string} trackId The ID of the track to retrieve.
      * @return {Object} A track object.
@@ -39929,7 +42387,9 @@ function mediaAPI({ dispatch, getState }) {
      * @memberof Media
      * @method renderTracks
      * @param  {Array}  tracks List of Track IDs to be rendered.
-     * @param  {string} htmlSelector A CSS selector string that uniquely identifies an element.
+     * @param  {string} cssSelector A CSS selector string that uniquely identifies an element. Ensure that special characters are properly escaped.
+     * @param  {Object} [options] Additional options for rendering the tracks.
+     * @param  {string} [options.speakerId] The device ID of the speaker to use for audio tracks.
      * @example
      * // When an outgoing call is accepted, render the media used for the call.
      * client.on('call:accepted', function (params) {
@@ -39941,8 +42401,10 @@ function mediaAPI({ dispatch, getState }) {
      *     client.media.render(call.remoteMedia[0], remoteContainer)
      * })
      */
-    renderTracks(tracks, htmlSelector) {
-      dispatch(_actions.trackActions.renderTracks(tracks, { selector: htmlSelector }));
+    renderTracks(tracks, cssSelector, options = {}) {
+      dispatch(_actions.trackActions.renderTracks(tracks, (0, _extends3.default)({
+        selector: cssSelector
+      }, options)));
     },
 
     /**
@@ -39952,10 +42414,10 @@ function mediaAPI({ dispatch, getState }) {
      * @memberof Media
      * @method removeTracks
      * @param  {Array}  tracks List of Track IDs to stop being rendered.
-     * @param  {string} htmlSelector A CSS selector string that uniquely identifies an element.
+     * @param  {string} cssSelector A CSS selector string that uniquely identifies an element. Ensure that special characters are properly escaped.
      */
-    removeTracks(tracks, htmlSelector) {
-      dispatch(_actions.trackActions.removeTracks(tracks, { selector: htmlSelector }));
+    removeTracks(tracks, cssSelector) {
+      dispatch(_actions.trackActions.removeTracks(tracks, { selector: cssSelector }));
     },
 
     /**
@@ -40305,6 +42767,17 @@ mediaReducers[actionTypes.MEDIA_NEW_TRACK] = {
   }
 };
 
+// Remove specified track from media state.
+mediaReducers[actionTypes.MEDIA_TRACK_REMOVED] = {
+  next(state, action) {
+    const removeTrack = trackId => trackId === action.payload.trackId;
+    return (0, _extends3.default)({}, state, {
+      tracks: (0, _fp.remove)(removeTrack, state.tracks)
+    });
+  }
+};
+
+// Remove specified track from media state.
 mediaReducers[actionTypes.MEDIA_TRACK_ENDED] = {
   next(state, action) {
     const removeTrack = trackId => trackId === action.payload.trackId;
@@ -40315,7 +42788,7 @@ mediaReducers[actionTypes.MEDIA_TRACK_ENDED] = {
 };
 const mediaReducer = (0, _reduxActions.handleActions)(mediaReducers, {});
 
-const specificMediaActions = (0, _reduxActions.combineActions)(actionTypes.MEDIA_NEW_TRACK, actionTypes.MEDIA_TRACK_ENDED);
+const specificMediaActions = (0, _reduxActions.combineActions)(actionTypes.MEDIA_NEW_TRACK, actionTypes.MEDIA_TRACK_REMOVED, actionTypes.MEDIA_TRACK_ENDED);
 
 reducers[specificMediaActions] = (state, action) => {
   return state.map(media => {
@@ -40738,30 +43211,29 @@ var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js"
 
 var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
 
+var _documentTools = __webpack_require__("./src/webrtc/utils/documentTools.js");
+
 /**
  * Render Tracks in a specified container.
  * @method renderTracks
  * @param  {Object} action A "render tracks" action.
  */
-
-
-// Libraries.
+// Call plugin.
 function* renderTracks(webRTC, action) {
   // Get the tracks that are to be rendered.
   const tracks = yield (0, _effects.call)([webRTC.track, 'getTracks'], action.payload.trackIds);
   const filteredTracks = tracks.filter(track => !(0, _fp.isUndefined)(track));
 
   // Get the container the tracks are to be rendered in.
-  const container = yield (0, _effects.call)([document, 'querySelector'], action.payload.selector);
-
+  const container = yield (0, _effects.call)(_documentTools.findContainer, action.payload.selector);
   if (!container) {
-    // Error: Cannot find HTMLElement to render tracks in.
-    // TODO: Error handling.
     return;
   }
 
+  const speakerId = action.payload.speakerId;
+
   // Render the tracks.
-  yield (0, _effects.all)(filteredTracks.map(track => (0, _effects.call)([track, 'renderIn'], container)));
+  yield (0, _effects.all)(filteredTracks.map(track => (0, _effects.call)([track, 'renderIn'], container, speakerId)));
 
   // Report operation done.
   yield (0, _effects.put)(_actions.trackActions.renderTracksFinish(filteredTracks.map(track => track.id), {
@@ -40774,18 +43246,17 @@ function* renderTracks(webRTC, action) {
  * @method removeTracks
  * @param  {Object} action A "remove tracks" action.
  */
-// Call plugin.
+
+
+// Libraries.
 function* removeTracks(webRTC, action) {
   // Get the tracks that are to be removed.
   const allTracks = yield (0, _effects.call)([webRTC.track, 'getTracks']);
   const tracks = allTracks.filter(track => action.payload.trackIds.includes(track.id));
 
   // Get the container the tracks are to be rendered in.
-  const container = yield (0, _effects.call)([document, 'querySelector'], action.payload.selector);
-
+  const container = yield (0, _effects.call)(_documentTools.findContainer, action.payload.selector);
   if (!container) {
-    // Error: Cannot find HTMLElement to remove tracks from.
-    // TODO: Error handling.
     return;
   }
 
@@ -40832,6 +43303,1404 @@ function* unmuteTracks(webRTC, action) {
 
   // Report operation done.
   yield (0, _effects.put)(_actions.trackActions.unmuteTracksFinish(tracks.map(track => track.id)));
+}
+
+/***/ }),
+
+/***/ "./src/webrtc/utils/documentTools.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.findContainer = findContainer;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+const log = (0, _logs.getLogManager)().getLogger('MEDIA');
+
+/**
+ * Find an html container based on the given selector.
+ * @method findContainer
+ * @param {string} selector The selector to use when querying the document.
+ * @return {Object} The container object (undefined if not found).
+ */
+function findContainer(selector) {
+  let container;
+  try {
+    container = document.querySelector(selector);
+    if (!container) {
+      throw new Error('Element not found.');
+    }
+  } catch (e) {
+    log.error(`Unable to get container with selector: "${selector}". Error: ${e}`);
+  }
+  return container;
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/channel.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
+
+var _promise2 = _interopRequireDefault(_promise);
+
+exports.default = wrapChannel;
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+/**
+ * Wraps a channel with only `send` and `receive` functionality into one that
+ *    also has `reply` functionality.
+ * This is required by the Proxy Plugin to convert asynchronous code into
+ *    synchronous code. The Proxy needs to return a value synchronously when
+ *    sending data over the channel.
+ * @method wrapChannel
+ * @param  {Object} channel
+ * @return {Object} The same channel, but with a `reply` method as well.
+ */
+function wrapChannel(channel) {
+  /**
+   * Track sent messages by their ID.
+   * @type {Object}
+   */
+  const sentMessages = {};
+
+  channel.receive = function receiveMessage(message) {
+    const { messageId, data } = message;
+
+    // Determine how the message needs to be handled.
+    if (messageId && sentMessages[messageId]) {
+      // If the message has an ID from a sent message, then it is a reply to
+      //    that message. Resolve the promise associated with it.
+      sentMessages[messageId].resolve(data);
+    } else if (messageId && !sentMessages[messageId]) {
+      // If the message has an ID that we don't know about, then the application
+      //    will need to handle it.
+      if (api.receive) {
+        api.receive(messageId, data);
+      } else {
+        console.log('No listener for receiving messages.', data);
+      }
+    } else {
+      // If the message didn't have an ID, then it wasn't from our test channel.
+      console.log('Unknown message.');
+    }
+  };
+
+  /*
+   * The interface that the Proxy Plugin will use.
+   */
+  const api = {};
+
+  /**
+   * Send a message over the channel.
+   * @method send
+   * @param {string} messageId A unique ID to track the sent message.
+   * @param {Object} data
+   * @param {Function} callback Function called when a reply is received.
+   */
+  api.send = (messageId, data, callback) => {
+    if (sentMessages[messageId]) {
+      // The ID has already been used for sending a message.
+      callback(null, new Error('Cannot send message; ID already used.'));
+      return;
+    }
+
+    // Attach a messageId to the message.
+    // This lets the remote side reply to this message by using the messageId.
+    const message = {
+      data,
+      messageId
+
+      // Wrap `send` is a promise so that we can correlate receiving a reply
+      //    to the callback.
+    };new _promise2.default(resolve => {
+      // Store `resolve` so we can call it call it when we receive a reply.
+      sentMessages[messageId] = {
+        resolve
+        // Send the message over the channel.
+      };channel.send(message);
+    }).then(data => {
+      // The message received a reply, so remove the reference.
+      delete sentMessages[messageId];
+      console.debug('Received response for message: ', messageId);
+      if (typeof callback === 'function') {
+        callback(data);
+      }
+    });
+  };
+
+  /**
+   * Listener for receiving a message from the channel.
+   * @method receive
+   * @param {string} messageId
+   * @param {Object} data
+   */
+  // eslint-disable-next-line
+  api.receive = undefined;
+
+  /**
+   * Send a reply to a specific received message over the channel.
+   * @method reply
+   * @param {string} messageId
+   * @param {Object} data
+   */
+  api.reply = (messageId, data) => {
+    console.debug(`Replying to message ${messageId}.`, data);
+
+    // Attach the messageId to the message.
+    const message = {
+      data,
+      messageId
+    };
+
+    channel.send(message);
+  };
+
+  return api;
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = proxyPlugin;
+
+var _interface = __webpack_require__("./src/webrtcProxy/interface/index.js");
+
+var _interface2 = _interopRequireDefault(_interface);
+
+var _proxyStack = __webpack_require__("./src/webrtcProxy/proxyStack.js");
+
+var _proxyStack2 = _interopRequireDefault(_proxyStack);
+
+var _sagas = __webpack_require__("./src/webrtcProxy/sagas/index.js");
+
+var sagas = _interopRequireWildcard(_sagas);
+
+var _events = __webpack_require__("./src/webrtcProxy/interface/events.js");
+
+var _events2 = _interopRequireDefault(_events);
+
+var _actions = __webpack_require__("./src/events/interface/actions.js");
+
+var _utils = __webpack_require__("./src/common/utils.js");
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _kandyWebrtc = __webpack_require__("../webrtc/src/interface/index.js");
+
+var _kandyWebrtc2 = _interopRequireDefault(_kandyWebrtc);
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// Other plugins.
+// Proxy Plugin.
+const log = (0, _logs.getLogManager)().getLogger('PROXY');
+
+/**
+ * Proxy Plugin factory.
+ * The Proxy Plugin is responsible for setting up the webRTC /
+ *    Media Proxy within the SDK. This includes replacing the
+ *    webRTC stack with a Proxy stack, providing an interface
+ *    for an application to configure the Proxy stack, and,
+ *    in general, bringing all of the Proxy components together.
+ * @method proxyPlugin
+ * @return {Object} Plugin components.
+ */
+
+
+// Libraries.
+
+
+// Helpers.
+function proxyPlugin() {
+  // TODO: Options.
+
+  // Initialize a real webRTC stack.
+  const webRTC = (0, _kandyWebrtc2.default)();
+  // Initialize the Proxy stack. The real webRTC stack is needed for
+  //    when proxy-mode is disbled.
+  const proxy = (0, _proxyStack2.default)(webRTC);
+
+  function* init({ webRTC }) {
+    yield (0, _effects.put)((0, _actions.mapEvents)(_events2.default));
+
+    // Make sure that webRTC is the Proxy Stack.
+    if (!webRTC.setProxyMode || !(0, _fp.isFunction)(webRTC.setProxyMode)) {
+      log.error('Cannot setup Proxy Plugin: Proxy Stack not found.');
+      return;
+    }
+
+    // Wrap the sagas in a function that provides them with the proxy stack.
+    const wrappedSagas = (0, _fp.values)(sagas).map(saga => {
+      return (0, _utils.autoRestart)(() => saga(webRTC));
+    });
+
+    // Run all of the sagas.
+    for (let saga of wrappedSagas) {
+      yield (0, _effects.fork)(saga);
+    }
+  }
+
+  return {
+    name: _interface2.default.name,
+    api: _interface2.default.api,
+    reducer: _interface2.default.reducer,
+    init,
+    shared: {
+      // Share the Proxy stack with the factory. The intention is that this
+      //    will replace the webRTC stack the Webrtc plugin previously shared.
+      webRTC: proxy
+    }
+  };
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/actionTypes.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+const PREFIX = '@@KANDY/PROXY/';
+
+const SET_MODE = exports.SET_MODE = PREFIX + 'SET_MODE';
+const SET_MODE_FINISH = exports.SET_MODE_FINISH = PREFIX + 'SET_MODE_FINISH';
+
+const SET_CHANNEL = exports.SET_CHANNEL = PREFIX + 'SET_CHANNEL';
+const SET_CHANNEL_FINISH = exports.SET_CHANNEL_FINISH = PREFIX + 'SET_CHANNEL_FINISH';
+
+const INITIALIZE = exports.INITIALIZE = PREFIX + 'INITIALIZE';
+const INITIALIZE_FINISH = exports.INITIALIZE_FINISH = PREFIX + 'INITIALIZE_FINISH';
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/actions.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/extends.js");
+
+var _extends3 = _interopRequireDefault(_extends2);
+
+exports.setProxyMode = setProxyMode;
+exports.setProxyModeFinish = setProxyModeFinish;
+exports.setChannel = setChannel;
+exports.setChannelFinish = setChannelFinish;
+exports.initializeRemote = initializeRemote;
+exports.initializeRemoteFinish = initializeRemoteFinish;
+
+var _actionTypes = __webpack_require__("./src/webrtcProxy/interface/actionTypes.js");
+
+var actionTypes = _interopRequireWildcard(_actionTypes);
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function actionHelper(type, payload = {}) {
+  const action = {
+    type,
+    payload: (0, _extends3.default)({}, payload)
+  };
+
+  if (payload.error) {
+    action.error = true;
+  }
+
+  return action;
+}
+
+function setProxyMode(value) {
+  return actionHelper(actionTypes.SET_MODE, { value });
+}
+
+function setProxyModeFinish({ error, value }) {
+  return actionHelper(actionTypes.SET_MODE_FINISH, { error, value });
+}
+
+function setChannel(channel) {
+  return actionHelper(actionTypes.SET_CHANNEL, { channel });
+}
+
+function setChannelFinish({ error }) {
+  return actionHelper(actionTypes.SET_CHANNEL_FINISH, { error });
+}
+
+function initializeRemote(config) {
+  return actionHelper(actionTypes.INITIALIZE, { config });
+}
+
+function initializeRemoteFinish({ error }) {
+  return actionHelper(actionTypes.INITIALIZE_FINISH, { error });
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/api.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = api;
+
+var _actions = __webpack_require__("./src/webrtcProxy/interface/actions.js");
+
+var actions = _interopRequireWildcard(_actions);
+
+var _selectors = __webpack_require__("./src/webrtcProxy/interface/selectors.js");
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+/**
+ * Proxy Plugin API.
+ * @method api
+ * @param {Object} context
+ * @param {Function} dispatch
+ * @param {Function} getState
+ * @return {Object} An API object.
+ */
+/**
+ * The Proxy module allows for a secondary mode for making calls: proxy mode.
+ * When proxy mode is enabled, the SDK will redirect webRTC / media operations from the current machine to a remote machine using a channel.
+ * This is an advanced feature that enables support for Calls in particular scenarios that would otherwise not support them.
+ *
+ * @public
+ * @module Proxy
+ */
+
+/**
+ * The Channel object that the Proxy module needs to be provided.
+ *
+ * @public
+ * @module Channel
+ * @example
+ * // The channel the application uses for communicating with a remote endpoint.
+ * const appChannel = ...
+ *
+ * // The channel the application will provide to the Proxy module for use.
+ * const channel = {
+ *    send: function (data) {
+ *      // Any encoding / wrapping needed for a Proxy message being sent
+ *      //    over the channel.
+ *      appChannel.sendMessage(data)
+ *    },
+ *    // The Proxy module will set this function.
+ *    receive: undefined
+ * }
+ * appChannel.on('message', data => {
+ *    // Any decoding / unwrapping needed for the received message.
+ *    channel.receive(data)
+ * })
+ *
+ * client.proxy.setChannel(channel)
+ */
+
+/**
+ * Channel function that the Proxy module will use to send messages to the remote side.
+ * @public
+ * @memberof Channel
+ * @name send
+ * @function
+ * @param {Object} data Message to be sent over the channel.
+ */
+
+/**
+ * API that the Proxy module will assign a listener function for accepting received messages.
+ * This function should receive all messages sent from the remote side of the channel.
+ * @public
+ * @memberof Channel
+ * @name receive
+ * @function
+ * @param {Object} data The message received from the Channel.
+ */
+
+// Proxy plugin.
+function api({ dispatch, getState }) {
+  const api = {
+    /**
+     * Sets the mode for the Proxy Plugin.
+     * When enabled, webRTC operations will be proxied over a channel. Enabling
+     *    proxy mode requires a channel to have been set. See `setChannel` API.
+     * When disabled, webRTC operation will occur as normal on the local machine.
+     * @public
+     * @memberof Proxy
+     * @method setProxyMode
+     * @param {boolean} value Whether proxy mode should be enabled.
+     */
+    setProxyMode(value) {
+      dispatch(actions.setProxyMode(value));
+    },
+
+    /**
+     * Retrieves the current mode of the Proxy Plugin.
+     * @public
+     * @memberof Proxy
+     * @method getProxyMode
+     * @return {boolean} Whether proxy mode is currently enabled.
+     */
+    getProxyMode() {
+      return (0, _selectors.getProxyState)(getState()).proxyMode;
+    },
+
+    /*
+     * Retrieve Proxy information.
+     */
+    getInfo() {
+      return (0, _selectors.getProxyState)(getState());
+    },
+
+    /**
+     * Sets the channel to be used while proxy mode is enabled.
+     * @public
+     * @memberof Proxy
+     * @method setChannel
+     * @param {Channel} channel See the `Channel` module for information.
+     */
+    setChannel(channel) {
+      dispatch(actions.setChannel(channel));
+    },
+
+    /**
+     * Sends an initialization message over the channel with webRTC configurations.
+     * @public
+     * @memberof Proxy
+     * @method initializeRemote
+     * @param  {Object} config
+     */
+    initializeRemote(config) {
+      dispatch(actions.initializeRemote(config));
+    }
+  };
+
+  // Namespace the API.
+  return { proxy: api };
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/eventTypes.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+/**
+ * The Proxy state has changed.
+ * Indicates either a change in the mode or the channel.
+ * @public
+ * @memberof Proxy
+ * @event proxy:change
+ */
+const PROXY_CHANGE = exports.PROXY_CHANGE = 'proxy:change';
+
+/**
+ * An error has occurred with a Proxy operation.
+ * @public
+ * @memberof Proxy
+ * @event proxy:error
+ * @param {Object} params
+ * @param {Object} params.error An error object.
+ */
+const PROXY_ERROR = exports.PROXY_ERROR = 'proxy:error';
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/events.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _actionTypes = __webpack_require__("./src/webrtcProxy/interface/actionTypes.js");
+
+var actionTypes = _interopRequireWildcard(_actionTypes);
+
+var _eventTypes = __webpack_require__("./src/webrtcProxy/interface/eventTypes.js");
+
+var eventTypes = _interopRequireWildcard(_eventTypes);
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+// Proxy plugin.
+const eventsMap = {};
+
+/*
+ * Handle Proxy actions as either a "success" (state has change) event
+ *    or an "error" (couldn't do operation) event.
+ * @method proxyEvents
+ * @param {Action} action
+ * @return {Event}
+ */
+const proxyEvents = action => {
+  if (action.error) {
+    return {
+      type: eventTypes.PROXY_ERROR,
+      args: {
+        error: action.payload.error
+      }
+    };
+  } else {
+    return {
+      type: eventTypes.PROXY_CHANGE
+    };
+  }
+};
+
+eventsMap[actionTypes.SET_MODE_FINISH] = proxyEvents;
+eventsMap[actionTypes.SET_CHANNEL_FINISH] = proxyEvents;
+eventsMap[actionTypes.INITIALIZE_FINISH] = proxyEvents;
+
+exports.default = eventsMap;
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _api = __webpack_require__("./src/webrtcProxy/interface/api.js");
+
+var _api2 = _interopRequireDefault(_api);
+
+var _reducers = __webpack_require__("./src/webrtcProxy/interface/reducers.js");
+
+var _reducers2 = _interopRequireDefault(_reducers);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+/*
+ * Expose the components of the Proxy Interface as a single object.
+ */
+exports.default = {
+  name: 'proxy',
+  api: _api2.default,
+  reducer: _reducers2.default
+};
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/reducers.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends2 = __webpack_require__("../../node_modules/babel-runtime/helpers/extends.js");
+
+var _extends3 = _interopRequireDefault(_extends2);
+
+var _actionTypes = __webpack_require__("./src/webrtcProxy/interface/actionTypes.js");
+
+var actionTypes = _interopRequireWildcard(_actionTypes);
+
+var _reduxActions = __webpack_require__("../../node_modules/redux-actions/es/index.js");
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// The reducer's default state.
+// Proxy plugin.
+const defaultState = {
+  proxyMode: false,
+  hasChannel: false,
+  remoteInitialized: false
+};
+
+// Libraries.
+
+
+const reducers = {};
+
+// Proxy Mode has changed.
+reducers[actionTypes.SET_MODE_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      proxyMode: action.payload.value
+    });
+  }
+};
+
+// A channel has been provided.
+reducers[actionTypes.SET_CHANNEL_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      hasChannel: true
+    });
+  }
+};
+
+// The remote side has been initialized.
+reducers[actionTypes.INITIALIZE_FINISH] = {
+  next(state, action) {
+    return (0, _extends3.default)({}, state, {
+      remoteInitialized: true
+    });
+  }
+};
+
+const reducer = (0, _reduxActions.handleActions)(reducers, defaultState);
+exports.default = reducer;
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/interface/selectors.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getProxyState = getProxyState;
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
+/**
+ * Selector functions.
+ * Used to retrieve specific portions of redux state without
+ *    needing to know the structure of state.
+ */
+
+/**
+ * Retrieves the Proxy Plugin state.
+ * @method getProxyState
+ * @param {Object} state Redux state.
+ * @return {Object} Proxy plugin state.
+ */
+function getProxyState(state) {
+  return (0, _fp.cloneDeep)(state.proxy);
+} // Libraries.
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/proxies/manager.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
+
+var _promise2 = _interopRequireDefault(_promise);
+
+exports.default = function (base, actualManager) {
+  // Hardcode `id` as manager, since this function is only for manager proxies.
+  base.id = 'manager';
+
+  return new Proxy(base, {
+    /**
+     * Proxy "getter" calls on the Proxy.
+     * This function is called anytime a property on `base` is accessed,
+     *    eg. `base.someProp`
+     * @param {Object} objTarget base
+     * @param {string} prop Property being accessed.
+     * @param {Object} receiver The Proxy object.
+     */
+    get: function (objTarget, prop, receiver) {
+      // If the Proxy Stack is not in proxy mode, return the property from the
+      //    actual webRTC manager object.
+      if (!objTarget.proxyMode || !objTarget.channel) {
+        log.debug('Using local webRTC stack.');
+        return actualManager[prop];
+      }
+      // Otherwise, the webRTC operation needs to be proxied over the channel.
+
+      /*
+       * Tell redux-saga that this is not a promise.
+       * Otherwise it will handle it differently under-the-hood and break things.
+       * Ref: github.com/redux-saga/redux-saga/blob/master/packages/is/src/index.js#L10
+       */
+      if (!objTarget[prop] && prop === 'then') {
+        return undefined;
+      }
+
+      if (objTarget[prop]) {
+        // If something that actually exists is being accessed,
+        //    then return that thing.
+        return objTarget[prop];
+      } else {
+        // Otherwise, it's probably accessing a prop that it
+        //    expects to be a function. So return a function proxy.
+        return new Proxy(() => {}, {
+          /**
+           * Proxy function calls.
+           * This function is called when the dummy function is called,
+           * @example
+           *    const someProp = base.someProp  // Triggers the above `get`.
+           *    someProp()                      // Triggers this `apply`.
+           * @param  {Function} funcTarget The dummy function.
+           * @param  {boolean} thisArg The `base` object wrapped by the first proxy layer.
+           * @param  {Array}  args List of function parameters.
+           */
+          apply: function (funcTarget, thisArg, args) {
+            // Assemble the webRTC command to be sent over the channel.
+            const operation = {
+              type: thisArg.type,
+              id: thisArg.id,
+              operation: prop,
+              params: args
+            };
+
+            log.info('operation', operation);
+
+            if (thisArg.proxyMode && thisArg.channel && thisArg.channel.send) {
+              /*
+               * All manager APIs will now return a Promise, even if they didn't
+               *    before. This is needed to wait for the remote response.
+               * Since sagas `yield` on these API calls, they will also wait
+               *    until the promise resolves.
+               */
+              return new _promise2.default((resolve, reject) => {
+                function callback(data) {
+                  log.info('Callback: ', data);
+
+                  if ((0, _fp.isArray)(data)) {
+                    const proxies = data.map(obj => {
+                      return (0, _model2.default)(obj, thisArg.channel);
+                    });
+                    resolve(proxies);
+                  } else {
+                    resolve((0, _model2.default)(data, thisArg.channel));
+                  }
+                }
+
+                const messageId = (0, _v2.default)();
+                thisArg.channel.send(messageId, operation, callback);
+              });
+            }
+          }
+        });
+      }
+    }
+  });
+};
+
+var _model = __webpack_require__("./src/webrtcProxy/proxies/model.js");
+
+var _model2 = _interopRequireDefault(_model);
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _fp = __webpack_require__("../../node_modules/lodash/fp.js");
+
+var _v = __webpack_require__("../../node_modules/uuid/v4.js");
+
+var _v2 = _interopRequireDefault(_v);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// Libraries.
+// Proxy plugin.
+const log = (0, _logs.getLogManager)().getLogger('PROXY');
+
+/**
+ * Creates an ES6 Proxy to wrap a webRTC manager.
+ * @method createManagerProxy
+ * @param  {Object} base The base object being wrapped.
+ * @param  {boolean} base.proxyMode Whether operations should be proxied or not.
+ * @param  {string} base.type The type of manager this is.
+ * @param  {Object} actualManager A webRTC manager.
+ * @return {Proxy}
+ */
+
+
+// Other plugins.
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/proxies/model.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
+
+var _promise2 = _interopRequireDefault(_promise);
+
+exports.default = modelProxy;
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _v = __webpack_require__("../../node_modules/uuid/v4.js");
+
+var _v2 = _interopRequireDefault(_v);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// Other plugins.
+const log = (0, _logs.getLogManager)().getLogger('PROXY');
+
+/**
+ * Creates an ES6 Proxy to wrap a webRTC object.
+ * @method modelProxy
+ * @param  {Object}  base The base object being wrapped.
+ * @param  {Channel} channel The channel to use for proxying commands.
+ * @return {Proxy}   A proxied webRTC object.
+ */
+
+
+// Libraries.
+function modelProxy(base, channel) {
+  log.debug(`Creating proxy for ${base.type}.`, base);
+
+  return new Proxy(base, {
+    get: function (objTarget, prop, receiver) {
+      /*
+       * Tell redux-saga that this is not a promise.
+       * Otherwise it will handle it differently under-the-hood and break things.
+       * Ref: github.com/redux-saga/redux-saga/blob/master/packages/is/src/index.js#L10
+       */
+      if (!objTarget[prop] && prop === 'then') {
+        return undefined;
+      }
+
+      /**
+       * The base object used to create a model's proxy may have references to
+       *    other webRTC objects. We need to proxy those references as well.
+       * Session: localTracks, remoteTracks
+       * Media: tracks
+       */
+      if (['localTracks', 'remoteTracks', 'tracks'].includes(prop)) {
+        return objTarget[prop].map(track => modelProxy(track, channel));
+      }
+
+      if (objTarget[prop]) {
+        // If something that actually exists is being accessed,
+        //    then return that thing.
+        return objTarget[prop];
+      } else {
+        // Otherwise, it's probably accessing a prop that it
+        //    expects to be a function. So return a function proxy.
+        return new Proxy(() => {}, {
+          /**
+           * Proxy function calls.
+           * This function is called when the dummy function is called,
+           * @example
+           *    const someProp = base.someProp  // Triggers the above `get`.
+           *    someProp()                      // Triggers this `apply`.
+           * @param  {Function} funcTarget The dummy function.
+           * @param  {boolean} thisArg The `base` object wrapped by the first proxy layer.
+           * @param  {Array}  args List of function parameters.
+           */
+          apply: function (funcTarget, thisArg, args) {
+            // Assemble the webRTC command to be sent over the channel.
+            const operation = {
+              type: thisArg.type,
+              id: thisArg.id,
+              operation: prop,
+              params: args
+            };
+
+            log.info('media operation', operation);
+            /*
+             * All APIs will now return a Promise, even if they didn't
+             *    before. This is needed to wait for the remote response.
+             * Since sagas `yield` on these API calls, they will also wait
+             *    until the promise resolves.
+             */
+            return new _promise2.default(resolve => {
+              function callback(data) {
+                log.info('model Callback: ', data);
+
+                resolve(data);
+              }
+
+              const messageId = (0, _v2.default)();
+              channel.send(messageId, operation, callback);
+            });
+          }
+        });
+      }
+    }
+  });
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/proxyStack.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _promise = __webpack_require__("../../node_modules/babel-runtime/core-js/promise.js");
+
+var _promise2 = _interopRequireDefault(_promise);
+
+exports.default = initializeProxy;
+
+var _manager = __webpack_require__("./src/webrtcProxy/proxies/manager.js");
+
+var _manager2 = _interopRequireDefault(_manager);
+
+var _channel = __webpack_require__("./src/webrtcProxy/channel.js");
+
+var _channel2 = _interopRequireDefault(_channel);
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _v = __webpack_require__("../../node_modules/uuid/v4.js");
+
+var _v2 = _interopRequireDefault(_v);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+// Other plugins.
+// Proxy plugin.
+const log = (0, _logs.getLogManager)().getLogger('PROXY');
+
+/**
+ * Creates a Proxied webRTC Stack.
+ * This Proxy Stack is the replacement for the actual webRTC stack.
+ * @method initializeProxy
+ * @param {Object} webRTC The local webRTC stack.
+ * @return {Object} The Proxy Stack.
+ */
+
+
+// Libraries.
+function initializeProxy(webRTC) {
+  // The base of the proxy stack.
+  const base = {
+    // Whether operations should be proxied.
+    proxyMode: false,
+    // The channel to use for proxying operations.
+    channel: undefined,
+    // Whether the Client side is ready.
+    clientReady: false,
+    // The proxied webRTC managers.
+    managers: {}
+
+    /*
+     * Recreate each of the actual webRTC managers as a proxied manager.
+     * Creating proxies at the manager level (instead of only at the stack level)
+     *    allows the Proxy Stack to be used in scenarios where the managers
+     *    themselves are stored (rather than only using the stack from the top
+     *    level).
+     * Specifically, this allows us to use the Proxy Stack in the webRTC examples
+     *    for testing outside of the SDK/redux context.
+     */
+  };for (const manager in webRTC.managers) {
+    base.managers[manager] = (0, _manager2.default)({
+      type: manager,
+      proxyMode: base.proxyMode,
+      channel: base.channel
+    }, webRTC.managers[manager]);
+  }
+
+  /**
+   * Sets proxy mode for the Proxy Stack.
+   * @method setProxyMode
+   * @param {boolean} value
+   * @return {boolean} Whether the setting was successfully changed or not.
+   */
+  const setProxyMode = value => {
+    if (typeof value !== 'boolean') {
+      log.debug('Provided value is not a boolean; cannot set proxy mode.');
+      return false;
+    }
+
+    log.debug('Setting proxyMode for managers to ' + value);
+    base.proxyMode = value;
+
+    for (const manProxy in base.managers) {
+      base.managers[manProxy].proxyMode = value;
+    }
+    return true;
+  };
+
+  /**
+   * Retreives the current mode of the Proxy Stack.
+   * @method getProxyMode
+   * @return {boolean}
+   */
+  const getProxyMode = () => {
+    return base.proxyMode;
+  };
+
+  /**
+   * Sets the channel to be used for proxying operations.
+   * @method setChannel
+   * @param {Channel} channel
+   */
+  const setChannel = channel => {
+    // TODO: How to unset a channel?
+    // TODO: Make (more) sure its a valid channel.
+    if (!channel || !channel.send) {
+      log.debug('Provided channel does not support the expected interface.');
+      return false;
+    }
+
+    const wrappedChannel = (0, _channel2.default)(channel);
+    log.debug('Setting channel for proxy use.');
+    base.channel = wrappedChannel;
+
+    for (const manProxy in base.managers) {
+      base.managers[manProxy].channel = wrappedChannel;
+    }
+
+    // TODO: Have an API for this.
+    // setTimeout(initialize, 1000)
+
+    return true;
+  };
+
+  /**
+   * Retreives the current channel to be used.
+   * @method getChannel
+   * @return {Channel}
+   */
+  const getChannel = () => {
+    return base.channel;
+  };
+
+  /**
+   * Sets the listener function for receiving messages from the channel.
+   * @method setReceiver
+   * @param  {Function} listener
+   */
+  const onMessage = listener => {
+    base.channel.receive = listener;
+  };
+
+  /**
+   * Attempts to initialize the Client side to be ready for use.
+   * @method initialize
+   * @param {Object} config WebRTC stack configuration.
+   */
+  const initialize = config => {
+    return new _promise2.default((resolve, reject) => {
+      if (!base.clientReady && base.channel) {
+        const callback = data => {
+          log.debug('Received initialize response.', data);
+          if (data.initialized) {
+            // The Client is now ready.
+            base.clientReady = true;
+            resolve();
+          } else {
+            reject(new Error('Remote end not initialized.'));
+          }
+        };
+
+        log.debug('Initializing remote webRTC stack.', config);
+        const messageId = (0, _v2.default)();
+        base.channel.send(messageId, { initialize: true, config: config }, callback);
+      } else {
+        log.info('Either Client is already ready or no channel to use.');
+        reject(new Error('Either Client is already ready or no channel to use.'));
+      }
+    });
+  };
+
+  /**
+   * Set the SDP handlers the webRTC stack should use with the pipeline.
+   * @method setHandlers
+   * @param  {Array} handlers List of SDP handlers.
+   */
+  function setHandlers(handlers) {
+    webRTC.sdp.pipeline.setHandlers(handlers);
+  }
+
+  return {
+    // Proxy stack specific.
+    setProxyMode,
+    getProxyMode,
+    setChannel,
+    getChannel,
+    onMessage,
+    // webRTC imitations.
+    initialize,
+    sdp: {
+      pipeline: {
+        setHandlers
+      }
+    },
+    managers: base.managers
+  };
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/sagas/index.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.setMode = setMode;
+exports.setChannel = setChannel;
+exports.initializeRemote = initializeRemote;
+
+var _actionTypes = __webpack_require__("./src/webrtcProxy/interface/actionTypes.js");
+
+var actionTypes = _interopRequireWildcard(_actionTypes);
+
+var _proxyStack = __webpack_require__("./src/webrtcProxy/sagas/proxyStack.js");
+
+var sagas = _interopRequireWildcard(_proxyStack);
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+function* setMode(webRTC) {
+  yield (0, _effects.takeEvery)(actionTypes.SET_MODE, sagas.setProxyMode, webRTC);
+}
+
+// Libraries.
+// Proxy plugin.
+function* setChannel(webRTC) {
+  yield (0, _effects.takeEvery)(actionTypes.SET_CHANNEL, sagas.setChannel, webRTC);
+}
+
+function* initializeRemote(webRTC) {
+  yield (0, _effects.takeEvery)(actionTypes.INITIALIZE, sagas.initializeRemote, webRTC);
+}
+
+/***/ }),
+
+/***/ "./src/webrtcProxy/sagas/proxyStack.js":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.setProxyMode = setProxyMode;
+exports.setChannel = setChannel;
+exports.handleMessages = handleMessages;
+exports.initializeRemote = initializeRemote;
+
+var _actions = __webpack_require__("./src/webrtcProxy/interface/actions.js");
+
+var actions = _interopRequireWildcard(_actions);
+
+var _selectors = __webpack_require__("./src/call/interfaceNew/selectors.js");
+
+var _logs = __webpack_require__("./src/logs/index.js");
+
+var _errors = __webpack_require__("./src/errors/index.js");
+
+var _errors2 = _interopRequireDefault(_errors);
+
+var _effects = __webpack_require__("../../node_modules/redux-saga/es/effects.js");
+
+var _reduxSaga = __webpack_require__("../../node_modules/redux-saga/es/index.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+// Libraries.
+// Proxy Plugin.
+const log = (0, _logs.getLogManager)().getLogger('PROXY');
+
+/**
+ * Sets the proxy mode for the Proxy Stack.
+ * @method setProxyMode
+ * @param {Object} webRTC The Proxy Stack.
+ * @param {Object} action
+ */
+
+
+// Helpers.
+
+
+// Other plugins.
+function* setProxyMode(webRTC, action) {
+  // Check to see if there are any on-going calls.
+  const calls = yield (0, _effects.select)(_selectors.getActiveCalls);
+
+  if (calls.length > 0) {
+    yield (0, _effects.put)(actions.setProxyModeFinish({
+      error: new _errors2.default({
+        code: 'proxy:3',
+        message: 'Cannot change proxy mode while there are on-going calls.'
+      })
+    }));
+    return;
+  }
+
+  const value = action.payload.value;
+  const result = yield (0, _effects.call)([webRTC, 'setProxyMode'], value);
+
+  const response = {
+    value
+    // If the mode wasn't set, define an error to be included
+    //    in the finish action.
+  };if (!result) {
+    response.error = new _errors2.default({
+      code: 'proxy:1',
+      message: `Failed to set proxy mode to ${value}.`
+    });
+  }
+
+  yield (0, _effects.put)(actions.setProxyModeFinish(response));
+}
+
+/**
+ * Sets the channel for the Proxy Stack.
+ * @method setChannel
+ * @param {Object} webRTC The Proxy Stack.
+ * @param {Object} action
+ */
+function* setChannel(webRTC, action) {
+  // Check to see if there are any on-going calls.
+  const calls = yield (0, _effects.select)(_selectors.getActiveCalls);
+
+  if (calls.length > 0) {
+    yield (0, _effects.put)(actions.setChannelFinish({
+      error: new _errors2.default({
+        code: 'proxy:3',
+        message: 'Cannot set channel while there are on-going calls.'
+      })
+    }));
+    return;
+  }
+
+  const channel = action.payload.channel;
+  const result = yield (0, _effects.call)([webRTC, 'setChannel'], channel);
+
+  const response = {};
+  // If the channel wasn't set, define an error to be included
+  //    in the finish action.
+  if (!result) {
+    response.error = new _errors2.default({
+      code: 'proxy:2',
+      message: 'Failed to set proxy channel.'
+    });
+  } else {
+    // Channel was successfully set.
+    // Listen for messages received from the channel.
+    yield (0, _effects.fork)(handleMessages, webRTC);
+  }
+
+  yield (0, _effects.put)(actions.setChannelFinish(response));
+}
+
+/**
+ * Handles (non-reply) messages received from the Client Host.
+ * @method handleMessages
+ * @param  {Object}  webRTC The webRTC stack.
+ */
+function* handleMessages(webRTC) {
+  // Setup an event channel to bring the messages into redux-saga's context.
+  const messageChannel = (0, _reduxSaga.eventChannel)(emit => {
+    /**
+     * Set the listener function on the Proxy Stack for
+     *    receiving messages. It simply "emits" the entire
+     *    messages into the event channel.
+     */
+    webRTC.onMessage((messageId, data) => {
+      emit({ messageId, data });
+    });
+
+    return () => {
+      // Unsubscribe by removing any listener function.
+      webRTC.onMessage(() => {});
+    };
+  });
+
+  while (true) {
+    const { messageId, data } = yield (0, _effects.take)(messageChannel);
+    log.debug(`Received message from channel: ${messageId}`);
+
+    // If the received message is an event, dispatch it.
+    if (data.event) {
+      yield (0, _effects.put)(data.event);
+    } else {
+      log.debug('Received unknown message type; ignoring message.', data);
+    }
+  }
+}
+
+function* initializeRemote(webRTC, action) {
+  const error = yield (0, _effects.call)([webRTC, 'initialize'], action.payload.config);
+
+  if (error) {
+    yield (0, _effects.put)(actions.initializeRemoteFinish({ error: error.message }));
+  } else {
+    yield (0, _effects.put)(actions.initializeRemoteFinish({}));
+  }
 }
 
 /***/ })
