@@ -14,24 +14,12 @@ whenReady(function() {
 class ChangeView {
     constructor() {
         this.accountPasswordGrantView = document.getElementById('passwordID');
-        this.accountClientCredentialsView = document.getElementById('clientCredID');
-
-        this.accountPasswordGrantradio = document.getElementById('passwordGrant');
-        this.accountPasswordGrantradio.addEventListener('click', (evt) => this.showPasswordGrant(evt));
-
-        this.accountClientCredentialsradio = document.getElementById('clientCred');
-        this.accountClientCredentialsradio.addEventListener('click', (evt) => this.showClientCredentials(evt));
     }
 
     showPasswordGrant() {
-        Effect.hide(this.accountClientCredentialsView);
         Effect.show(this.accountPasswordGrantView);
     }
 
-    showClientCredentials() {
-        Effect.show(this.accountClientCredentialsView);
-        Effect.hide(this.accountPasswordGrantView);
-    }
 }
 
 function initClient() {
