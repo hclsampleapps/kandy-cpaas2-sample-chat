@@ -14,12 +14,24 @@ whenReady(function() {
 class ChangeView {
     constructor() {
         this.accountPasswordGrantView = document.getElementById('passwordID');
+        this.accountClientCredentialsView = document.getElementById('clientCredID');
+
+        this.accountPasswordGrantradio = document.getElementById('passwordGrant');
+        this.accountPasswordGrantradio.addEventListener('click', (evt) => this.showPasswordGrant(evt));
+
+        this.accountClientCredentialsradio = document.getElementById('clientCred');
+        this.accountClientCredentialsradio.addEventListener('click', (evt) => this.showClientCredentials(evt));
     }
 
     showPasswordGrant() {
+        Effect.hide(this.accountClientCredentialsView);
         Effect.show(this.accountPasswordGrantView);
     }
 
+    showClientCredentials() {
+        Effect.show(this.accountClientCredentialsView);
+        Effect.hide(this.accountPasswordGrantView);
+    }
 }
 
 function initClient() {
@@ -39,25 +51,32 @@ function initClient() {
         }
     })
 
-    /*
+    /**
      * Listen for new messages sent or received.
      * This event occurs when a new message is added to a conversation.
      */
     client.on('messages:change', function(convo) {
         const destination = convo.destination[0]
         log('New message in conversation with ' + destination)
-
-        if (!currentConvo && ['im', 'chat', 'sms'].includes(convo.type)) {
+        /**
+         * We'll update the currently used conversation object (for this logged-in user) if any of the two scenarios apply:
+         * 1. There was no previous conversation and now we get a notification of a new message coming in (for this logged-in user).
+         * 2. We had a previous conversation but its destination is not the same as the destination associated with this new incoming message.
+         *    This is the case when sender of this message switched between a group conversation to a one-to-one conversation (and vice-versa) and then sent a new message.
+         *    When this switching occurs, the destination is either the GroupId or UserID. No matter what is the current destination we want to show in this example that we can receive it.
+         */
+        if ((!currentConvo || currentConvo.destination[0] != destination) && ['chat-oneToOne', 'chat-group', 'sms'].includes(convo.type)) {
             currentConvo = client.conversation.get(destination, { type: convo.type })
         }
 
         // If the message is in the current conversation, render it.
         if (currentConvo.destination[0] === destination) {
+            var val = client.conversation.get(currentConvo.destination, { type: convo.type });
             renderLatestMessage(client.conversation.get(currentConvo.destination, { type: convo.type }))
         }
     })
 
-    /*
+    /**
      * Listen for a change in the list of conversations.
      * In our case, it will occur when we receive a message from a user that
      * we do not have a conversation created with.
@@ -65,12 +84,19 @@ function initClient() {
     client.on('conversations:change', function(convos) {
         log('New conversation')
 
-        // If we don't have a current conversation, assign the new one and render it.
-        if (!currentConvo && convos.length !== 0) {
-            currentConvo = client.conversation.get(convos[0].destination, { type: convos[0].type })
+        if (Array.isArray(convos)) {
+            // If we don't have a current conversation, assign the new one and render it.
+            if (!currentConvo && convos.length !== 0) {
+                currentConvo = client.conversation.get(convos[0].destination, { type: convos[0].type })
+                renderLatestMessage(currentConvo)
+            }
+        } else {
+            // Temporary fix: the first time a message is sent (as part of a new conversation), the 'convos' param is NOT an array
+            currentConvo = client.conversation.get(convos.destination[0], { type: convos.type })
             renderLatestMessage(currentConvo)
         }
     })
+
 }
 
 /**
@@ -217,7 +243,9 @@ function createConvo() {
     const participant = document.getElementById('convo-participant').value.toString().toLowerCase();
 
     // Pass in the SIP address of a user to create a conversation with them.
-    currentConvo = client.conversation.create([participant], { type: 'chat' })
+    currentConvo = client.conversation.create([participant], { type: 'chat-oneToOne' })
+    log('One-to-One conversation created with remote user: ' + participant)
+
 
     log('Conversation created with: ' + participant)
 }
