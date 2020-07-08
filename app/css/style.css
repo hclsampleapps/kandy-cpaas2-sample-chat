@@ -1,5 +1,5 @@
 .hide {
-	display: none;
+	display: none !important;
 }
 
 li {
@@ -29,4 +29,41 @@ ul.inline li {
     height: 200px;
     overflow-y: scroll;
     scroll-behavior: smooth;
+}
+
+
+body {
+    margin: 0;
+}
+
+.matter {
+    margin: 10px;
+}
+
+.notification {
+    background-color: lemonchiffon;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 10px;
+    border-bottom: 1px solid palegoldenrod;
+    color: dimgrey;
+    font-family: calibri;
+    font-size: 13px;
+    display: inline-flex;
+}
+
+.notification .message {
+    width: 100%;
+}
+
+.notification .close {
+    margin-right: 10px;
+    padding: 0 5px; 
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.notification .close:hover {
+    color: darkgrey;
 }
