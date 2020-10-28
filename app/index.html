@@ -74,6 +74,31 @@
                 <button type="button" onclick="sendMessage()">Send</button>
             </p>
         </div>
+        <div>
+            <fieldset>
+            <legend>Current Conversations</legend>
+            <br />
+            Step 1: Get all existing conversations related to our user:
+            <br /><br />
+            <input type="button" value="Fetch Conversations" onclick="fetchConversations();" />
+            <br /><br />
+            <div id="list_of_conversations_container"></div>
+          </fieldset>
+        </div>
+        <div>
+            <fieldset>
+                <legend>Fetching Messages</legend>
+              
+                <br />
+                Step 3: Get all messages for a selected conversation.
+                <br /><br />
+              
+                <input type="button" value="Fetch message(s)" onclick="fetchMessages()" />
+                <br />
+                <br />
+                <div id="list_of_messages" class="list-content"></div>
+              </fieldset>
+        </div>
         <div class="terminal-wrapper">
             <label><b>Terminal</b></label>
             <div id="terminal"></div>

@@ -5,6 +5,7 @@ var serverBase;
 var mHostUrl;
 var client;
 const tokenAPI = '/cpaas/auth/v1/token'
+var isChatHistory = false;
 
 whenReady(function() {
     Notification.initialize();
@@ -60,29 +61,41 @@ function initClient() {
         }
     })
 
-    /**
+     /**
      * Listen for new messages sent or received.
      * This event occurs when a new message is added to a conversation.
      */
-    client.on('messages:change', function(convo) {
-        const destination = convo.destination[0]
-        log('New message in conversation with ' + destination)
-        /**
-         * We'll update the currently used conversation object (for this logged-in user) if any of the two scenarios apply:
-         * 1. There was no previous conversation and now we get a notification of a new message coming in (for this logged-in user).
-         * 2. We had a previous conversation but its destination is not the same as the destination associated with this new incoming message.
-         *    This is the case when sender of this message switched between a group conversation to a one-to-one conversation (and vice-versa) and then sent a new message.
-         *    When this switching occurs, the destination is either the GroupId or UserID. No matter what is the current destination we want to show in this example that we can receive it.
-         */
-        if ((!currentConvo || currentConvo.destination[0] != destination) && ['chat-oneToOne', 'chat-group', 'sms'].includes(convo.type)) {
-            currentConvo = client.conversation.get(destination, { type: convo.type })
+    client.on('messages:change', function (convo) {
+        if (isChatHistory) {
+            // If there are any errors, display them in status area
+            if (convo.error && convo.error.message) {
+                log('Error: ' + convo.error.message)
+            }
+
+            // Refresh the messages list using our internal array
+            refreshMessagesList()
+
+        } else {
+            const destination = convo.destination[0]
+            log('New message in conversation with ' + destination)
+            /**
+             * We'll update the currently used conversation object (for this logged-in user) if any of the two scenarios apply:
+             * 1. There was no previous conversation and now we get a notification of a new message coming in (for this logged-in user).
+             * 2. We had a previous conversation but its destination is not the same as the destination associated with this new incoming message.
+             *    This is the case when sender of this message switched between a group conversation to a one-to-one conversation (and vice-versa) and then sent a new message.
+             *    When this switching occurs, the destination is either the GroupId or UserID. No matter what is the current destination we want to show in this example that we can receive it.
+             */
+            if ((!currentConvo || currentConvo.destination[0] != destination) && ['chat-oneToOne', 'chat-group', 'sms'].includes(convo.type)) {
+                currentConvo = client.conversation.get(destination, { type: convo.type })
+            }
+
+            // If the message is in the current conversation, render it.
+            if (currentConvo.destination[0] === destination) {
+                var val = client.conversation.get(currentConvo.destination, { type: convo.type });
+                renderLatestMessage(client.conversation.get(currentConvo.destination, { type: convo.type }))
+            }
         }
 
-        // If the message is in the current conversation, render it.
-        if (currentConvo.destination[0] === destination) {
-            var val = client.conversation.get(currentConvo.destination, { type: convo.type });
-            renderLatestMessage(client.conversation.get(currentConvo.destination, { type: convo.type }))
-        }
     })
 
     /**
@@ -90,22 +103,46 @@ function initClient() {
      * In our case, it will occur when we receive a message from a user that
      * we do not have a conversation created with.
      */
-    client.on('conversations:change', function(convos) {
-        log('New conversation')
+    client.on('conversations:change', function (convos) {
 
-        if (Array.isArray(convos)) {
-            // If we don't have a current conversation, assign the new one and render it.
-            if (!currentConvo && convos.length !== 0) {
-                currentConvo = client.conversation.get(convos[0].destination, { type: convos[0].type })
+        if (isChatHistory) {
+            // If there are any errors, display them in status area
+            if (convos.error && convos.error.message) {
+                log('Error: ' + convos.error.message)
+            }
+
+            // Refresh list of conversations based our internal array.
+            refreshConversationsList()
+
+            // // Clear list of messages, since we now have a new list of conversations.
+            clearMessagesList()
+
+        }
+        else {
+            log('New conversation')
+
+            if (Array.isArray(convos)) {
+                // If we don't have a current conversation, assign the new one and render it.
+                if (!currentConvo && convos.length !== 0) {
+                    currentConvo = client.conversation.get(convos[0].destination, { type: convos[0].type })
+                    renderLatestMessage(currentConvo)
+                }
+            } else {
+                // Temporary fix: the first time a message is sent (as part of a new conversation), the 'convos' param is NOT an array
+                currentConvo = client.conversation.get(convos.destination[0], { type: convos.type })
                 renderLatestMessage(currentConvo)
             }
-        } else {
-            // Temporary fix: the first time a message is sent (as part of a new conversation), the 'convos' param is NOT an array
-            currentConvo = client.conversation.get(convos.destination[0], { type: convos.type })
-            renderLatestMessage(currentConvo)
         }
     })
 
+    // Handling any message related errors: we simply issue a log, for simplicity.
+    client.on('messages:error', function (error) {
+        log('Error: Got an error (as part of messages:error event). Error content is: ' + JSON.stringify(error))
+    })
+
+    // Listen for the event that tells us messages (for a selected conversation) have changed.
+    client.on('messages:change', function (params) {
+    })
 }
 
 /**
@@ -238,9 +275,18 @@ function subscribe() {
 
 // Utility function for appending messages to the message div.
 function log(message) {
-    console.log(message);
-    document.getElementById('terminal').innerHTML += '<p>' + message + '</p>';
+    if (isChatHistory) {
+        const textNode = document.createTextNode(message)
+        const divContainer = document.createElement('div')
+        divContainer.appendChild(textNode)
+        document.getElementById('terminal').appendChild(divContainer)
+    } else {
+        console.log(message);
+        document.getElementById('terminal').innerHTML += '<p>' + message + '</p>';
+    }
+
 }
+
 
 /*
  *  Basic Chat functionality.
@@ -251,6 +297,8 @@ var currentConvo
 
 // Create a new conversation with another user.
 function createConvo() {
+    isChatHistory = false
+
     const participant = document.getElementById('convo-participant').value.toString().toLowerCase();
 
     // Pass in the SIP address of a user to create a conversation with them.
@@ -263,6 +311,8 @@ function createConvo() {
 
 // Create and send a message to the current conversation.
 function sendMessage() {
+    isChatHistory = false
+
     if (currentConvo) {
         var text = document.getElementById('message-text').value
 
@@ -289,3 +339,103 @@ function renderLatestMessage(convo) {
     var convoDiv = document.getElementById('convo-messages')
     convoDiv.innerHTML += '<div>' + text + '</div>'
 }
+
+function fetchConversations() {
+    isChatHistory = true
+
+    log('Fetching conversations...')
+    client.conversation.fetch()
+}
+
+// This is how we get user selecting aconversation
+
+function refreshConversationsList() {
+    const conversations = client.conversation.getAll()
+
+    // Remove whatever list items were displayed before
+    const listOfConversationsElement = document.getElementById('list_of_conversations_container')
+    listOfConversationsElement.innerHTML = ''
+
+    // Now populate the list with new content
+    if (conversations.length > 0) {
+        log('Got an update. There are now ' + conversations.length + ' conversations available.')
+        const selectElement = document.createElement('select')
+        selectElement.id = 'list_of_conversations'
+        selectElement.size = 4
+
+        log('Loading ...')
+        for (const conversation of conversations) {
+            const labelValue = 'Conversation (' + conversation.type + ') with ' + conversation.destination[0]
+
+            const optionElement = document.createElement('option')
+            // Use 'HTML entities' encoder/decoder to escape whatever value we supply to the <option> element
+            // This way we're not vulnerable to XSS injection attacks.
+            optionElement.value = escape(conversation.destination[0])
+            optionElement.label = labelValue
+
+            selectElement.appendChild(optionElement)
+        }
+
+        listOfConversationsElement.appendChild(selectElement)
+        listOfConversationsElement.appendChild(document.createElement('br'))
+    } else {
+        log('Got an update. No conversations available.')
+    }
+}
+
+function clearMessagesList() {
+    // Regardless of whether we now have any conversations left, we need to update the messages section in this tutorial.
+    const listOfMessagesElement = document.getElementById('list_of_messages')
+    if (listOfMessagesElement) {
+        // wipe any previous content displayed under div: list_of_messages
+        listOfMessagesElement.innerHTML = ''
+    }
+}
+
+function getSelectedConversation() {
+    const selectedConversationOption = document.getElementById('list_of_conversations').value
+    return client.conversation.get(selectedConversationOption, { type: client.conversation.chatTypes.ONETOONE })
+}
+
+function fetchMessages() {
+    isChatHistory = true
+
+    const conversation = getSelectedConversation()
+    if (!conversation) {
+        log('Error: Cannot fetch messages. First select a conversation.')
+        return
+    }
+    log('Fetching all messages for conversation with: ' + conversation.destination[0])
+    conversation.fetchMessages()
+}
+
+function refreshMessagesList() {
+    // wipe any previous content displayed under div: list_of_messages
+    const lisOfMessagesElement = document.getElementById('list_of_messages')
+    lisOfMessagesElement.innerHTML = ''
+
+    const convValue = document.getElementById('list_of_conversations').value
+    let messages
+    if (convValue) {
+        const conversation = client.conversation.get(convValue, { type: client.conversation.chatTypes.ONETOONE })
+        messages = conversation.getMessages()
+    }
+
+    // Now populate the list with new content
+    if (messages && messages.length > 0) {
+        log('Got an update. There are now ' + messages.length + ' messages available.')
+        let index = 1
+        for (const message of messages) {
+            lisOfMessagesElement.appendChild(document.createTextNode(index + ': Msg ID: '))
+            const boldText = document.createElement('b')
+            boldText.innerHTML = message.messageId
+            lisOfMessagesElement.appendChild(boldText)
+            lisOfMessagesElement.appendChild(document.createTextNode(' whose content is: ' + message.parts[0].text))
+            lisOfMessagesElement.appendChild(document.createElement('br'))
+            index++
+        }
+    } else {
+        log('Got an update. No messages available (for currently selected conversation).')
+    }
+}
+
